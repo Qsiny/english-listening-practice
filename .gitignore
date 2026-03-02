@@ -5,6 +5,9 @@ client/.env
 *.env
 *.env.*
 
+#.upload files
+server/uploads/**
+
 # dependencies
 **/node_modules/
 **/.pnpm-store/
