@@ -1,0 +1,39 @@
+# .env files
+.env
+server/.env
+client/.env
+*.env
+*.env.*
+
+# dependencies
+**/node_modules/
+**/.pnpm-store/
+**/.yarn/
+**/.pnp.*
+**/.npm/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# build outputs
+**/dist/
+**/build/
+**/.output/
+**/.nuxt/
+**/.next/
+**/.cache/
+**/.vite/
+
+# local / OS
+.DS_Store
+.DS_Store?
+**/.DS_Store
+
+# editor
+.vscode/
+.idea/
+*.swp
