@@ -15,7 +15,7 @@ export const usePracticeStore = defineStore('practice', () => {
   const currentWordIndex = ref(0)
 
   // per-sentence word states: 'pending' | 'correct' | 'wrong'
-  const wordStates = ref([]) // e.g. [[...],[...]]
+  const wordStates = ref([])   // e.g. [[...],[...]]
   const lastAttempt = ref('') // 当前输入框最后一次提交的内容（用于显示/调试）
   const lastResult = ref(null) // { ok: boolean, expected, actual }
   const revealText = ref(false)
@@ -165,6 +165,28 @@ export const usePracticeStore = defineStore('practice', () => {
     wordStates.value[sentenceIndex] = (s.words || []).map(() => 'pending')
   }
 
+  function setWordIndex(i) {
+    const len = currentWords.value.length
+    if (!len) return
+    const next = Math.min(Math.max(i, 0), len - 1)
+    currentWordIndex.value = next
+    lastAttempt.value = ''
+    lastResult.value = null
+  }
+
+  function prevWord() {
+    setWordIndex(currentWordIndex.value - 1)
+  }
+
+  function nextWord() {
+    setWordIndex(currentWordIndex.value + 1)
+  }
+
+  function clearLastResult() {
+    lastAttempt.value = ''
+    lastResult.value = null
+  }
+
   return {
     sentences,
     currentSentenceIndex,
@@ -192,5 +214,10 @@ export const usePracticeStore = defineStore('practice', () => {
     prevSentence,
     submitWord,
     markAllPendingForSentence,
+    setWordIndex,
+    prevWord,
+    nextWord,
+
+    clearLastResult,
   }
 })

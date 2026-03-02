@@ -1,87 +1,58 @@
 <template>
   <div class="app">
-    <header class="header">
-      <h1>英语听力拼写练习</h1>
-      <p class="sub">上传音频 → 转写与断句 → 逐词拼写练习</p>
-    </header>
+    <!-- 上传页 -->
+    <div v-if="mode === 'upload'" class="uploadPage">
+      <header class="header">
+        <h1>英语听力拼写练习</h1>
+        <p class="sub">上传音频 → 转写与断句 → 听写</p>
+      </header>
 
-    <main class="main">
-      <AudioUploader />
+      <main class="main">
+        <AudioUploader />
+      </main>
+    </div>
 
-      <div v-if="practice.hasData" class="practice">
-        <div class="left">
-          <StatsPanel />
-
-          <div class="card">
-            <AudioPlayer ref="audioPlayerRef" />
-          </div>
-
-          <div class="card">
-            <div class="reveal-bar">
-              <div
-                class="reveal-chip"
-                @mouseenter="practice.setRevealText(true)"
-                @mouseleave="practice.setRevealText(false)"
-                title="鼠标悬停显示句子文本与当前目标词"
-              >
-                按住查看文本
-              </div>
-              <div class="reveal-state">
-                {{ practice.revealText ? '文本已显示' : '文本已隐藏' }}
-              </div>
-            </div>
-
-            <SentenceDisplay />
-            <SpellingInput />
-            <div class="nav">
-              <button class="btn" @click="practice.prevSentence" :disabled="practice.currentSentenceIndex === 0">
-                上一句 (↑)
-              </button>
-              <button
-                class="btn"
-                @click="practice.nextSentence"
-                :disabled="practice.currentSentenceIndex >= practice.sentences.length - 1"
-              >
-                下一句 (↓)
-              </button>
-              <button class="btn secondary" @click="practice.resetPractice()">清空练习</button>
-            </div>
-            <div class="kb-hint">
-              快捷键：Space 播放/暂停｜R 重播本句｜↑ 上一句｜↓ 下一句
-            </div>
-          </div>
-        </div>
-      </div>
-    </main>
+    <!-- 听写页（完全替换） -->
+    <div v-else class="dictationPage">
+      <AudioPlayer ref="audioPlayerRef" class="sr-only" />
+      <DictationPage @play-sentence="playSentence" @restart="restartToUpload" />
+    </div>
   </div>
 </template>
 
 <script setup>
-import { onBeforeUnmount, onMounted, ref, watch, nextTick } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref, watch, nextTick } from 'vue'
 import { usePracticeStore } from './stores/practiceStore'
 
 import AudioUploader from './components/AudioUploader.vue'
-import SentenceDisplay from './components/SentenceDisplay.vue'
-import SpellingInput from './components/SpellingInput.vue'
-import StatsPanel from './components/StatsPanel.vue'
 import AudioPlayer from './components/AudioPlayer.vue'
+import DictationPage from './pages/DictationPage.vue'
 
 const practice = usePracticeStore()
 const audioPlayerRef = ref(null)
 
-// ✅ 修复：仅在“自动切句”时播放下一句
+const mode = computed(() => (practice.hasData ? 'dictation' : 'upload'))
+
+function playSentence() {
+  audioPlayerRef.value?.playCurrentSentence?.()
+}
+
+function restartToUpload() {
+  practice.resetPractice()
+}
+
+// ✅ 仅在“自动切句”时播放下一句
 watch(
   () => practice.currentSentenceIndex,
   async (newIdx, oldIdx) => {
     if (!practice.hasData) return
     if (newIdx === oldIdx) return
 
-    // 只有上一句完成触发的自动切句才播放
-    const shouldAutoPlay = practice.consumeAutoAdvancedSentence()
+    const shouldAutoPlay = practice.consumeAutoAdvancedSentence?.() ? true : false
     if (!shouldAutoPlay) return
 
     await nextTick()
-    audioPlayerRef.value?.playCurrentSentence?.()
+    playSentence()
   }
 )
 
@@ -94,8 +65,11 @@ function isTypingTarget(el) {
 function onKeydown(e) {
   if (!practice.hasData) return
 
+  // 输入框内的 Space 交给 DictationPage 的 input 处理，这里不抢
   const typing = isTypingTarget(e.target)
+  if (typing) return
 
+  // 全局只保留切句和重播（按需）
   if (e.key === 'ArrowUp') {
     e.preventDefault()
     practice.prevSentence()
@@ -106,29 +80,15 @@ function onKeydown(e) {
     practice.nextSentence()
     return
   }
-
-  if (typing) return
-
-  if (e.code === 'Space') {
-    e.preventDefault()
-    audioPlayerRef.value?.togglePlay?.()
-    return
-  }
-
   if (e.key === 'r' || e.key === 'R') {
     e.preventDefault()
-    audioPlayerRef.value?.replayCurrentSentence?.()
+    playSentence()
     return
   }
 }
 
-onMounted(() => {
-  window.addEventListener('keydown', onKeydown)
-})
-
-onBeforeUnmount(() => {
-  window.removeEventListener('keydown', onKeydown)
-})
+onMounted(() => window.addEventListener('keydown', onKeydown))
+onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 </script>
 
 <style scoped>
@@ -138,102 +98,43 @@ onBeforeUnmount(() => {
   color: #111827;
 }
 
-.header {
+.uploadPage .header {
   padding: 24px 16px 8px;
   max-width: 980px;
   margin: 0 auto;
 }
 
-.header h1 {
+.uploadPage .header h1 {
   margin: 0;
   font-size: 22px;
 }
 
-.sub {
+.uploadPage .sub {
   margin: 8px 0 0;
   color: #6b7280;
   font-size: 14px;
 }
 
-.main {
+.uploadPage .main {
   max-width: 980px;
   margin: 0 auto;
   padding: 0 16px 24px;
 }
 
-.practice {
-  margin-top: 16px;
+/* 听写页全屏使用 */
+.dictationPage {
+  min-height: 100vh;
 }
 
-.left {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 12px;
-}
-
-.card {
-  background: #fff;
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  padding: 12px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
-}
-
-.nav {
-  display: flex;
-  gap: 8px;
-  margin-top: 12px;
-  flex-wrap: wrap;
-}
-
-.btn {
-  padding: 8px 12px;
-  border-radius: 10px;
-  border: 1px solid #e5e7eb;
-  background: #111827;
-  color: #fff;
-  cursor: pointer;
-}
-
-.btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.btn.secondary {
-  background: #fff;
-  color: #111827;
-}
-
-.kb-hint {
-  margin-top: 10px;
-  font-size: 12px;
-  color: #6b7280;
-}
-
-.reveal-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px;
-  margin-bottom: 10px;
-}
-
-.reveal-chip {
-  display: inline-flex;
-  align-items: center;
-  padding: 6px 10px;
-  border-radius: 999px;
-  border: 1px dashed #d1d5db;
-  background: #f9fafb;
-  color: #111827;
-  font-size: 12px;
-  user-select: none;
-  cursor: pointer;
-}
-
-.reveal-state {
-  font-size: 12px;
-  color: #6b7280;
+/* 隐藏 AudioPlayer，但保留其播放能力 */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
 }
 </style>
