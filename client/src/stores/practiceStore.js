@@ -147,15 +147,13 @@ export const usePracticeStore = defineStore('practice', () => {
     const sIdx = currentSentenceIndex.value
     const wIdx = currentWordIndex.value
 
-    if (wordStates.value[sIdx] && wordStates.value[sIdx][wIdx]) {
-      wordStates.value[sIdx][wIdx] = ok ? 'correct' : 'wrong'
-    } else if (wordStates.value[sIdx]) {
-      wordStates.value[sIdx][wIdx] = ok ? 'correct' : 'wrong'
-    }
+    // 这里不要用 “truthy” 判断，因为 'pending' 是 truthy，会误导；直接判是否存在数组即可
+    if (!wordStates.value[sIdx]) wordStates.value[sIdx] = []
+    wordStates.value[sIdx][wIdx] = ok ? 'correct' : 'wrong'
 
-    if (ok) {
-      moveToNextWord()
-    }
+    // ✅ 关键：无论对错都前进到下一词（错误仅通过红线表现）
+    moveToNextWord()
+
     return { ok, expected, actual }
   }
 

@@ -39,7 +39,7 @@
 
     <!-- 主内容 -->
     <main class="main">
-      <!-- 顶部条：增加一个打开侧边栏按钮 -->
+      <!-- 顶部条 -->
       <div class="top">
         <button class="sidebarToggle" @click="sidebarOpen = !sidebarOpen" title="句子列表">
           ☰
@@ -48,6 +48,9 @@
         <div class="meta">
           句子 {{ practice.currentSentenceIndex + 1 }} / {{ practice.sentences.length }}
         </div>
+
+        <!-- ✅ 重新开始按钮移到右上角 -->
+        <button class="restartBtn" @click="$emit('restart')" title="重新开始">↩</button>
       </div>
 
       <div class="page">
@@ -93,32 +96,29 @@
             </template>
           </div>
 
+          <!-- 正确提示 -->
           <div
             class="result"
-            v-if="practice.lastResult"
-            :class="{ ok: practice.lastResult.ok, bad: !practice.lastResult.ok }"
+            v-if="practice.lastResult?.ok"
+            :class="{ ok: true }"
           >
-            <span v-if="practice.lastResult.ok">✓ 正确</span>
-            <span v-else>✗ 错误</span>
+            ✓ 正确
           </div>
-        </div>
 
-        <div class="toolbar">
-          <button class="tool" @click="playSentence" title="播放本句">🔊</button>
+          <!-- ✅ 小喇叭和小眼睛放在正确提示下方 -->
+          <div class="toolbar">
+            <button class="tool" @click="playSentence" title="播放本句">🔊</button>
 
-          <button
-            class="tool ghost"
-            @mousedown.prevent="practice.setRevealText(true)"
-            @mouseup.prevent="practice.setRevealText(false)"
-            @mouseleave="practice.setRevealText(false)"
-            title="按住显示正确文本"
-          >
-            👁
-          </button>
-
-          <div class="spacer"></div>
-
-          <button class="tool ghost" @click="$emit('restart')">↩</button>
+            <button
+              class="tool ghost"
+              @mousedown.prevent="practice.setRevealText(true)"
+              @mouseup.prevent="practice.setRevealText(false)"
+              @mouseleave="practice.setRevealText(false)"
+              title="按住显示正确文本"
+            >
+              👁
+            </button>
+          </div>
         </div>
 
         <div class="tip">输入后按 <b>Space</b> 校验并跳到下一词</div>
@@ -180,6 +180,30 @@ function focusCurrent(selectAll = false) {
       if (selectAll) el.select()
     })
   })
+}
+
+/**
+ * ✅ 切句/切词后更稳的聚焦：给 DOM/time 一点时间把 ref 挂上
+ * @param {object} opts
+ * @param {boolean} opts.selectAll
+ * @param {number} opts.retries
+ */
+async function focusCurrentWithRetry({ selectAll = false, retries = 12 } = {}) {
+  // 先等渲染
+  await nextTick()
+  await nextTick()
+
+  for (let i = 0; i < retries; i++) {
+    const el = activeInputEl.value
+    if (el && typeof el.focus === 'function') {
+      el.focus()
+      if (selectAll && typeof el.select === 'function') el.select()
+      return true
+    }
+    // 下一帧再试（比 setTimeout 更贴近渲染节奏）
+    await new Promise((r) => requestAnimationFrame(r))
+  }
+  return false
 }
 
 // ── 纯标点过滤 ──
@@ -294,18 +318,28 @@ function playSentence() {
 async function submitBySpace() {
   if (!text.value.trim()) return
 
+  // 记录用户输入（用于回显历史词）
   typedByRealIndex[practice.currentWordIndex] = text.value
 
-  const r = practice.submitWord(text.value)
+  // 记住提交前的句子索引，用于判断是否切句了
+  const prevSentenceIdx = practice.currentSentenceIndex
 
-  if (r.ok) {
-    text.value = ''
+  // 提交并让 store 更新状态 + 前进
+  practice.submitWord(text.value)
+
+  // 清空当前输入框内容
+  text.value = ''
+
+  // 若正在"显示答案"，强制关闭
+  practice.setRevealText?.(false)
+
+  // ✅ 如果句子没切换（还在同一句），才在这里做跳标点+聚焦
+  //    如果句子切换了，交给 watch(currentSentenceIndex) 统一处理
+  if (practice.currentSentenceIndex === prevSentenceIdx) {
+    await nextTick()
     autoSkipPunctuation()
     await nextTick()
     focusCurrent()
-  } else {
-    await nextTick()
-    focusCurrent(true)
   }
 }
 
@@ -315,21 +349,39 @@ function onKeydown(e) {
     submitBySpace()
     return
   }
+  // ✅ 已删除左右键切换逻辑的话，这里保持空即可
 }
 
 // ── watchers ──
 watch(
   () => practice.currentSentenceIndex,
-  () => {
+  async () => {
+    // 清理本句缓存
     for (const k of Object.keys(typedByRealIndex)) delete typedByRealIndex[k]
     text.value = ''
-    nextTick(() => {
-      autoSkipPunctuation()
-      focusCurrent()
-    })
+
+    // 确保有可聚焦的 input
+    practice.setRevealText?.(false)
+
+    // 强制从第一个词开始
+    practice.setWordIndex?.(0)
+
+    await nextTick()
+    autoSkipPunctuation()
+    await nextTick()
+
+    // ✅ 如果是"完成上一句最后一个词"自动切过来的，播放新句子音频
+    if (practice.autoAdvancedSentence) {
+      practice.consumeAutoAdvancedSentence?.()
+      emit('play-sentence')
+    }
+
+    // ✅ 用可重试聚焦，确保新句子的 input 已挂载后再 focus
+    await focusCurrentWithRetry({ selectAll: false })
   }
 )
 
+// 这个 watch 可以保留原逻辑（切词时一般没那么极端）
 watch(
   () => practice.currentWordIndex,
   () => {
@@ -338,11 +390,11 @@ watch(
   }
 )
 
-onMounted(() => {
-  // 小屏默认收起
-  if (window.innerWidth <= 900) sidebarOpen.value = false
+onMounted(async () => {
+  await nextTick()
   autoSkipPunctuation()
-  focusCurrent()
+  await nextTick()
+  await focusCurrentWithRetry({ selectAll: false })
 })
 </script>
 
@@ -400,7 +452,6 @@ onMounted(() => {
   font-size: 12px;
 }
 
-/* 句子列表：用网格，更稳定；展开时显示两列 */
 .sidebarBody {
   padding: 10px;
   overflow: auto;
@@ -411,7 +462,6 @@ onMounted(() => {
   box-sizing: border-box;
 }
 
-/* 句子按钮：做成正方形/圆角块，只显示数字，避免内外层边框“挤压重叠” */
 .sentenceItem {
   width: 100%;
   height: 44px;
@@ -420,12 +470,9 @@ onMounted(() => {
   border: 1px solid #eef2f7;
   background: #fff;
   cursor: pointer;
-
   display: grid;
   place-items: center;
   box-sizing: border-box;
-
-  /* 去掉默认按钮样式差异（Safari 上尤其明显） */
   appearance: none;
   -webkit-appearance: none;
 }
@@ -435,7 +482,6 @@ onMounted(() => {
   background: #f3f4f6;
 }
 
-/* 数字徽标：不要再用额外 margin，避免收起时与按钮边框重叠 */
 .sentenceIndex {
   width: 30px;
   height: 30px;
@@ -465,36 +511,55 @@ onMounted(() => {
   min-width: 0;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
-/* 顶部：加一个 toggle */
+/* ✅ 顶部：三列网格布局（左按钮 / 中间标题 / 右按钮） */
 .top {
   width: 100%;
-  display: flex;
+  display: grid;
+  grid-template-columns: 44px 1fr 44px;
   align-items: center;
-  gap: 10px;
   padding: 14px 16px 0 16px;
-  justify-content: center;
+  box-sizing: border-box;
 }
 
 .sidebarToggle {
-  position: absolute;
-  left: 14px;
-  top: 14px;
   width: 40px;
   height: 40px;
   border-radius: 12px;
   border: 1px solid #e5e7eb;
   background: #fff;
   cursor: pointer;
+  font-size: 18px;
+  justify-self: start;
 }
 
 .meta {
   font-size: 12px;
   color: #6b7280;
+  justify-self: center;
 }
 
-/* 你的原 page 内容容器稍微调整到 main 内 */
+/* ✅ 重新开始按钮：右上角 */
+.restartBtn {
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background: #fff;
+  color: #111827;
+  cursor: pointer;
+  font-size: 18px;
+  justify-self: end;
+  display: grid;
+  place-items: center;
+}
+
+.restartBtn:hover {
+  background: #f3f4f6;
+}
+
 .page {
   min-height: calc(100vh - 54px);
   display: flex;
@@ -523,7 +588,6 @@ onMounted(() => {
   padding: 10px 6px;
 }
 
-/* ====== 你原来的样式（基本不动） ====== */
 .blankWrap {
   display: inline-flex;
   flex-direction: column;
@@ -608,19 +672,14 @@ onMounted(() => {
 .result.ok {
   color: #16a34a;
 }
-.result.bad {
-  color: #dc2626;
-}
 
+/* ✅ 工具栏：紧跟在 result 下方，居中排列 */
 .toolbar {
-  width: 100%;
-  max-width: 980px;
   display: flex;
   gap: 10px;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-  padding: 12px 0;
+  padding: 6px 0;
 }
 
 .tool {
@@ -644,17 +703,13 @@ onMounted(() => {
   cursor: not-allowed;
 }
 
-.spacer {
-  width: 18px;
-}
-
 .tip {
   margin-top: 6px;
   font-size: 12px;
   color: #6b7280;
 }
 
-/* ====== 响应式：小屏侧边栏变抽屉，可收起 ====== */
+/* ====== 响应式 ====== */
 @media (max-width: 900px) {
   .sidebar {
     position: fixed;
@@ -664,25 +719,14 @@ onMounted(() => {
     transform: translateX(-100%);
     width: 320px;
     flex-basis: 320px;
+    box-shadow: 0 10px 30px rgba(17, 24, 39, 0.18);
   }
 
   .sidebar.open {
     transform: translateX(0);
   }
-
-  .sidebarToggle {
-    position: fixed;
-    left: 12px;
-    top: 12px;
-    z-index: 10;
-  }
-
-  .top {
-    padding-top: 14px;
-  }
 }
 
-/* 桌面：允许“收起”成窄条（不占太多空间） */
 @media (min-width: 901px) {
   .sidebar:not(.open) {
     width: 64px;
@@ -702,13 +746,6 @@ onMounted(() => {
   .sidebar:not(.open) .collapseBtn {
     width: 44px;
     padding: 0;
-  }
-}
-
-/* 移动端抽屉：保持原逻辑，只补一个阴影便于分层 */
-@media (max-width: 900px) {
-  .sidebar {
-    box-shadow: 0 10px 30px rgba(17, 24, 39, 0.18);
   }
 }
 </style>
