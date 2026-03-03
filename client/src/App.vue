@@ -14,8 +14,16 @@
 
     <!-- 听写页（完全替换） -->
     <div v-else class="dictationPage">
-      <AudioPlayer ref="audioPlayerRef" class="sr-only" />
-      <DictationPage @play-sentence="playSentence" @restart="restartToUpload" />
+      <AudioPlayer ref="playerRef" />
+      <DictationPage
+        v-if="practice.hasData"
+        :is-playing="playerRef?.isPlaying ?? false"
+        :playback-rate="playerRef?.playbackRate ?? 1"
+        @play-sentence="playerRef?.playCurrentSentence()"
+        @pause-sentence="playerRef?.pauseSentence()"
+        @set-playback-rate="(r) => playerRef?.setPlaybackRate(r)"
+        @restart="handleRestart"
+      />
     </div>
   </div>
 </template>
@@ -29,12 +37,12 @@ import AudioPlayer from './components/AudioPlayer.vue'
 import DictationPage from './pages/DictationPage.vue'
 
 const practice = usePracticeStore()
-const audioPlayerRef = ref(null)
+const playerRef = ref(null)
 
 const mode = computed(() => (practice.hasData ? 'dictation' : 'upload'))
 
 function playSentence() {
-  audioPlayerRef.value?.playCurrentSentence?.()
+  playerRef.value?.playCurrentSentence?.()
 }
 
 function restartToUpload() {
@@ -136,5 +144,12 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0;
+}
+
+/* ✅ 播放中按钮高亮 */
+.tool.playing {
+  background: #dc2626;
+  border-color: #dc2626;
+  color: #fff;
 }
 </style>

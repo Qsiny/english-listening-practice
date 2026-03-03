@@ -1,38 +1,14 @@
 <template>
   <div class="player">
-    <div class="title">音频播放器</div>
-
-    <div v-if="!audio.audioUrl" class="empty">请先上传音频</div>
-
-    <div v-else class="controls">
-      <div class="btns">
-        <button class="btn" @click="togglePlay">
-          {{ isPlaying ? '暂停' : '播放' }}
-        </button>
-
-        <button class="btn secondary" @click="playCurrentSentence" :disabled="!canPlaySentence">
-          播放本句
-        </button>
-
-        <button class="btn secondary" @click="replayCurrentSentence" :disabled="!canPlaySentence">
-          重播本句
-        </button>
-      </div>
-
-      <div class="hint" v-if="canPlaySentence">
-        本句区间：{{ sentenceStart.toFixed(2) }}s - {{ sentenceEnd.toFixed(2) }}s
-      </div>
-
-      <audio
-        ref="audioEl"
-        :src="audio.audioUrl"
-        controls
-        preload="metadata"
-        class="audio"
-        @play="isPlaying = true"
-        @pause="isPlaying = false"
-      />
-    </div>
+    <audio
+      ref="audioEl"
+      :src="audio.audioUrl"
+      class="audio"
+      preload="auto"
+      @play="isPlaying = true"
+      @pause="isPlaying = false"
+      @ended="isPlaying = false"
+    />
   </div>
 </template>
 
@@ -47,6 +23,7 @@ const practice = usePracticeStore()
 const audioEl = ref(null)
 const isPlaying = ref(false)
 const sentenceMode = ref(false)
+const playbackRate = ref(1)
 
 const sentenceStart = computed(() => practice.currentSentence?.start ?? 0)
 const sentenceEnd = computed(() => practice.currentSentence?.end ?? 0)
@@ -62,11 +39,25 @@ function ensureAudio() {
   return el
 }
 
+function applyRate() {
+  const el = audioEl.value
+  if (el) el.playbackRate = playbackRate.value
+}
+
+function setPlaybackRate(rate) {
+  playbackRate.value = rate
+  applyRate()
+}
+
 function togglePlay() {
   const el = ensureAudio()
   sentenceMode.value = false
-  if (el.paused) el.play()
-  else el.pause()
+  if (el.paused) {
+    applyRate()
+    el.play()
+  } else {
+    el.pause()
+  }
 }
 
 function playCurrentSentence() {
@@ -74,11 +65,16 @@ function playCurrentSentence() {
   const el = ensureAudio()
   sentenceMode.value = true
   el.currentTime = Math.max(0, sentenceStart.value)
+  applyRate()
   el.play()
 }
 
-function replayCurrentSentence() {
-  playCurrentSentence()
+function pauseSentence() {
+  const el = audioEl.value
+  if (!el) return
+  if (!el.paused) {
+    el.pause()
+  }
 }
 
 function onTimeUpdate() {
@@ -88,18 +84,27 @@ function onTimeUpdate() {
   if (el.currentTime >= sentenceEnd.value) {
     el.pause()
     sentenceMode.value = false
+    isPlaying.value = false
   }
 }
 
 watch(audioEl, (el, oldEl) => {
   if (oldEl) oldEl.removeEventListener('timeupdate', onTimeUpdate)
-  if (el) el.addEventListener('timeupdate', onTimeUpdate)
+  if (el) {
+    el.addEventListener('timeupdate', onTimeUpdate)
+    applyRate()
+  }
 })
 
 watch(
   () => practice.currentSentenceIndex,
   () => {
+    const el = audioEl.value
+    if (el && !el.paused) {
+      el.pause()
+    }
     sentenceMode.value = false
+    isPlaying.value = false
   }
 )
 
@@ -111,58 +116,15 @@ onBeforeUnmount(() => {
 defineExpose({
   togglePlay,
   playCurrentSentence,
-  replayCurrentSentence,
+  pauseSentence,
+  isPlaying,
+  playbackRate,
+  setPlaybackRate,
 })
 </script>
 
 <style scoped>
-.player .title {
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-
-.empty {
-  color: #6b7280;
-  font-size: 14px;
-}
-
-.controls {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.btns {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-
-.btn {
-  padding: 8px 12px;
-  border-radius: 10px;
-  border: 1px solid #e5e7eb;
-  background: #111827;
-  color: #fff;
-  cursor: pointer;
-}
-
-.btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.btn.secondary {
-  background: #fff;
-  color: #111827;
-}
-
-.hint {
-  font-size: 12px;
-  color: #6b7280;
-}
-
-.audio {
-  width: 100%;
+.player {
+  display: none;
 }
 </style>

@@ -49,8 +49,34 @@
           句子 {{ practice.currentSentenceIndex + 1 }} / {{ practice.sentences.length }}
         </div>
 
-        <!-- ✅ 重新开始按钮移到右上角 -->
-        <button class="restartBtn" @click="$emit('restart')" title="重新开始">↩</button>
+        <!-- ✅ 右上角：倍速按钮 + 重新开始按钮 -->
+        <div class="topRight">
+          <div class="rateWrap">
+            <button
+              class="rateBtn"
+              @click="showRateMenu = !showRateMenu"
+              @dblclick.prevent="cycleRate"
+              title="点击展开倍速菜单，双击快速切换"
+            >
+              {{ formatRate(playbackRate) }}
+            </button>
+
+            <!-- 倍速下拉菜单 -->
+            <div v-if="showRateMenu" class="rateMenu">
+              <button
+                v-for="r in rateOptions"
+                :key="r"
+                class="rateOption"
+                :class="{ active: r === playbackRate }"
+                @click="pickRate(r)"
+              >
+                {{ formatRate(r) }}
+              </button>
+            </div>
+          </div>
+
+          <button class="restartBtn" @click="$emit('restart')" title="重新开始">↩</button>
+        </div>
       </div>
 
       <div class="page">
@@ -107,7 +133,18 @@
 
           <!-- ✅ 小喇叭和小眼睛放在正确提示下方 -->
           <div class="toolbar">
-            <button class="tool" @click="playSentence" title="播放本句">🔊</button>
+            <button class="tool" @click="playSentence" title="播放本句">
+              🔊
+            </button>
+
+            <button
+              class="tool"
+              :class="isPlaying ? 'playing' : 'ghost'"
+              @click="isPlaying ? pauseSentence() : playSentence()"
+              :title="isPlaying ? '暂停' : '继续播放'"
+            >
+              {{ isPlaying ? '⏸' : '▶' }}
+            </button>
 
             <button
               class="tool ghost"
@@ -124,6 +161,9 @@
         <div class="tip">输入后按 <b>Space</b> 校验并跳到下一词</div>
       </div>
     </main>
+
+    <!-- ✅ 点击空白关闭倍速菜单 -->
+    <div v-if="showRateMenu" class="rateOverlay" @click="showRateMenu = false" />
   </div>
 </template>
 
@@ -131,7 +171,18 @@
 import { computed, nextTick, onMounted, reactive, ref, watch } from 'vue'
 import { usePracticeStore } from '../stores/practiceStore'
 
-const emit = defineEmits(['play-sentence', 'restart'])
+const props = defineProps({
+  isPlaying: {
+    type: Boolean,
+    default: false,
+  },
+  playbackRate: {
+    type: Number,
+    default: 1,
+  },
+})
+
+const emit = defineEmits(['play-sentence', 'pause-sentence', 'set-playback-rate', 'restart'])
 const practice = usePracticeStore()
 
 // 侧边栏状态
@@ -314,6 +365,10 @@ function playSentence() {
   emit('play-sentence')
 }
 
+function pauseSentence() {
+  emit('pause-sentence')
+}
+
 // ── 输入 & Space 校验 ──
 async function submitBySpace() {
   if (!text.value.trim()) return
@@ -396,6 +451,25 @@ onMounted(async () => {
   await nextTick()
   await focusCurrentWithRetry({ selectAll: false })
 })
+
+// ── 倍速相关 ──
+const rateOptions = [0.5, 0.75, 1, 1.25, 1.5, 2]
+const showRateMenu = ref(false)
+
+function cycleRate() {
+  const idx = rateOptions.indexOf(props.playbackRate)
+  const next = idx === -1 ? 1 : rateOptions[(idx + 1) % rateOptions.length]
+  emit('set-playback-rate', next)
+}
+
+function pickRate(rate) {
+  emit('set-playback-rate', rate)
+  showRateMenu.value = false
+}
+
+function formatRate(rate) {
+  return rate === 1 ? '1x' : `${rate}x`
+}
 </script>
 
 <style scoped>
@@ -518,7 +592,7 @@ onMounted(async () => {
 .top {
   width: 100%;
   display: grid;
-  grid-template-columns: 44px 1fr 44px;
+  grid-template-columns: 44px 1fr auto;
   align-items: center;
   padding: 14px 16px 0 16px;
   box-sizing: border-box;
@@ -541,7 +615,84 @@ onMounted(async () => {
   justify-self: center;
 }
 
-/* ✅ 重新开始按钮：右上角 */
+/* ✅ 右上角按钮组 */
+.topRight {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-self: end;
+}
+
+/* ✅ 倍速按钮 */
+.rateWrap {
+  position: relative;
+}
+
+.rateBtn {
+  height: 40px;
+  min-width: 52px;
+  padding: 0 12px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background: #fff;
+  color: #111827;
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+
+.rateBtn:hover {
+  background: #f3f4f6;
+}
+
+/* ✅ 倍速下拉菜单 */
+.rateMenu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  z-index: 60;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  box-shadow: 0 8px 24px rgba(17, 24, 39, 0.12);
+  min-width: 80px;
+}
+
+.rateOption {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 10px;
+  background: transparent;
+  color: #374151;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  text-align: center;
+}
+
+.rateOption:hover {
+  background: #f3f4f6;
+}
+
+.rateOption.active {
+  background: #111827;
+  color: #fff;
+}
+
+/* ✅ 点击空白关闭菜单的透明遮罩 */
+.rateOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 55;
+}
+
+/* 重新开始按钮 */
 .restartBtn {
   width: 40px;
   height: 40px;
@@ -551,7 +702,6 @@ onMounted(async () => {
   color: #111827;
   cursor: pointer;
   font-size: 18px;
-  justify-self: end;
   display: grid;
   place-items: center;
 }
@@ -707,6 +857,13 @@ onMounted(async () => {
   margin-top: 6px;
   font-size: 12px;
   color: #6b7280;
+}
+
+/* 播放中的暂停按钮高亮红色 */
+.tool.playing {
+  background: #dc2626;
+  border-color: #dc2626;
+  color: #fff;
 }
 
 /* ====== 响应式 ====== */
