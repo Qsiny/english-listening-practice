@@ -150,10 +150,11 @@ function parseDirectResult(data) {
         const words = [];
         if (Array.isArray(sentence.words)) {
           for (const w of sentence.words) {
-            const wordText = w.text || w.word || '';
-            if (wordText.trim()) {
+            const wordText = (w.text || w.word || '').trim();
+            if (wordText) {
               words.push({
                 word: wordText,
+                punctuation: w.punctuation ?? '',   // ✅ 保留标点字段供断句使用
                 start: (w.begin_time ?? w.start ?? 0) / 1000,
                 end: (w.end_time ?? w.end ?? 0) / 1000,
               });

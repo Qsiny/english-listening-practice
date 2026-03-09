@@ -171,6 +171,11 @@
 import { computed, nextTick, onMounted, reactive, ref, watch } from 'vue'
 import { usePracticeStore } from '../stores/practiceStore'
 
+// ── 延迟工具 ──
+function delay(ms) {
+  return new Promise((r) => setTimeout(r, ms))
+}
+
 const props = defineProps({
   isPlaying: {
     type: Boolean,
@@ -388,15 +393,32 @@ async function submitBySpace() {
   // 若正在"显示答案"，强制关闭
   practice.setRevealText?.(false)
 
-  // ✅ 如果句子没切换（还在同一句），才在这里做跳标点+聚焦
-  //    如果句子切换了，交给 watch(currentSentenceIndex) 统一处理
-  if (practice.currentSentenceIndex === prevSentenceIdx) {
+  // ✅ 若 store 标记了全句正确等待跳转，由 watch(pendingAutoAdvance) 统一处理，这里不操作
+  // ✅ 若句子没切换（还在同一句），才在这里做跳标点+聚焦
+  if (!practice.pendingAutoAdvance && practice.currentSentenceIndex === prevSentenceIdx) {
     await nextTick()
     autoSkipPunctuation()
     await nextTick()
     focusCurrent()
   }
 }
+
+// ✅ 监听"全句正确、等待跳转"：先展示所有词，暂停1秒，再跳转下一句
+watch(
+  () => practice.pendingAutoAdvance,
+  async (val) => {
+    if (!val) return
+
+    // 展示当前句所有词（让用户看到全句正确）
+    practice.setRevealText(true)
+
+    await delay(1000)
+
+    // 关闭展示，执行跳转（advanceToNextSentence 内部会重置 pendingAutoAdvance）
+    practice.setRevealText(false)
+    practice.advanceToNextSentence()
+  }
+)
 
 function onKeydown(e) {
   if (e.code === 'Space') {

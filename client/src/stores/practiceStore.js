@@ -20,8 +20,11 @@ export const usePracticeStore = defineStore('practice', () => {
   const lastResult = ref(null) // { ok: boolean, expected, actual }
   const revealText = ref(false)
 
-  // ✅ 新增：是否由“完成上一句最后一个词”触发了自动切句（一次性）
+  // ✅ 是否由"完成上一句最后一个词"触发了自动切句（一次性）
   const autoAdvancedSentence = ref(false)
+
+  // ✅ 当前句子所有词均正确、正在等待1秒后跳转的状态
+  const pendingAutoAdvance = ref(false)
 
   const hasData = computed(() => sentences.value.length > 0)
 
@@ -73,6 +76,15 @@ export const usePracticeStore = defineStore('practice', () => {
     return v
   }
 
+  /**
+   * 判断当前句子是否全部回答正确（跳过 pending 视为未完成）
+   */
+  function isSentenceAllCorrect(sIdx) {
+    const states = wordStates.value[sIdx]
+    if (!states || states.length === 0) return false
+    return states.every((s) => s === 'correct')
+  }
+
   function moveToNextWord() {
     const len = currentWords.value.length
 
@@ -84,12 +96,15 @@ export const usePracticeStore = defineStore('practice', () => {
       return
     }
 
-    // ✅ 当前句最后一个词完成后，自动进入下一句，并打标记
-    if (currentSentenceIndex.value < sentences.value.length - 1) {
-      currentSentenceIndex.value++
-      currentWordIndex.value = 0
-      autoAdvancedSentence.value = true
+    // 已经是最后一个词：检查整句是否全部正确
+    const sIdx = currentSentenceIndex.value
+    const allCorrect = isSentenceAllCorrect(sIdx)
+
+    if (allCorrect) {
+      // ✅ 全部正确：设置等待状态，由 DictationPage 负责延迟1秒后跳转
+      pendingAutoAdvance.value = true
     }
+    // 有错误：停留在当前句末尾，不跳转
   }
 
   function setSentences(data) {
@@ -101,6 +116,7 @@ export const usePracticeStore = defineStore('practice', () => {
     lastResult.value = null
     revealText.value = false
     autoAdvancedSentence.value = false
+    pendingAutoAdvance.value = false
   }
 
   function resetPractice() {
@@ -113,11 +129,24 @@ export const usePracticeStore = defineStore('practice', () => {
 
     // 手动切句不触发自动播放
     autoAdvancedSentence.value = false
+    pendingAutoAdvance.value = false
 
     currentSentenceIndex.value = next
     currentWordIndex.value = 0
     lastAttempt.value = ''
     lastResult.value = null
+  }
+
+  /**
+   * 由 DictationPage 在延迟1秒后调用：真正执行切到下一句
+   */
+  function advanceToNextSentence() {
+    pendingAutoAdvance.value = false
+    if (currentSentenceIndex.value < sentences.value.length - 1) {
+      currentSentenceIndex.value++
+      currentWordIndex.value = 0
+      autoAdvancedSentence.value = true
+    }
   }
 
   function nextSentence() {
@@ -147,11 +176,10 @@ export const usePracticeStore = defineStore('practice', () => {
     const sIdx = currentSentenceIndex.value
     const wIdx = currentWordIndex.value
 
-    // 这里不要用 “truthy” 判断，因为 'pending' 是 truthy，会误导；直接判是否存在数组即可
     if (!wordStates.value[sIdx]) wordStates.value[sIdx] = []
     wordStates.value[sIdx][wIdx] = ok ? 'correct' : 'wrong'
 
-    // ✅ 关键：无论对错都前进到下一词（错误仅通过红线表现）
+    // 前进到下一词（或触发末句逻辑）
     moveToNextWord()
 
     return { ok, expected, actual }
@@ -197,6 +225,8 @@ export const usePracticeStore = defineStore('practice', () => {
 
     autoAdvancedSentence,
     consumeAutoAdvancedSentence,
+    pendingAutoAdvance,
+    advanceToNextSentence,
 
     hasData,
     currentSentence,
