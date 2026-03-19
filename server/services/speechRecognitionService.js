@@ -129,7 +129,7 @@ async function fetchTranscriptionDetail(url) {
     throw new Error(`获取转写详情失败: ${err}`);
   }
   const data = await response.json();
-  return parseDirectResult(data);
+  return { rawJson: data, parsed: parseDirectResult(data) };
 }
 
 /**
@@ -217,7 +217,7 @@ export async function transcribe(filePath) {
     if (parsed.needFetch && parsed.transcriptionUrl) {
       return await fetchTranscriptionDetail(parsed.transcriptionUrl);
     }
-    return parsed;
+    return { rawJson: null, parsed };
   } finally {
     // 可选：转写完成后删除 OSS 对象
     const SHOULD_DELETE = process.env.OSS_DELETE_AFTER_TRANSCRIBE === 'true';

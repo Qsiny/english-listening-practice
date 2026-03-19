@@ -11,11 +11,17 @@ export const useAudioStore = defineStore('audio', () => {
     audioUrl.value = URL.createObjectURL(file)
   }
 
+  function setAudioUrl(url) {
+    if (audioUrl.value && audioFile.value) URL.revokeObjectURL(audioUrl.value)
+    audioFile.value = null
+    audioUrl.value = url
+  }
+
   function reset() {
-    if (audioUrl.value) URL.revokeObjectURL(audioUrl.value)
+    if (audioUrl.value && audioFile.value) URL.revokeObjectURL(audioUrl.value)
     audioFile.value = null
     audioUrl.value = ''
   }
 
-  return { audioFile, audioUrl, setAudioFile, reset }
+  return { audioFile, audioUrl, setAudioFile, setAudioUrl, reset }
 })

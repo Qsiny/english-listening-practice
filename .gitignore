@@ -8,6 +8,9 @@ client/.env
 #.upload files
 server/uploads/**
 
+# history cache
+server/history/**
+
 # dependencies
 **/node_modules/
 **/.pnpm-store/

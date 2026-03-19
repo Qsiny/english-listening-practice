@@ -35,10 +35,35 @@
       </div>
     </div>
   </div>
+
+  <div class="history">
+    <div class="history-header">
+      <h3>历史记录</h3>
+      <button class="btn-secondary" @click="loadHistory" :disabled="historyLoading">刷新</button>
+    </div>
+
+    <div v-if="historyLoading" class="history-hint">加载中...</div>
+    <div v-else-if="historyError" class="history-error">{{ historyError }}</div>
+    <div v-else-if="historyItems.length === 0" class="history-hint">暂无历史记录</div>
+
+    <ul v-else class="history-list">
+      <li v-for="item in historyItems" :key="item.id" class="history-item">
+        <div class="history-main" @click="openHistory(item)">
+          <div class="history-name">{{ item.originalname }}</div>
+          <div class="history-meta">
+            <span>{{ formatTime(item.uploadedAt) }}</span>
+            <span> · {{ item.sentenceCount }} 句</span>
+            <span> · {{ (item.size / 1024).toFixed(1) }} KB</span>
+          </div>
+        </div>
+        <button @click="openHistory(item)">开始练习</button>
+      </li>
+    </ul>
+  </div>
 </template>
 
 <script setup>
-import { ref, onUnmounted } from 'vue'
+import { ref, onMounted, onUnmounted } from 'vue'
 import { usePracticeStore } from '../stores/practiceStore'
 import { useAudioStore } from '../stores/audioStore'
 
@@ -54,6 +79,10 @@ const sentenceCount = ref(0)
 const statusText = ref('正在上传文件...')
 const elapsedTime = ref(0)
 let timer = null
+
+const historyItems = ref([])
+const historyLoading = ref(false)
+const historyError = ref('')
 
 function startTimer() {
   elapsedTime.value = 0
@@ -78,7 +107,44 @@ function stopTimer() {
   }
 }
 
+onMounted(() => loadHistory())
 onUnmounted(() => stopTimer())
+
+function formatTime(ts) {
+  if (!ts) return ''
+  const d = new Date(ts)
+  return d.toLocaleString()
+}
+
+async function loadHistory() {
+  historyLoading.value = true
+  historyError.value = ''
+  try {
+    const resp = await fetch('/api/history')
+    if (!resp.ok) throw new Error(`服务器返回 ${resp.status}`)
+    const json = await resp.json()
+    historyItems.value = json?.data || []
+  } catch (e) {
+    historyError.value = e?.message || '历史记录加载失败'
+  } finally {
+    historyLoading.value = false
+  }
+}
+
+async function openHistory(item) {
+  try {
+    const resp = await fetch(`/api/history/${encodeURIComponent(item.id)}`)
+    if (!resp.ok) {
+      const err = await resp.json().catch(() => ({}))
+      throw new Error(err.error || `服务器返回 ${resp.status}`)
+    }
+    const json = await resp.json()
+    practiceStore.setSentences(json.data.sentences)
+    audioStore.setAudioUrl(json.data.audioUrl)
+  } catch (e) {
+    errorMsg.value = e?.message || '打开历史失败'
+  }
+}
 
 function handleFileSelect(event) {
   const file = event.target.files[0]
@@ -144,6 +210,7 @@ function reset() {
   statusText.value = '正在上传文件...'
   elapsedTime.value = 0
   if (fileInput.value) fileInput.value.value = ''
+  loadHistory()
 }
 </script>
 
@@ -225,5 +292,64 @@ button:hover {
 
 .btn-secondary:hover {
   background: #a6a9ad;
+}
+
+.history {
+  margin-top: 24px;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 16px;
+  background: white;
+}
+
+.history-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.history-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px;
+  border-top: 1px solid #f1f1f1;
+}
+
+.history-item:first-child {
+  border-top: none;
+}
+
+.history-main {
+  flex: 1;
+  cursor: pointer;
+}
+
+.history-name {
+  font-weight: 600;
+}
+
+.history-meta {
+  color: #888;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.history-hint {
+  color: #999;
+  font-size: 13px;
+}
+
+.history-error {
+  color: #f56c6c;
+  font-size: 13px;
 }
 </style>
