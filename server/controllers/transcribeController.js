@@ -9,23 +9,101 @@ import {
     upsertIndexItem,
 } from '../services/historyService.js';
 
+function stripWordPunctuation(word) {
+    return (word ?? '')
+        .toString()
+        .trim()
+        .replace(/^[^\w']+/u, '')
+        .replace(/[^\w']+$/u, '');
+}
+
+function isPeriodPunctuation(punctuation) {
+    return /[。.]/u.test(punctuation ?? '');
+}
+
+function buildSentenceFromWordObjects(wordObjs, fallbackStart, fallbackEnd) {
+    const words = wordObjs
+        .map((w) => stripWordPunctuation(w.word))
+        .filter(Boolean);
+
+    const text = wordObjs
+        .map((w) => `${(w.word ?? '').trim()}${w.punctuation ?? ''}`.trim())
+        .filter(Boolean)
+        .join(' ')
+        .trim();
+
+    const first = wordObjs[0];
+    const last = wordObjs[wordObjs.length - 1];
+    const start = Number.isFinite(first?.start) ? first.start : fallbackStart;
+    const end = Number.isFinite(last?.end) ? last.end : fallbackEnd;
+
+    return { text, start, end, words };
+}
+
+function splitSegmentByPeriod(segment) {
+    const text = (segment?.text ?? '').trim();
+    const start = Number.isFinite(segment?.start) ? segment.start : 0;
+    const end = Number.isFinite(segment?.end) ? segment.end : start;
+
+    const rawWords = Array.isArray(segment?.words) ? segment.words : [];
+    if (rawWords.length === 0) {
+        const parts = text
+            .split(/(?<=[。.])/u)
+            .map((part) => part.trim())
+            .filter(Boolean);
+
+        const sourceParts = parts.length > 0 ? parts : [text].filter(Boolean);
+        if (sourceParts.length === 0) return [];
+
+        const duration = Math.max(0, end - start);
+        const partDuration = sourceParts.length > 0 ? duration / sourceParts.length : 0;
+
+        return sourceParts.map((part, idx) => {
+            const sentenceStart = start + partDuration * idx;
+            const sentenceEnd = idx === sourceParts.length - 1 ? end : start + partDuration * (idx + 1);
+            return {
+                text: part,
+                start: sentenceStart,
+                end: sentenceEnd,
+                words: part.split(/\s+/).map(stripWordPunctuation).filter(Boolean),
+            };
+        });
+    }
+
+    const normalizedWords = rawWords
+        .map((word) => ({
+            word: (word?.word ?? '').trim(),
+            punctuation: word?.punctuation ?? '',
+            start: Number.isFinite(word?.start) ? word.start : start,
+            end: Number.isFinite(word?.end) ? word.end : start,
+        }))
+        .filter((word) => word.word.length > 0);
+
+    if (normalizedWords.length === 0) return [];
+
+    const result = [];
+    let buffer = [];
+
+    for (const word of normalizedWords) {
+        buffer.push(word);
+        const wordEndsWithPeriod = /[。.]/u.test(word.word);
+        if (isPeriodPunctuation(word.punctuation) || wordEndsWithPeriod) {
+            result.push(buildSentenceFromWordObjects(buffer, start, end));
+            buffer = [];
+        }
+    }
+
+    if (buffer.length > 0) {
+        result.push(buildSentenceFromWordObjects(buffer, start, end));
+    }
+
+    return result;
+}
+
 function toPracticeSentences(transcription) {
     const segments = Array.isArray(transcription?.segments) ? transcription.segments : [];
-
     return segments
-        .map((segment) => {
-            const text = (segment?.text ?? '').trim();
-            const words = Array.isArray(segment?.words) && segment.words.length > 0
-                ? segment.words
-                    .map((word) => (word?.word ?? '').trim())
-                    .filter(Boolean)
-                : text.split(/\s+/).filter(Boolean);
-
-            const start = Number.isFinite(segment?.start) ? segment.start : 0;
-            const end = Number.isFinite(segment?.end) ? segment.end : start;
-
-            return { text, start, end, words };
-        })
+        .flatMap((segment) => splitSegmentByPeriod(segment))
         .filter((sentence) => sentence.text || sentence.words.length > 0);
 }
 
@@ -52,7 +130,7 @@ export async function transcribeAudio(req, res) {
         // 调用语音识别（这是异步的，可能需要几十秒）
         const { parsed: transcription, rawJson } = await transcribe(filePath);
 
-        // 直接使用远程语音识别返回的句子，不做本地二次切分
+        // 基于远程语音识别返回结果，仅按句号做轻量切分
         const sentences = toPracticeSentences(transcription);
 
         // 写入历史缓存（音频+转写原文+派生练习数据+索引）
