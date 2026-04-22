@@ -1,0 +1,10 @@
+{
+  "name": "english-listening-practice-workspace",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-all.mjs",
+    "dev:server": "npm start --prefix server",
+    "dev:client": "npm run dev --prefix client"
+  }
+}
