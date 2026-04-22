@@ -20,6 +20,7 @@
         :is-playing="playerRef?.isPlaying ?? false"
         :playback-rate="playerRef?.playbackRate ?? 1"
         @play-sentence="playerRef?.playCurrentSentence()"
+        @toggle-sentence-playback="playerRef?.toggleCurrentSentencePlayback()"
         @pause-sentence="playerRef?.pauseSentence()"
         @set-playback-rate="(r) => playerRef?.setPlaybackRate(r)"
         @restart="handleRestart"
@@ -70,8 +71,41 @@ function isTypingTarget(el) {
   return tag === 'input' || tag === 'textarea' || el.isContentEditable
 }
 
+function isMacPlatform() {
+  if (typeof navigator === 'undefined') return false
+  return /Mac|iPhone|iPad|iPod/i.test(navigator.platform || navigator.userAgent || '')
+}
+
+function isReplayShortcut(e) {
+  return (
+    isMacPlatform() &&
+    e.ctrlKey &&
+    !e.metaKey &&
+    !e.altKey &&
+    (e.key === 'r' || e.key === 'R')
+  )
+}
+
+function isToggleSentenceShortcut(e) {
+  return !e.metaKey && !e.ctrlKey && !e.altKey && e.key === 'Enter'
+}
+
 function onKeydown(e) {
   if (!practice.hasData) return
+
+  // mac: Control + R 重播本句（输入中也可用）
+  if (isReplayShortcut(e)) {
+    e.preventDefault()
+    playSentence()
+    return
+  }
+
+  // Enter：播放/暂停本句（输入中也可用）
+  if (isToggleSentenceShortcut(e)) {
+    e.preventDefault()
+    playerRef.value?.toggleCurrentSentencePlayback?.()
+    return
+  }
 
   // 输入框内的 Space 交给 DictationPage 的 input 处理，这里不抢
   const typing = isTypingTarget(e.target)
@@ -86,11 +120,6 @@ function onKeydown(e) {
   if (e.key === 'ArrowDown') {
     e.preventDefault()
     practice.nextSentence()
-    return
-  }
-  if (e.key === 'r' || e.key === 'R') {
-    e.preventDefault()
-    playSentence()
     return
   }
 }

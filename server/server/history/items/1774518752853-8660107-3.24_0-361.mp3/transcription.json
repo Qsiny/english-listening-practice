@@ -1,0 +1,6551 @@
+{
+  "file_url": "https://voices1.oss-cn-shenzhen.aliyuncs.com/english-listening-practice/audio/1774518752856-118365697-1774518752835-333933676-3.24_0-361.mp3",
+  "audio_info": {
+    "format": "mp3",
+    "sample_rate": 44100
+  },
+  "transcripts": [
+    {
+      "channel_id": 0,
+      "text": "Hello, this is Six Minute English from BBC Learning English. I'm Neil. And I'm Georgie. Neil, have you ever ridden a horse? Yes, I have. I can't say that I enjoyed it much. I was a bit scared, to be honest. How about you? I used to ride horses a lot, actually. My favourite thing was to ride a horse through the countryside. I love horses, they're so majestic and lovely.The relationship between humans and horses has been close throughout history. But recently, this has gone beyond riding horses for fun or using them for work. Equine assisted services, sometimes called horse therapy, is a health trend where caring and interacting with horses is used to heal physical and mental illness. Here's Dachiyanee Navaneelagga, presenter of BBC World Service programme The Conversation, to explain.Equine assisted services is now an umbrella term which encompasses a whole range of treatments involving activities and interactions with horses to promote better human wellbeing. Equine assisted services is an umbrella term a term for a large number of different things which all belong to a single common category. So horse therapy includes many activities, from feeling the horse's movement, which can help children with muscle disorders like cerebral palsy, to simply grooming the horse, which can help calm anxiety. Grooming a horse means cleaning and brushing the horse's coat of hair.Various animals can be used in therapy, but horses are particularly suitable as they're very sensitive to human emotions. Being in contact with them affects the limbic area of the brain dealing with stress. In this episode, we'll hear more about the horses helping people work through mental, emotional and physical challenges, and as usual, we'll learn some useful new vocabulary.And remember, you'll find all the words and phrases from this episode on our website, BBC Learning English dot com. But now I have a question for you, Neil. We've heard some of the special qualities horses possess, but which of the following about horses is also true? Is it A Horses always sleep standing up? B.B Horses can make over one hundred sounds, or C Horses have almost three hundred and sixty degree vision. Well, I am sure I've seen a horse lying down, so I don't know about its vision though. So I am going to say B A horse can make over one hundred sounds. Okay, well we'll find out the answer later in the programme. Horse therapist Claudia Nicholson first felt the healing power of horses as a child. She now runs her own centre for equine assisted learning in the south of England, where she spoke with BBC World Service programme The Conversation.I would spend hours on end sitting in a stable with my pony. I was going through puberty, my parents had separated, I had a lot of unanswered questions, and I would feel met and safe and held with the connection of the pony.As a child, Claudia spent hours on end with her pony. Phrases like 'days or hours on end' mean days or hours doing something continuously without stopping. Spending time with her pony helped Claudia through puberty, the stage of life when a child grows into an adult because of changes in their body which allow them to have children. It was her teenage experiences that led Claudia to start her own horse therapy centre. She works a lot with teenage girls and children in care. A child in care is a child who's being looked after by the local authorities because they cannot be cared for by their parents or family. Here, Claudia talks more about her work with children and horses to BBC World Service's The Conversation.It would take maybe a few sessions for a relationship of trust to be formed, and it's quite extraordinary to see a child that's experienced a lot of trauma, especially these children in care. They can be brushing the pony's body; they might want to have a cry, which they've been holding on to. The horse regulates them.Many of the children Claudia works with suffer trauma. It takes time for them to build a bond of trust with their horse. The phrase 'bond of trust' is a strong feeling of reliance and confidence between two people. Horses really are special animals. They sense human feelings like fear or sadness through breath, heart rate and movement, and respond with gentleness and calm. This makes them perfect animal therapists. And that's not all, right Georgie? Let's find out the answer to your question. Yes.Yes, Neil. Well, I asked you which sentence about horses was true, and you said that horses can make over one hundred sounds. Sadly, that was the wrong answer. The correct answer was C: horses have near three hundred and sixty degree vision, which is surprising. Wow, that's amazing. Okay, let's recap the vocabulary we've learned. Starting with umbrella term, a term used to describe many different things which all belong to a single common category.Grooming an animal like a horse or a dog means brushing and cleaning its coat of hair. If you do something for hours on end, you do it continuously without stopping. Puberty is the stage of life when a child grows into an adult because of changes in their body which allow them to have children.A child who is in care is being looked after by the local authorities because they cannot be cared for by their parents. A child. And finally, a bond of trust is a strong feeling of reliance and confidence between two people. Once again, our six minutes are up, but remember you'll find a quiz and worksheet for this episode over on our website bbclearningenglish.com. See you there soon, but for now, it's goodbye. Goodbye.",
+      "sentences": [
+        {
+          "sentence_id": 0,
+          "begin_time": 240,
+          "end_time": 3600,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Hello, this is Six Minute English from BBC Learning English.",
+          "words": [
+            {
+              "begin_time": 240,
+              "end_time": 480,
+              "text": "Hello",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 560,
+              "end_time": 800,
+              "text": " this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 800,
+              "end_time": 880,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 880,
+              "end_time": 1280,
+              "text": "Six ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1280,
+              "end_time": 1440,
+              "text": "Minute ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1520,
+              "end_time": 1920,
+              "text": "English ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1920,
+              "end_time": 2240,
+              "text": "from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2240,
+              "end_time": 2880,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2880,
+              "end_time": 3280,
+              "text": "Learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 3280,
+              "end_time": 3600,
+              "text": "English",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 1,
+          "begin_time": 3680,
+          "end_time": 4240,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I'm Neil.",
+          "words": [
+            {
+              "begin_time": 3680,
+              "end_time": 3920,
+              "text": " I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 3920,
+              "end_time": 4240,
+              "text": "Neil",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 2,
+          "begin_time": 4320,
+          "end_time": 5360,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And I'm Georgie.",
+          "words": [
+            {
+              "begin_time": 4320,
+              "end_time": 4560,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 4560,
+              "end_time": 4800,
+              "text": "I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 4800,
+              "end_time": 5360,
+              "text": "Georgie",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 3,
+          "begin_time": 5600,
+          "end_time": 7680,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Neil, have you ever ridden a horse?",
+          "words": [
+            {
+              "begin_time": 5600,
+              "end_time": 6000,
+              "text": " Neil",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 6080,
+              "end_time": 6240,
+              "text": " have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6240,
+              "end_time": 6400,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6480,
+              "end_time": 6880,
+              "text": "ever ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6880,
+              "end_time": 7280,
+              "text": "ridden ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7280,
+              "end_time": 7280,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7280,
+              "end_time": 7680,
+              "text": "horse",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 4,
+          "begin_time": 8160,
+          "end_time": 9520,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Yes, I have.",
+          "words": [
+            {
+              "begin_time": 8160,
+              "end_time": 8640,
+              "text": " Yes",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 8640,
+              "end_time": 8960,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 8960,
+              "end_time": 9520,
+              "text": "have",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 5,
+          "begin_time": 9520,
+          "end_time": 11760,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I can't say that I enjoyed it much.",
+          "words": [
+            {
+              "begin_time": 9520,
+              "end_time": 9600,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9600,
+              "end_time": 9920,
+              "text": "can't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9920,
+              "end_time": 10320,
+              "text": "say ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 10400,
+              "end_time": 10560,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 10560,
+              "end_time": 10880,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 10880,
+              "end_time": 11360,
+              "text": "enjoyed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11360,
+              "end_time": 11360,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11440,
+              "end_time": 11760,
+              "text": "much",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 6,
+          "begin_time": 12000,
+          "end_time": 13440,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I was a bit scared, to be honest.",
+          "words": [
+            {
+              "begin_time": 12000,
+              "end_time": 12080,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12080,
+              "end_time": 12240,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12240,
+              "end_time": 12320,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12320,
+              "end_time": 12480,
+              "text": "bit ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12480,
+              "end_time": 12960,
+              "text": "scared",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 12960,
+              "end_time": 12960,
+              "text": " to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12960,
+              "end_time": 13120,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 13120,
+              "end_time": 13440,
+              "text": "honest",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 7,
+          "begin_time": 13920,
+          "end_time": 14480,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " How about you?",
+          "words": [
+            {
+              "begin_time": 13920,
+              "end_time": 14080,
+              "text": " How ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14080,
+              "end_time": 14240,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14240,
+              "end_time": 14480,
+              "text": "you",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 8,
+          "begin_time": 14800,
+          "end_time": 16800,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I used to ride horses a lot, actually.",
+          "words": [
+            {
+              "begin_time": 14800,
+              "end_time": 14880,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14880,
+              "end_time": 15120,
+              "text": "used ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15200,
+              "end_time": 15200,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15200,
+              "end_time": 15360,
+              "text": "ride ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15360,
+              "end_time": 15760,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15760,
+              "end_time": 15840,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15840,
+              "end_time": 16080,
+              "text": "lot",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 16160,
+              "end_time": 16800,
+              "text": " actually",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 9,
+          "begin_time": 16880,
+          "end_time": 20960,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " My favourite thing was to ride a horse through the countryside.",
+          "words": [
+            {
+              "begin_time": 16880,
+              "end_time": 16880,
+              "text": " My ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 17760,
+              "end_time": 18400,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18400,
+              "end_time": 18800,
+              "text": "thing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18800,
+              "end_time": 19040,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19040,
+              "end_time": 19120,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19120,
+              "end_time": 19520,
+              "text": "ride ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19600,
+              "end_time": 19680,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19680,
+              "end_time": 20000,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20000,
+              "end_time": 20160,
+              "text": "through ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20160,
+              "end_time": 20240,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20240,
+              "end_time": 20960,
+              "text": "countryside",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 10,
+          "begin_time": 21440,
+          "end_time": 24240,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I love horses, they're so majestic and lovely.",
+          "words": [
+            {
+              "begin_time": 21440,
+              "end_time": 21600,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 21600,
+              "end_time": 21760,
+              "text": "love ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 21760,
+              "end_time": 22240,
+              "text": "horses",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 22240,
+              "end_time": 22400,
+              "text": " they're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 22400,
+              "end_time": 22640,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 22640,
+              "end_time": 23280,
+              "text": "majestic ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23280,
+              "end_time": 23520,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23760,
+              "end_time": 24240,
+              "text": "lovely",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 11,
+          "begin_time": 24828,
+          "end_time": 28428,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "The relationship between humans and horses has been close throughout history.",
+          "words": [
+            {
+              "begin_time": 24828,
+              "end_time": 24828,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 24828,
+              "end_time": 25388,
+              "text": "relationship ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 25388,
+              "end_time": 25788,
+              "text": "between ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 25788,
+              "end_time": 26188,
+              "text": "humans ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 26188,
+              "end_time": 26268,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 26268,
+              "end_time": 26828,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 26908,
+              "end_time": 26988,
+              "text": "has ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27068,
+              "end_time": 27308,
+              "text": "been ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27308,
+              "end_time": 27628,
+              "text": "close ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27628,
+              "end_time": 27948,
+              "text": "throughout ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27948,
+              "end_time": 28428,
+              "text": "history",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 12,
+          "begin_time": 28668,
+          "end_time": 32988,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But recently, this has gone beyond riding horses for fun or using them for work.",
+          "words": [
+            {
+              "begin_time": 28668,
+              "end_time": 28748,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 28748,
+              "end_time": 29388,
+              "text": "recently",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 29388,
+              "end_time": 29548,
+              "text": " this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29548,
+              "end_time": 29708,
+              "text": "has ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29708,
+              "end_time": 29868,
+              "text": "gone ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29868,
+              "end_time": 30348,
+              "text": "beyond ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 30348,
+              "end_time": 30748,
+              "text": "riding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 30748,
+              "end_time": 31148,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31148,
+              "end_time": 31228,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31228,
+              "end_time": 31708,
+              "text": "fun ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31788,
+              "end_time": 31948,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31948,
+              "end_time": 32268,
+              "text": "using ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32268,
+              "end_time": 32428,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32428,
+              "end_time": 32588,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32588,
+              "end_time": 32988,
+              "text": "work",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 13,
+          "begin_time": 33468,
+          "end_time": 43148,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Equine assisted services, sometimes called horse therapy, is a health trend where caring and interacting with horses is used to heal physical and mental illness.",
+          "words": [
+            {
+              "begin_time": 33468,
+              "end_time": 33868,
+              "text": " Equine ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 33868,
+              "end_time": 34268,
+              "text": "assisted ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34268,
+              "end_time": 34908,
+              "text": "services",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 34988,
+              "end_time": 35468,
+              "text": " sometimes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 35468,
+              "end_time": 35788,
+              "text": "called ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 35868,
+              "end_time": 36188,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 36188,
+              "end_time": 36668,
+              "text": "therapy",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 36988,
+              "end_time": 37068,
+              "text": " is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 37068,
+              "end_time": 37148,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 37148,
+              "end_time": 37548,
+              "text": "health ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 37548,
+              "end_time": 37868,
+              "text": "trend ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38028,
+              "end_time": 38188,
+              "text": "where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38188,
+              "end_time": 38748,
+              "text": "caring ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38748,
+              "end_time": 38908,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38908,
+              "end_time": 39548,
+              "text": "interacting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 39548,
+              "end_time": 39628,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 39708,
+              "end_time": 40188,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40508,
+              "end_time": 40668,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40668,
+              "end_time": 41068,
+              "text": "used ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41068,
+              "end_time": 41148,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41148,
+              "end_time": 41388,
+              "text": "heal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41468,
+              "end_time": 42028,
+              "text": "physical ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42028,
+              "end_time": 42268,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42268,
+              "end_time": 42588,
+              "text": "mental ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42668,
+              "end_time": 43148,
+              "text": "illness",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 14,
+          "begin_time": 43468,
+          "end_time": 49228,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Here's Dachiyanee Navaneelagga, presenter of BBC World Service programme The Conversation, to explain.",
+          "words": [
+            {
+              "begin_time": 43468,
+              "end_time": 43788,
+              "text": " Here's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 43788,
+              "end_time": 44428,
+              "text": "Dachiyanee ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 44428,
+              "end_time": 45308,
+              "text": "Navaneelagga",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 45548,
+              "end_time": 46028,
+              "text": " presenter ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46028,
+              "end_time": 46108,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46108,
+              "end_time": 46508,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46508,
+              "end_time": 46828,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46828,
+              "end_time": 47068,
+              "text": "Service ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47068,
+              "end_time": 47628,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47628,
+              "end_time": 47708,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47708,
+              "end_time": 48508,
+              "text": "Conversation",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 48668,
+              "end_time": 48748,
+              "text": " to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 48748,
+              "end_time": 49228,
+              "text": "explain",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 15,
+          "begin_time": 49836,
+          "end_time": 60396,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Equine assisted services is now an umbrella term which encompasses a whole range of treatments involving activities and interactions with horses to promote better human wellbeing.",
+          "words": [
+            {
+              "begin_time": 49836,
+              "end_time": 50316,
+              "text": "Equine ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 50316,
+              "end_time": 50636,
+              "text": "assisted ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 50636,
+              "end_time": 51276,
+              "text": "services ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51516,
+              "end_time": 51676,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51676,
+              "end_time": 51916,
+              "text": "now ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51916,
+              "end_time": 51916,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51996,
+              "end_time": 52396,
+              "text": "umbrella ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52396,
+              "end_time": 52716,
+              "text": "term ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52716,
+              "end_time": 52876,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52876,
+              "end_time": 53516,
+              "text": "encompasses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53596,
+              "end_time": 53676,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53676,
+              "end_time": 54076,
+              "text": "whole ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54076,
+              "end_time": 54476,
+              "text": "range ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54476,
+              "end_time": 54636,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54636,
+              "end_time": 55196,
+              "text": "treatments ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 55516,
+              "end_time": 55996,
+              "text": "involving ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 55996,
+              "end_time": 56716,
+              "text": "activities ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56796,
+              "end_time": 57116,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57116,
+              "end_time": 57596,
+              "text": "interactions ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57676,
+              "end_time": 57756,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57836,
+              "end_time": 58236,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 58556,
+              "end_time": 58636,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 58636,
+              "end_time": 58956,
+              "text": "promote ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 59036,
+              "end_time": 59276,
+              "text": "better ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 59356,
+              "end_time": 59756,
+              "text": "human ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 59756,
+              "end_time": 60396,
+              "text": "wellbeing",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 16,
+          "begin_time": 60796,
+          "end_time": 69196,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Equine assisted services is an umbrella term a term for a large number of different things which all belong to a single common category.",
+          "words": [
+            {
+              "begin_time": 60796,
+              "end_time": 61356,
+              "text": " Equine ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61356,
+              "end_time": 61836,
+              "text": "assisted ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61836,
+              "end_time": 62556,
+              "text": "services ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62556,
+              "end_time": 62716,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62716,
+              "end_time": 62796,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62876,
+              "end_time": 63436,
+              "text": "umbrella ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63436,
+              "end_time": 63996,
+              "text": "term ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64156,
+              "end_time": 64236,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64236,
+              "end_time": 64636,
+              "text": "term ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64716,
+              "end_time": 64956,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64956,
+              "end_time": 64956,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64956,
+              "end_time": 65436,
+              "text": "large ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65436,
+              "end_time": 65756,
+              "text": "number ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65756,
+              "end_time": 65836,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65916,
+              "end_time": 66156,
+              "text": "different ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66156,
+              "end_time": 66636,
+              "text": "things ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66636,
+              "end_time": 66796,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66796,
+              "end_time": 66956,
+              "text": "all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66956,
+              "end_time": 67356,
+              "text": "belong ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67356,
+              "end_time": 67516,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67516,
+              "end_time": 67516,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67516,
+              "end_time": 68076,
+              "text": "single ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 68156,
+              "end_time": 68556,
+              "text": "common ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 68556,
+              "end_time": 69196,
+              "text": "category",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 17,
+          "begin_time": 69596,
+          "end_time": 81836,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " So horse therapy includes many activities, from feeling the horse's movement, which can help children with muscle disorders like cerebral palsy, to simply grooming the horse, which can help calm anxiety.",
+          "words": [
+            {
+              "begin_time": 69596,
+              "end_time": 69836,
+              "text": " So ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69916,
+              "end_time": 70316,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 70316,
+              "end_time": 70796,
+              "text": "therapy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 70796,
+              "end_time": 71276,
+              "text": "includes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71276,
+              "end_time": 71676,
+              "text": "many ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71676,
+              "end_time": 72396,
+              "text": "activities",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 72636,
+              "end_time": 72796,
+              "text": " from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 72796,
+              "end_time": 73196,
+              "text": "feeling ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 73196,
+              "end_time": 73276,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 73276,
+              "end_time": 73676,
+              "text": "horse's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 73676,
+              "end_time": 74156,
+              "text": "movement",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 74476,
+              "end_time": 74636,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 74636,
+              "end_time": 74796,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 74796,
+              "end_time": 75036,
+              "text": "help ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75116,
+              "end_time": 75516,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75516,
+              "end_time": 75676,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75756,
+              "end_time": 76076,
+              "text": "muscle ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76076,
+              "end_time": 76636,
+              "text": "disorders ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76716,
+              "end_time": 76876,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76956,
+              "end_time": 77356,
+              "text": "cerebral ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77356,
+              "end_time": 77916,
+              "text": "palsy",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 78236,
+              "end_time": 78236,
+              "text": " to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 78316,
+              "end_time": 78796,
+              "text": "simply ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 78796,
+              "end_time": 79276,
+              "text": "grooming ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 79276,
+              "end_time": 79356,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 79356,
+              "end_time": 79756,
+              "text": "horse",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 80076,
+              "end_time": 80156,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 80236,
+              "end_time": 80396,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 80396,
+              "end_time": 80636,
+              "text": "help ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 80716,
+              "end_time": 80956,
+              "text": "calm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 81036,
+              "end_time": 81836,
+              "text": "anxiety",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 18,
+          "begin_time": 82316,
+          "end_time": 85836,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Grooming a horse means cleaning and brushing the horse's coat of hair.",
+          "words": [
+            {
+              "begin_time": 82316,
+              "end_time": 82716,
+              "text": " Grooming ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82716,
+              "end_time": 82716,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82796,
+              "end_time": 83116,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83116,
+              "end_time": 83436,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83436,
+              "end_time": 83916,
+              "text": "cleaning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83916,
+              "end_time": 84076,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84076,
+              "end_time": 84556,
+              "text": "brushing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84636,
+              "end_time": 84716,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84716,
+              "end_time": 85116,
+              "text": "horse's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85116,
+              "end_time": 85436,
+              "text": "coat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85436,
+              "end_time": 85516,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85516,
+              "end_time": 85836,
+              "text": "hair",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 19,
+          "begin_time": 86332,
+          "end_time": 93132,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Various animals can be used in therapy, but horses are particularly suitable as they're very sensitive to human emotions.",
+          "words": [
+            {
+              "begin_time": 86332,
+              "end_time": 86732,
+              "text": "Various ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86732,
+              "end_time": 87212,
+              "text": "animals ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87212,
+              "end_time": 87372,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87372,
+              "end_time": 87452,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87452,
+              "end_time": 87772,
+              "text": "used ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87772,
+              "end_time": 87852,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87852,
+              "end_time": 88492,
+              "text": "therapy",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 88652,
+              "end_time": 88732,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 88732,
+              "end_time": 89292,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 89292,
+              "end_time": 89372,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 89372,
+              "end_time": 90092,
+              "text": "particularly ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90092,
+              "end_time": 90732,
+              "text": "suitable ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90892,
+              "end_time": 91052,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 91052,
+              "end_time": 91132,
+              "text": "they're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 91212,
+              "end_time": 91532,
+              "text": "very ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 91532,
+              "end_time": 92012,
+              "text": "sensitive ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92092,
+              "end_time": 92172,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92172,
+              "end_time": 92492,
+              "text": "human ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92492,
+              "end_time": 93132,
+              "text": "emotions",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 20,
+          "begin_time": 93692,
+          "end_time": 97932,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Being in contact with them affects the limbic area of the brain dealing with stress.",
+          "words": [
+            {
+              "begin_time": 93692,
+              "end_time": 93932,
+              "text": " Being ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93932,
+              "end_time": 94012,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 94012,
+              "end_time": 94412,
+              "text": "contact ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 94412,
+              "end_time": 94572,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 94572,
+              "end_time": 94812,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 94892,
+              "end_time": 95292,
+              "text": "affects ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95292,
+              "end_time": 95372,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95372,
+              "end_time": 95852,
+              "text": "limbic ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95852,
+              "end_time": 96252,
+              "text": "area ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96252,
+              "end_time": 96412,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96492,
+              "end_time": 96492,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96492,
+              "end_time": 96972,
+              "text": "brain ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96972,
+              "end_time": 97292,
+              "text": "dealing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 97292,
+              "end_time": 97372,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 97372,
+              "end_time": 97932,
+              "text": "stress",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 21,
+          "begin_time": 98412,
+          "end_time": 108412,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In this episode, we'll hear more about the horses helping people work through mental, emotional and physical challenges, and as usual, we'll learn some useful new vocabulary.",
+          "words": [
+            {
+              "begin_time": 98412,
+              "end_time": 98492,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 98492,
+              "end_time": 98652,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 98652,
+              "end_time": 99132,
+              "text": "episode",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 99372,
+              "end_time": 99532,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99532,
+              "end_time": 99692,
+              "text": "hear ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99692,
+              "end_time": 100012,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100012,
+              "end_time": 100252,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100252,
+              "end_time": 100332,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100332,
+              "end_time": 100732,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100732,
+              "end_time": 101212,
+              "text": "helping ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 101212,
+              "end_time": 101612,
+              "text": "people ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 101612,
+              "end_time": 101932,
+              "text": "work ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 101932,
+              "end_time": 102252,
+              "text": "through ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 102332,
+              "end_time": 102892,
+              "text": "mental",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 103132,
+              "end_time": 103772,
+              "text": " emotional ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103772,
+              "end_time": 103932,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103932,
+              "end_time": 104332,
+              "text": "physical ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 104332,
+              "end_time": 104972,
+              "text": "challenges",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 105372,
+              "end_time": 105612,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105692,
+              "end_time": 105852,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105932,
+              "end_time": 106332,
+              "text": "usual",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 106332,
+              "end_time": 106572,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106572,
+              "end_time": 106732,
+              "text": "learn ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106732,
+              "end_time": 106972,
+              "text": "some ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106972,
+              "end_time": 107452,
+              "text": "useful ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107452,
+              "end_time": 107692,
+              "text": "new ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107692,
+              "end_time": 108412,
+              "text": "vocabulary",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 22,
+          "begin_time": 109084,
+          "end_time": 115564,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "And remember, you'll find all the words and phrases from this episode on our website, BBC Learning English dot com.",
+          "words": [
+            {
+              "begin_time": 109084,
+              "end_time": 109244,
+              "text": "And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 109244,
+              "end_time": 109804,
+              "text": "remember",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 109804,
+              "end_time": 109964,
+              "text": " you'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 109964,
+              "end_time": 110364,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 110364,
+              "end_time": 110604,
+              "text": "all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 110604,
+              "end_time": 110684,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 110684,
+              "end_time": 111004,
+              "text": "words ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111004,
+              "end_time": 111084,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111084,
+              "end_time": 111564,
+              "text": "phrases ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111564,
+              "end_time": 111804,
+              "text": "from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111804,
+              "end_time": 111964,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111964,
+              "end_time": 112444,
+              "text": "episode ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112524,
+              "end_time": 112684,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112684,
+              "end_time": 112764,
+              "text": "our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112764,
+              "end_time": 113324,
+              "text": "website",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 113724,
+              "end_time": 114204,
+              "text": " BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114204,
+              "end_time": 114604,
+              "text": "Learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114604,
+              "end_time": 114924,
+              "text": "English ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115084,
+              "end_time": 115244,
+              "text": "dot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115244,
+              "end_time": 115564,
+              "text": "com",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 23,
+          "begin_time": 115724,
+          "end_time": 118044,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But now I have a question for you, Neil.",
+          "words": [
+            {
+              "begin_time": 115724,
+              "end_time": 115964,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116204,
+              "end_time": 116524,
+              "text": "now ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116524,
+              "end_time": 116764,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116764,
+              "end_time": 116844,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116844,
+              "end_time": 116924,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116924,
+              "end_time": 117324,
+              "text": "question ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117324,
+              "end_time": 117484,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117484,
+              "end_time": 117644,
+              "text": "you",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 117644,
+              "end_time": 118044,
+              "text": " Neil",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 24,
+          "begin_time": 118444,
+          "end_time": 124844,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " We've heard some of the special qualities horses possess, but which of the following about horses is also true?",
+          "words": [
+            {
+              "begin_time": 118444,
+              "end_time": 118604,
+              "text": " We've ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118604,
+              "end_time": 118924,
+              "text": "heard ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118924,
+              "end_time": 119164,
+              "text": "some ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119164,
+              "end_time": 119164,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119164,
+              "end_time": 119244,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119244,
+              "end_time": 119644,
+              "text": "special ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119644,
+              "end_time": 120204,
+              "text": "qualities ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120204,
+              "end_time": 120604,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120604,
+              "end_time": 121084,
+              "text": "possess",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 121404,
+              "end_time": 121564,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121564,
+              "end_time": 121804,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121804,
+              "end_time": 121964,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121964,
+              "end_time": 122044,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122044,
+              "end_time": 122604,
+              "text": "following ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122684,
+              "end_time": 122924,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 123004,
+              "end_time": 123564,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 123644,
+              "end_time": 123804,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 123884,
+              "end_time": 124364,
+              "text": "also ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 124364,
+              "end_time": 124844,
+              "text": "true",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 25,
+          "begin_time": 125244,
+          "end_time": 128364,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Is it A Horses always sleep standing up?",
+          "words": [
+            {
+              "begin_time": 125244,
+              "end_time": 125324,
+              "text": " Is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 125324,
+              "end_time": 125484,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 125564,
+              "end_time": 125964,
+              "text": "A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 126204,
+              "end_time": 126684,
+              "text": "Horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 126764,
+              "end_time": 127324,
+              "text": "always ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 127324,
+              "end_time": 127644,
+              "text": "sleep ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 127644,
+              "end_time": 128124,
+              "text": "standing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128124,
+              "end_time": 128364,
+              "text": "up",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 26,
+          "begin_time": 128844,
+          "end_time": 129084,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " B.",
+          "words": [
+            {
+              "begin_time": 128844,
+              "end_time": 129084,
+              "text": " B",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 27,
+          "begin_time": 128876,
+          "end_time": 136716,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "B Horses can make over one hundred sounds, or C Horses have almost three hundred and sixty degree vision.",
+          "words": [
+            {
+              "begin_time": 128876,
+              "end_time": 129196,
+              "text": "B ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 129516,
+              "end_time": 129836,
+              "text": "Horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 129836,
+              "end_time": 129996,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 129996,
+              "end_time": 130236,
+              "text": "make ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 130316,
+              "end_time": 130556,
+              "text": "over ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 130556,
+              "end_time": 130876,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 130876,
+              "end_time": 131276,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 131276,
+              "end_time": 131916,
+              "text": "sounds",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 132076,
+              "end_time": 132396,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 132396,
+              "end_time": 132876,
+              "text": "C ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133276,
+              "end_time": 133756,
+              "text": "Horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133756,
+              "end_time": 133916,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133916,
+              "end_time": 134476,
+              "text": "almost ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134556,
+              "end_time": 134796,
+              "text": "three ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134796,
+              "end_time": 135116,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 135116,
+              "end_time": 135196,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 135196,
+              "end_time": 135756,
+              "text": "sixty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 135756,
+              "end_time": 136156,
+              "text": "degree ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 136156,
+              "end_time": 136716,
+              "text": "vision",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 28,
+          "begin_time": 137116,
+          "end_time": 142876,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Well, I am sure I've seen a horse lying down, so I don't know about its vision though.",
+          "words": [
+            {
+              "begin_time": 137116,
+              "end_time": 137756,
+              "text": " Well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 137916,
+              "end_time": 137996,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137996,
+              "end_time": 138076,
+              "text": "am ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138076,
+              "end_time": 138396,
+              "text": "sure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138396,
+              "end_time": 138556,
+              "text": "I've ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138556,
+              "end_time": 138796,
+              "text": "seen ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138796,
+              "end_time": 138796,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138796,
+              "end_time": 139196,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139196,
+              "end_time": 139596,
+              "text": "lying ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139596,
+              "end_time": 139916,
+              "text": "down",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 139916,
+              "end_time": 140316,
+              "text": " so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 140316,
+              "end_time": 141436,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141516,
+              "end_time": 141676,
+              "text": "don't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141676,
+              "end_time": 141756,
+              "text": "know ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141756,
+              "end_time": 141996,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141996,
+              "end_time": 142076,
+              "text": "its ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 142156,
+              "end_time": 142636,
+              "text": "vision ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 142636,
+              "end_time": 142876,
+              "text": "though",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 29,
+          "begin_time": 142876,
+          "end_time": 146476,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " So I am going to say B A horse can make over one hundred sounds.",
+          "words": [
+            {
+              "begin_time": 142876,
+              "end_time": 143116,
+              "text": " So ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143116,
+              "end_time": 143196,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143196,
+              "end_time": 143276,
+              "text": "am ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143276,
+              "end_time": 143516,
+              "text": "going ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143516,
+              "end_time": 143596,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143596,
+              "end_time": 144076,
+              "text": "say ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144076,
+              "end_time": 144476,
+              "text": "B ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144716,
+              "end_time": 144796,
+              "text": "A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144796,
+              "end_time": 145036,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145036,
+              "end_time": 145196,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145196,
+              "end_time": 145356,
+              "text": "make ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145356,
+              "end_time": 145596,
+              "text": "over ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145596,
+              "end_time": 145836,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145836,
+              "end_time": 145916,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145916,
+              "end_time": 146476,
+              "text": "sounds",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 30,
+          "begin_time": 146636,
+          "end_time": 149756,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Okay, well we'll find out the answer later in the programme.",
+          "words": [
+            {
+              "begin_time": 146636,
+              "end_time": 147116,
+              "text": " Okay",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 147116,
+              "end_time": 147276,
+              "text": " well ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147276,
+              "end_time": 147436,
+              "text": "we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147436,
+              "end_time": 147756,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147756,
+              "end_time": 147916,
+              "text": "out ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147916,
+              "end_time": 148076,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 148076,
+              "end_time": 148396,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 148476,
+              "end_time": 148956,
+              "text": "later ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 148956,
+              "end_time": 149196,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149196,
+              "end_time": 149196,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149196,
+              "end_time": 149756,
+              "text": "programme",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 31,
+          "begin_time": 150556,
+          "end_time": 155356,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Horse therapist Claudia Nicholson first felt the healing power of horses as a child.",
+          "words": [
+            {
+              "begin_time": 150556,
+              "end_time": 150796,
+              "text": " Horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150796,
+              "end_time": 151356,
+              "text": "therapist ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151436,
+              "end_time": 151756,
+              "text": "Claudia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151756,
+              "end_time": 152316,
+              "text": "Nicholson ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 152556,
+              "end_time": 153036,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153036,
+              "end_time": 153276,
+              "text": "felt ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153276,
+              "end_time": 153276,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153276,
+              "end_time": 153676,
+              "text": "healing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153676,
+              "end_time": 153996,
+              "text": "power ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153996,
+              "end_time": 154156,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154156,
+              "end_time": 154636,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154636,
+              "end_time": 154796,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154796,
+              "end_time": 154876,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154876,
+              "end_time": 155356,
+              "text": "child",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 32,
+          "begin_time": 155756,
+          "end_time": 163276,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " She now runs her own centre for equine assisted learning in the south of England, where she spoke with BBC World Service programme The Conversation.",
+          "words": [
+            {
+              "begin_time": 155756,
+              "end_time": 155916,
+              "text": " She ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 155916,
+              "end_time": 156076,
+              "text": "now ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156076,
+              "end_time": 156396,
+              "text": "runs ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156396,
+              "end_time": 156556,
+              "text": "her ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156556,
+              "end_time": 156796,
+              "text": "own ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156796,
+              "end_time": 157196,
+              "text": "centre ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 157196,
+              "end_time": 157436,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 157436,
+              "end_time": 157916,
+              "text": "equine ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 157916,
+              "end_time": 158316,
+              "text": "assisted ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158316,
+              "end_time": 158796,
+              "text": "learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158796,
+              "end_time": 158956,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158956,
+              "end_time": 159036,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159036,
+              "end_time": 159276,
+              "text": "south ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159276,
+              "end_time": 159436,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159436,
+              "end_time": 159916,
+              "text": "England",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 160076,
+              "end_time": 160236,
+              "text": " where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160236,
+              "end_time": 160396,
+              "text": "she ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160396,
+              "end_time": 160716,
+              "text": "spoke ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160716,
+              "end_time": 160876,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160876,
+              "end_time": 161276,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 161276,
+              "end_time": 161516,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 161516,
+              "end_time": 161916,
+              "text": "Service ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 161916,
+              "end_time": 162396,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162476,
+              "end_time": 162556,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162556,
+              "end_time": 163276,
+              "text": "Conversation",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 33,
+          "begin_time": 163948,
+          "end_time": 170908,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "I would spend hours on end sitting in a stable with my pony.",
+          "words": [
+            {
+              "begin_time": 163948,
+              "end_time": 164268,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164268,
+              "end_time": 164668,
+              "text": "would ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164748,
+              "end_time": 165868,
+              "text": "spend ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166028,
+              "end_time": 166508,
+              "text": "hours ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166508,
+              "end_time": 166748,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166748,
+              "end_time": 167148,
+              "text": "end ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 167148,
+              "end_time": 168028,
+              "text": "sitting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168188,
+              "end_time": 168428,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168428,
+              "end_time": 168428,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168508,
+              "end_time": 169308,
+              "text": "stable ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169308,
+              "end_time": 169548,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169548,
+              "end_time": 170108,
+              "text": "my ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170188,
+              "end_time": 170908,
+              "text": "pony",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 34,
+          "begin_time": 170988,
+          "end_time": 187868,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I was going through puberty, my parents had separated, I had a lot of unanswered questions, and I would feel met and safe and held with the connection of the pony.",
+          "words": [
+            {
+              "begin_time": 170988,
+              "end_time": 171388,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171388,
+              "end_time": 172428,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172508,
+              "end_time": 172828,
+              "text": "going ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172828,
+              "end_time": 172988,
+              "text": "through ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172988,
+              "end_time": 173948,
+              "text": "puberty",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 173948,
+              "end_time": 174188,
+              "text": " my ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174188,
+              "end_time": 174588,
+              "text": "parents ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174588,
+              "end_time": 174988,
+              "text": "had ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174988,
+              "end_time": 175788,
+              "text": "separated",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 175868,
+              "end_time": 176428,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 176428,
+              "end_time": 176428,
+              "text": "had ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 176428,
+              "end_time": 176428,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 176588,
+              "end_time": 177228,
+              "text": "lot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 177228,
+              "end_time": 177308,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 177308,
+              "end_time": 177468,
+              "text": "unanswered ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 177468,
+              "end_time": 178348,
+              "text": "questions",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 179068,
+              "end_time": 179308,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 179308,
+              "end_time": 179548,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 179548,
+              "end_time": 179948,
+              "text": "would ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180268,
+              "end_time": 181148,
+              "text": "feel ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 181148,
+              "end_time": 181948,
+              "text": "met ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182428,
+              "end_time": 182668,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182668,
+              "end_time": 183228,
+              "text": "safe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 183708,
+              "end_time": 183948,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 183948,
+              "end_time": 184588,
+              "text": "held ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 184908,
+              "end_time": 185308,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 185628,
+              "end_time": 185708,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 185708,
+              "end_time": 186668,
+              "text": "connection ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 186908,
+              "end_time": 187068,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187068,
+              "end_time": 187148,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187228,
+              "end_time": 187868,
+              "text": "pony",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 35,
+          "begin_time": 188620,
+          "end_time": 191900,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "As a child, Claudia spent hours on end with her pony.",
+          "words": [
+            {
+              "begin_time": 188620,
+              "end_time": 188780,
+              "text": "As ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188860,
+              "end_time": 188860,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188860,
+              "end_time": 189420,
+              "text": "child",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 189420,
+              "end_time": 189820,
+              "text": " Claudia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 189820,
+              "end_time": 190220,
+              "text": "spent ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 190220,
+              "end_time": 190620,
+              "text": "hours ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 190620,
+              "end_time": 190780,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 190780,
+              "end_time": 191020,
+              "text": "end ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191100,
+              "end_time": 191260,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191260,
+              "end_time": 191340,
+              "text": "her ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191340,
+              "end_time": 191900,
+              "text": "pony",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 36,
+          "begin_time": 192300,
+          "end_time": 198460,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Phrases like 'days or hours on end' mean days or hours doing something continuously without stopping.",
+          "words": [
+            {
+              "begin_time": 192300,
+              "end_time": 192780,
+              "text": " Phrases ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192780,
+              "end_time": 193100,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 193180,
+              "end_time": 193580,
+              "text": "'days ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 193580,
+              "end_time": 193740,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 193740,
+              "end_time": 194140,
+              "text": "hours ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194140,
+              "end_time": 194300,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194300,
+              "end_time": 194540,
+              "text": "end' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194700,
+              "end_time": 194940,
+              "text": "mean ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194940,
+              "end_time": 195260,
+              "text": "days ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195260,
+              "end_time": 195420,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195420,
+              "end_time": 195820,
+              "text": "hours ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195820,
+              "end_time": 196140,
+              "text": "doing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196140,
+              "end_time": 196620,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196620,
+              "end_time": 197500,
+              "text": "continuously ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197580,
+              "end_time": 197900,
+              "text": "without ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197900,
+              "end_time": 198460,
+              "text": "stopping",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 37,
+          "begin_time": 198540,
+          "end_time": 207660,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Spending time with her pony helped Claudia through puberty, the stage of life when a child grows into an adult because of changes in their body which allow them to have children.",
+          "words": [
+            {
+              "begin_time": 198540,
+              "end_time": 199020,
+              "text": " Spending ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199020,
+              "end_time": 199260,
+              "text": "time ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199260,
+              "end_time": 199420,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199420,
+              "end_time": 199500,
+              "text": "her ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199500,
+              "end_time": 199980,
+              "text": "pony ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199980,
+              "end_time": 200300,
+              "text": "helped ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 200300,
+              "end_time": 200700,
+              "text": "Claudia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 200700,
+              "end_time": 200940,
+              "text": "through ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 200940,
+              "end_time": 201580,
+              "text": "puberty",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 201740,
+              "end_time": 201820,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201820,
+              "end_time": 202220,
+              "text": "stage ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202220,
+              "end_time": 202300,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202300,
+              "end_time": 202700,
+              "text": "life ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202700,
+              "end_time": 202780,
+              "text": "when ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202780,
+              "end_time": 202860,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202860,
+              "end_time": 203340,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203340,
+              "end_time": 203580,
+              "text": "grows ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203580,
+              "end_time": 203740,
+              "text": "into ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203820,
+              "end_time": 203900,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203900,
+              "end_time": 204300,
+              "text": "adult ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204620,
+              "end_time": 204860,
+              "text": "because ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204860,
+              "end_time": 204940,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204940,
+              "end_time": 205500,
+              "text": "changes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205500,
+              "end_time": 205660,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205660,
+              "end_time": 205740,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205740,
+              "end_time": 206140,
+              "text": "body ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 206140,
+              "end_time": 206380,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 206380,
+              "end_time": 206700,
+              "text": "allow ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 206700,
+              "end_time": 206860,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 206860,
+              "end_time": 207020,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 207020,
+              "end_time": 207180,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 207260,
+              "end_time": 207660,
+              "text": "children",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 38,
+          "begin_time": 207980,
+          "end_time": 212700,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " It was her teenage experiences that led Claudia to start her own horse therapy centre.",
+          "words": [
+            {
+              "begin_time": 207980,
+              "end_time": 208140,
+              "text": " It ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208140,
+              "end_time": 208300,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208300,
+              "end_time": 208460,
+              "text": "her ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208460,
+              "end_time": 208940,
+              "text": "teenage ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208940,
+              "end_time": 209820,
+              "text": "experiences ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 209820,
+              "end_time": 209900,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 209900,
+              "end_time": 210140,
+              "text": "led ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210140,
+              "end_time": 210540,
+              "text": "Claudia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210620,
+              "end_time": 210700,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210700,
+              "end_time": 211020,
+              "text": "start ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 211020,
+              "end_time": 211180,
+              "text": "her ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 211180,
+              "end_time": 211420,
+              "text": "own ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 211420,
+              "end_time": 211740,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 211820,
+              "end_time": 212220,
+              "text": "therapy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 212220,
+              "end_time": 212700,
+              "text": "centre",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 39,
+          "begin_time": 212940,
+          "end_time": 215900,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " She works a lot with teenage girls and children in care.",
+          "words": [
+            {
+              "begin_time": 212940,
+              "end_time": 213100,
+              "text": " She ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213100,
+              "end_time": 213340,
+              "text": "works ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213340,
+              "end_time": 213420,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213420,
+              "end_time": 213660,
+              "text": "lot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213660,
+              "end_time": 213820,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213820,
+              "end_time": 214220,
+              "text": "teenage ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214220,
+              "end_time": 214540,
+              "text": "girls ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214620,
+              "end_time": 214780,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214780,
+              "end_time": 215260,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215260,
+              "end_time": 215500,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215500,
+              "end_time": 215900,
+              "text": "care",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 40,
+          "begin_time": 216300,
+          "end_time": 223820,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " A child in care is a child who's being looked after by the local authorities because they cannot be cared for by their parents or family.",
+          "words": [
+            {
+              "begin_time": 216300,
+              "end_time": 216380,
+              "text": " A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 216380,
+              "end_time": 216780,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 216780,
+              "end_time": 216860,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 216860,
+              "end_time": 217260,
+              "text": "care ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217260,
+              "end_time": 217420,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217420,
+              "end_time": 217420,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217420,
+              "end_time": 217900,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217900,
+              "end_time": 218220,
+              "text": "who's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218220,
+              "end_time": 218460,
+              "text": "being ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218460,
+              "end_time": 218780,
+              "text": "looked ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218780,
+              "end_time": 219100,
+              "text": "after ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219100,
+              "end_time": 219260,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219260,
+              "end_time": 219420,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219420,
+              "end_time": 219740,
+              "text": "local ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219740,
+              "end_time": 220380,
+              "text": "authorities ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 220780,
+              "end_time": 221020,
+              "text": "because ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221020,
+              "end_time": 221180,
+              "text": "they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221180,
+              "end_time": 221580,
+              "text": "cannot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221580,
+              "end_time": 221740,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221740,
+              "end_time": 221980,
+              "text": "cared ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 222060,
+              "end_time": 222300,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 222300,
+              "end_time": 222540,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 222540,
+              "end_time": 222700,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 222700,
+              "end_time": 223180,
+              "text": "parents ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 223180,
+              "end_time": 223340,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 223340,
+              "end_time": 223820,
+              "text": "family",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 41,
+          "begin_time": 224620,
+          "end_time": 230700,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Here, Claudia talks more about her work with children and horses to BBC World Service's The Conversation.",
+          "words": [
+            {
+              "begin_time": 224620,
+              "end_time": 224940,
+              "text": " Here",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 224940,
+              "end_time": 225420,
+              "text": " Claudia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 225420,
+              "end_time": 225740,
+              "text": "talks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 225740,
+              "end_time": 226140,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226140,
+              "end_time": 226300,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226380,
+              "end_time": 226540,
+              "text": "her ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226540,
+              "end_time": 226860,
+              "text": "work ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226860,
+              "end_time": 227020,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227020,
+              "end_time": 227420,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227420,
+              "end_time": 227500,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227500,
+              "end_time": 228060,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 228300,
+              "end_time": 228380,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 228380,
+              "end_time": 228860,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 228860,
+              "end_time": 229100,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229100,
+              "end_time": 229740,
+              "text": "Service's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229900,
+              "end_time": 229980,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229980,
+              "end_time": 230700,
+              "text": "Conversation",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 42,
+          "begin_time": 231292,
+          "end_time": 246012,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "It would take maybe a few sessions for a relationship of trust to be formed, and it's quite extraordinary to see a child that's experienced a lot of trauma, especially these children in care.",
+          "words": [
+            {
+              "begin_time": 231292,
+              "end_time": 231452,
+              "text": "It ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 231452,
+              "end_time": 231612,
+              "text": "would ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 231612,
+              "end_time": 231932,
+              "text": "take ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 231932,
+              "end_time": 232332,
+              "text": "maybe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232412,
+              "end_time": 232492,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232492,
+              "end_time": 232732,
+              "text": "few ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232732,
+              "end_time": 233852,
+              "text": "sessions ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234092,
+              "end_time": 234732,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234812,
+              "end_time": 234892,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234892,
+              "end_time": 235692,
+              "text": "relationship ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 235772,
+              "end_time": 235852,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 235932,
+              "end_time": 236492,
+              "text": "trust ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236492,
+              "end_time": 236492,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236492,
+              "end_time": 236732,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236732,
+              "end_time": 237372,
+              "text": "formed",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 238172,
+              "end_time": 238732,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 238732,
+              "end_time": 239132,
+              "text": "it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 239372,
+              "end_time": 239692,
+              "text": "quite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 239692,
+              "end_time": 240972,
+              "text": "extraordinary ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241052,
+              "end_time": 241132,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241132,
+              "end_time": 241452,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241452,
+              "end_time": 241452,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241452,
+              "end_time": 242012,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 242012,
+              "end_time": 242332,
+              "text": "that's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 242332,
+              "end_time": 243292,
+              "text": "experienced ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243292,
+              "end_time": 243372,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243372,
+              "end_time": 243692,
+              "text": "lot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243692,
+              "end_time": 243692,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243692,
+              "end_time": 244092,
+              "text": "trauma",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 244092,
+              "end_time": 244572,
+              "text": " especially ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 244572,
+              "end_time": 244812,
+              "text": "these ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 244812,
+              "end_time": 245292,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 245292,
+              "end_time": 245452,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 245452,
+              "end_time": 246012,
+              "text": "care",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 43,
+          "begin_time": 246412,
+          "end_time": 254172,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " They can be brushing the pony's body; they might want to have a cry, which they've been holding on to.",
+          "words": [
+            {
+              "begin_time": 246412,
+              "end_time": 246892,
+              "text": " They ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 246892,
+              "end_time": 247212,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 247212,
+              "end_time": 247932,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 248092,
+              "end_time": 248652,
+              "text": "brushing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 248652,
+              "end_time": 248812,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 249212,
+              "end_time": 249692,
+              "text": "pony's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 249692,
+              "end_time": 250332,
+              "text": "body",
+              "punctuation": ";"
+            },
+            {
+              "begin_time": 250892,
+              "end_time": 250892,
+              "text": " they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251132,
+              "end_time": 251372,
+              "text": "might ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251372,
+              "end_time": 251532,
+              "text": "want ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251532,
+              "end_time": 251532,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251532,
+              "end_time": 251772,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251772,
+              "end_time": 251852,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251852,
+              "end_time": 252332,
+              "text": "cry",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 252332,
+              "end_time": 252652,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252652,
+              "end_time": 252812,
+              "text": "they've ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252892,
+              "end_time": 253132,
+              "text": "been ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 253132,
+              "end_time": 253532,
+              "text": "holding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 253532,
+              "end_time": 253772,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 253852,
+              "end_time": 254172,
+              "text": "to",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 44,
+          "begin_time": 254412,
+          "end_time": 256012,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " The horse regulates them.",
+          "words": [
+            {
+              "begin_time": 254412,
+              "end_time": 254572,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254572,
+              "end_time": 254972,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254972,
+              "end_time": 255772,
+              "text": "regulates ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 255772,
+              "end_time": 256012,
+              "text": "them",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 45,
+          "begin_time": 256620,
+          "end_time": 259500,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Many of the children Claudia works with suffer trauma.",
+          "words": [
+            {
+              "begin_time": 256620,
+              "end_time": 256940,
+              "text": "Many ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 256940,
+              "end_time": 257020,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257020,
+              "end_time": 257100,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257100,
+              "end_time": 257500,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257500,
+              "end_time": 257900,
+              "text": "Claudia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257900,
+              "end_time": 258300,
+              "text": "works ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258300,
+              "end_time": 258460,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258540,
+              "end_time": 258940,
+              "text": "suffer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258940,
+              "end_time": 259500,
+              "text": "trauma",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 46,
+          "begin_time": 259820,
+          "end_time": 263020,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " It takes time for them to build a bond of trust with their horse.",
+          "words": [
+            {
+              "begin_time": 259820,
+              "end_time": 259980,
+              "text": " It ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259980,
+              "end_time": 260220,
+              "text": "takes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260220,
+              "end_time": 260540,
+              "text": "time ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260540,
+              "end_time": 260620,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260620,
+              "end_time": 260860,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260860,
+              "end_time": 260940,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260940,
+              "end_time": 261260,
+              "text": "build ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 261260,
+              "end_time": 261340,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 261420,
+              "end_time": 261740,
+              "text": "bond ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 261740,
+              "end_time": 261740,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 261820,
+              "end_time": 262220,
+              "text": "trust ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262300,
+              "end_time": 262380,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262380,
+              "end_time": 262540,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262540,
+              "end_time": 263020,
+              "text": "horse",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 47,
+          "begin_time": 263340,
+          "end_time": 268140,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " The phrase 'bond of trust' is a strong feeling of reliance and confidence between two people.",
+          "words": [
+            {
+              "begin_time": 263340,
+              "end_time": 263420,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 263420,
+              "end_time": 263820,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 263820,
+              "end_time": 264060,
+              "text": "'bond ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264060,
+              "end_time": 264140,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264140,
+              "end_time": 264620,
+              "text": "trust' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264700,
+              "end_time": 264780,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264780,
+              "end_time": 264860,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264860,
+              "end_time": 265260,
+              "text": "strong ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265260,
+              "end_time": 265660,
+              "text": "feeling ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265660,
+              "end_time": 265820,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265820,
+              "end_time": 266300,
+              "text": "reliance ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266300,
+              "end_time": 266460,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266460,
+              "end_time": 267020,
+              "text": "confidence ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 267020,
+              "end_time": 267500,
+              "text": "between ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 267500,
+              "end_time": 267660,
+              "text": "two ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 267660,
+              "end_time": 268140,
+              "text": "people",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 48,
+          "begin_time": 268460,
+          "end_time": 270620,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Horses really are special animals.",
+          "words": [
+            {
+              "begin_time": 268460,
+              "end_time": 268940,
+              "text": " Horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269020,
+              "end_time": 269420,
+              "text": "really ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269420,
+              "end_time": 269580,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269580,
+              "end_time": 270060,
+              "text": "special ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 270060,
+              "end_time": 270620,
+              "text": "animals",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 49,
+          "begin_time": 271020,
+          "end_time": 278380,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " They sense human feelings like fear or sadness through breath, heart rate and movement, and respond with gentleness and calm.",
+          "words": [
+            {
+              "begin_time": 271020,
+              "end_time": 271180,
+              "text": " They ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 271180,
+              "end_time": 271500,
+              "text": "sense ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 271500,
+              "end_time": 271820,
+              "text": "human ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 271820,
+              "end_time": 272300,
+              "text": "feelings ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272300,
+              "end_time": 272540,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272540,
+              "end_time": 272940,
+              "text": "fear ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272940,
+              "end_time": 273100,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 273100,
+              "end_time": 273820,
+              "text": "sadness ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 273820,
+              "end_time": 274060,
+              "text": "through ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 274060,
+              "end_time": 274460,
+              "text": "breath",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 274700,
+              "end_time": 274940,
+              "text": " heart ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 274940,
+              "end_time": 275260,
+              "text": "rate ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 275260,
+              "end_time": 275340,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 275340,
+              "end_time": 275900,
+              "text": "movement",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 276060,
+              "end_time": 276220,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 276220,
+              "end_time": 276860,
+              "text": "respond ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 276860,
+              "end_time": 277020,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277020,
+              "end_time": 277660,
+              "text": "gentleness ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277740,
+              "end_time": 277900,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277900,
+              "end_time": 278380,
+              "text": "calm",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 50,
+          "begin_time": 278940,
+          "end_time": 281340,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " This makes them perfect animal therapists.",
+          "words": [
+            {
+              "begin_time": 278940,
+              "end_time": 279180,
+              "text": " This ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279180,
+              "end_time": 279420,
+              "text": "makes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279420,
+              "end_time": 279580,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279580,
+              "end_time": 280140,
+              "text": "perfect ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 280220,
+              "end_time": 280540,
+              "text": "animal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 280540,
+              "end_time": 281340,
+              "text": "therapists",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 51,
+          "begin_time": 281820,
+          "end_time": 283420,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And that's not all, right Georgie?",
+          "words": [
+            {
+              "begin_time": 281820,
+              "end_time": 281980,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281980,
+              "end_time": 282220,
+              "text": "that's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282220,
+              "end_time": 282380,
+              "text": "not ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282380,
+              "end_time": 282620,
+              "text": "all",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 282620,
+              "end_time": 282860,
+              "text": " right ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282860,
+              "end_time": 283420,
+              "text": "Georgie",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 52,
+          "begin_time": 283660,
+          "end_time": 285820,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Let's find out the answer to your question.",
+          "words": [
+            {
+              "begin_time": 283660,
+              "end_time": 284140,
+              "text": " Let's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284140,
+              "end_time": 284460,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284460,
+              "end_time": 284620,
+              "text": "out ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284620,
+              "end_time": 284700,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284700,
+              "end_time": 284940,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285100,
+              "end_time": 285180,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285180,
+              "end_time": 285340,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285340,
+              "end_time": 285820,
+              "text": "question",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 53,
+          "begin_time": 286060,
+          "end_time": 286380,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Yes.",
+          "words": [
+            {
+              "begin_time": 286060,
+              "end_time": 286380,
+              "text": " Yes",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 54,
+          "begin_time": 286092,
+          "end_time": 287052,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Yes, Neil.",
+          "words": [
+            {
+              "begin_time": 286092,
+              "end_time": 286492,
+              "text": "Yes",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 286732,
+              "end_time": 287052,
+              "text": " Neil",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 55,
+          "begin_time": 287052,
+          "end_time": 294732,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Well, I asked you which sentence about horses was true, and you said that horses can make over one hundred sounds.",
+          "words": [
+            {
+              "begin_time": 287052,
+              "end_time": 287132,
+              "text": " Well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 287132,
+              "end_time": 287372,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287372,
+              "end_time": 287692,
+              "text": "asked ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287692,
+              "end_time": 287852,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287852,
+              "end_time": 288172,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 288172,
+              "end_time": 288572,
+              "text": "sentence ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 288572,
+              "end_time": 288812,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 288812,
+              "end_time": 289372,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289452,
+              "end_time": 289692,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289692,
+              "end_time": 290412,
+              "text": "true",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 290732,
+              "end_time": 290892,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290892,
+              "end_time": 291212,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 291212,
+              "end_time": 291692,
+              "text": "said ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 291932,
+              "end_time": 292092,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292172,
+              "end_time": 292732,
+              "text": "horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292732,
+              "end_time": 292972,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292972,
+              "end_time": 293132,
+              "text": "make ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293212,
+              "end_time": 293452,
+              "text": "over ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293452,
+              "end_time": 293612,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293612,
+              "end_time": 294012,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 294012,
+              "end_time": 294732,
+              "text": "sounds",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 56,
+          "begin_time": 295452,
+          "end_time": 297692,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Sadly, that was the wrong answer.",
+          "words": [
+            {
+              "begin_time": 295452,
+              "end_time": 296012,
+              "text": " Sadly",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 296332,
+              "end_time": 296492,
+              "text": " that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 296492,
+              "end_time": 296652,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 296652,
+              "end_time": 296732,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 296732,
+              "end_time": 297052,
+              "text": "wrong ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 297052,
+              "end_time": 297692,
+              "text": "answer",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 57,
+          "begin_time": 297772,
+          "end_time": 303692,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " The correct answer was C: horses have near three hundred and sixty degree vision, which is surprising.",
+          "words": [
+            {
+              "begin_time": 297772,
+              "end_time": 297932,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 297932,
+              "end_time": 298252,
+              "text": "correct ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298252,
+              "end_time": 298572,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298572,
+              "end_time": 298812,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298812,
+              "end_time": 299292,
+              "text": "C",
+              "punctuation": ":"
+            },
+            {
+              "begin_time": 299532,
+              "end_time": 300012,
+              "text": " horses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 300012,
+              "end_time": 300252,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 300252,
+              "end_time": 300572,
+              "text": "near ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 300572,
+              "end_time": 300972,
+              "text": "three ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 300972,
+              "end_time": 301212,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301212,
+              "end_time": 301292,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301292,
+              "end_time": 301772,
+              "text": "sixty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301772,
+              "end_time": 302172,
+              "text": "degree ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 302172,
+              "end_time": 302732,
+              "text": "vision",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 302972,
+              "end_time": 303132,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 303132,
+              "end_time": 303212,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 303212,
+              "end_time": 303692,
+              "text": "surprising",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 58,
+          "begin_time": 304092,
+          "end_time": 305132,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Wow, that's amazing.",
+          "words": [
+            {
+              "begin_time": 304092,
+              "end_time": 304412,
+              "text": " Wow",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 304412,
+              "end_time": 304652,
+              "text": " that's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 304652,
+              "end_time": 305132,
+              "text": "amazing",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 59,
+          "begin_time": 305372,
+          "end_time": 307692,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Okay, let's recap the vocabulary we've learned.",
+          "words": [
+            {
+              "begin_time": 305372,
+              "end_time": 305772,
+              "text": " Okay",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 305772,
+              "end_time": 306092,
+              "text": " let's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 306092,
+              "end_time": 306412,
+              "text": "recap ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 306412,
+              "end_time": 306492,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 306492,
+              "end_time": 307132,
+              "text": "vocabulary ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307132,
+              "end_time": 307372,
+              "text": "we've ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307372,
+              "end_time": 307692,
+              "text": "learned",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 60,
+          "begin_time": 308092,
+          "end_time": 314812,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Starting with umbrella term, a term used to describe many different things which all belong to a single common category.",
+          "words": [
+            {
+              "begin_time": 308092,
+              "end_time": 308492,
+              "text": " Starting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308492,
+              "end_time": 308732,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308812,
+              "end_time": 309292,
+              "text": "umbrella ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309292,
+              "end_time": 309692,
+              "text": "term",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 309932,
+              "end_time": 309932,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309932,
+              "end_time": 310332,
+              "text": "term ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310332,
+              "end_time": 310572,
+              "text": "used ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310652,
+              "end_time": 310652,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310652,
+              "end_time": 311052,
+              "text": "describe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 311052,
+              "end_time": 311452,
+              "text": "many ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 311452,
+              "end_time": 311852,
+              "text": "different ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 311852,
+              "end_time": 312172,
+              "text": "things ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312412,
+              "end_time": 312572,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312652,
+              "end_time": 312812,
+              "text": "all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312812,
+              "end_time": 313212,
+              "text": "belong ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313212,
+              "end_time": 313292,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313292,
+              "end_time": 313372,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313372,
+              "end_time": 313852,
+              "text": "single ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313852,
+              "end_time": 314172,
+              "text": "common ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314172,
+              "end_time": 314812,
+              "text": "category",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 61,
+          "begin_time": 315244,
+          "end_time": 320284,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Grooming an animal like a horse or a dog means brushing and cleaning its coat of hair.",
+          "words": [
+            {
+              "begin_time": 315244,
+              "end_time": 315884,
+              "text": "Grooming ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 315884,
+              "end_time": 316044,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316044,
+              "end_time": 316444,
+              "text": "animal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316444,
+              "end_time": 316684,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316684,
+              "end_time": 316684,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316684,
+              "end_time": 317164,
+              "text": "horse ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317164,
+              "end_time": 317404,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317404,
+              "end_time": 317404,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317404,
+              "end_time": 317724,
+              "text": "dog ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318044,
+              "end_time": 318284,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318284,
+              "end_time": 318844,
+              "text": "brushing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318844,
+              "end_time": 319004,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319004,
+              "end_time": 319404,
+              "text": "cleaning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319404,
+              "end_time": 319484,
+              "text": "its ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319484,
+              "end_time": 319804,
+              "text": "coat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319804,
+              "end_time": 319884,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319884,
+              "end_time": 320284,
+              "text": "hair",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 62,
+          "begin_time": 320684,
+          "end_time": 324684,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " If you do something for hours on end, you do it continuously without stopping.",
+          "words": [
+            {
+              "begin_time": 320684,
+              "end_time": 320764,
+              "text": " If ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 320764,
+              "end_time": 320844,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 320844,
+              "end_time": 321004,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321004,
+              "end_time": 321484,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321484,
+              "end_time": 321644,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321644,
+              "end_time": 321964,
+              "text": "hours ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321964,
+              "end_time": 322124,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322124,
+              "end_time": 322364,
+              "text": "end",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 322684,
+              "end_time": 322764,
+              "text": " you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322764,
+              "end_time": 322924,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322924,
+              "end_time": 323004,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323004,
+              "end_time": 323884,
+              "text": "continuously ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323884,
+              "end_time": 324204,
+              "text": "without ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324204,
+              "end_time": 324684,
+              "text": "stopping",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 63,
+          "begin_time": 324844,
+          "end_time": 331724,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Puberty is the stage of life when a child grows into an adult because of changes in their body which allow them to have children.",
+          "words": [
+            {
+              "begin_time": 324844,
+              "end_time": 325404,
+              "text": " Puberty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325404,
+              "end_time": 325564,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325564,
+              "end_time": 325644,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325644,
+              "end_time": 326044,
+              "text": "stage ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326044,
+              "end_time": 326124,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326124,
+              "end_time": 326444,
+              "text": "life ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326444,
+              "end_time": 326764,
+              "text": "when ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326764,
+              "end_time": 326764,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326764,
+              "end_time": 327164,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327244,
+              "end_time": 327564,
+              "text": "grows ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327564,
+              "end_time": 327884,
+              "text": "into ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327884,
+              "end_time": 328044,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328124,
+              "end_time": 328524,
+              "text": "adult ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328604,
+              "end_time": 328924,
+              "text": "because ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328924,
+              "end_time": 329004,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329004,
+              "end_time": 329484,
+              "text": "changes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329484,
+              "end_time": 329564,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329564,
+              "end_time": 329724,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329724,
+              "end_time": 330124,
+              "text": "body ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330284,
+              "end_time": 330444,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330444,
+              "end_time": 330764,
+              "text": "allow ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330764,
+              "end_time": 330924,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330924,
+              "end_time": 331004,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331004,
+              "end_time": 331244,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331244,
+              "end_time": 331724,
+              "text": "children",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 64,
+          "begin_time": 331532,
+          "end_time": 338572,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "A child who is in care is being looked after by the local authorities because they cannot be cared for by their parents.",
+          "words": [
+            {
+              "begin_time": 331532,
+              "end_time": 332092,
+              "text": "A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332092,
+              "end_time": 332572,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332572,
+              "end_time": 332652,
+              "text": "who ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332652,
+              "end_time": 332812,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332892,
+              "end_time": 333052,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333052,
+              "end_time": 333452,
+              "text": "care ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333692,
+              "end_time": 333772,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333772,
+              "end_time": 334012,
+              "text": "being ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334012,
+              "end_time": 334252,
+              "text": "looked ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334252,
+              "end_time": 334652,
+              "text": "after ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334652,
+              "end_time": 334892,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334892,
+              "end_time": 334972,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334972,
+              "end_time": 335452,
+              "text": "local ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335452,
+              "end_time": 336012,
+              "text": "authorities ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336012,
+              "end_time": 336332,
+              "text": "because ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336332,
+              "end_time": 336492,
+              "text": "they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336492,
+              "end_time": 336972,
+              "text": "cannot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336972,
+              "end_time": 337052,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337052,
+              "end_time": 337372,
+              "text": "cared ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337372,
+              "end_time": 337612,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337612,
+              "end_time": 337772,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337772,
+              "end_time": 337932,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337932,
+              "end_time": 338572,
+              "text": "parents",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 65,
+          "begin_time": 332044,
+          "end_time": 332444,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " A child.",
+          "words": [
+            {
+              "begin_time": 332044,
+              "end_time": 332124,
+              "text": " A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332124,
+              "end_time": 332444,
+              "text": "child",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 66,
+          "begin_time": 338652,
+          "end_time": 344252,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And finally, a bond of trust is a strong feeling of reliance and confidence between two people.",
+          "words": [
+            {
+              "begin_time": 338652,
+              "end_time": 338892,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 338892,
+              "end_time": 339372,
+              "text": "finally",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 339372,
+              "end_time": 339532,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 339532,
+              "end_time": 339932,
+              "text": "bond ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 339932,
+              "end_time": 340012,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340012,
+              "end_time": 340572,
+              "text": "trust ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340812,
+              "end_time": 340892,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340972,
+              "end_time": 340972,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340972,
+              "end_time": 341372,
+              "text": "strong ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341372,
+              "end_time": 341772,
+              "text": "feeling ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341772,
+              "end_time": 341852,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341932,
+              "end_time": 342492,
+              "text": "reliance ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 342492,
+              "end_time": 342652,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 342652,
+              "end_time": 343212,
+              "text": "confidence ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 343212,
+              "end_time": 343532,
+              "text": "between ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 343532,
+              "end_time": 343772,
+              "text": "two ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 343772,
+              "end_time": 344252,
+              "text": "people",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 67,
+          "begin_time": 345052,
+          "end_time": 352332,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Once again, our six minutes are up, but remember you'll find a quiz and worksheet for this episode over on our website bbclearningenglish.",
+          "words": [
+            {
+              "begin_time": 345052,
+              "end_time": 345292,
+              "text": " Once ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 345292,
+              "end_time": 345532,
+              "text": "again",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 345532,
+              "end_time": 345692,
+              "text": " our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 345692,
+              "end_time": 346012,
+              "text": "six ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346012,
+              "end_time": 346252,
+              "text": "minutes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346252,
+              "end_time": 346332,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346332,
+              "end_time": 346492,
+              "text": "up",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 346652,
+              "end_time": 346812,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346812,
+              "end_time": 347292,
+              "text": "remember ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347292,
+              "end_time": 347452,
+              "text": "you'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347452,
+              "end_time": 347772,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347772,
+              "end_time": 347852,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347852,
+              "end_time": 348252,
+              "text": "quiz ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348252,
+              "end_time": 348412,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348412,
+              "end_time": 348892,
+              "text": "worksheet ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348892,
+              "end_time": 349052,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 349052,
+              "end_time": 349212,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 349212,
+              "end_time": 349772,
+              "text": "episode ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 349932,
+              "end_time": 350252,
+              "text": "over ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 350252,
+              "end_time": 350332,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 350332,
+              "end_time": 350572,
+              "text": "our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 350572,
+              "end_time": 351052,
+              "text": "website ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 351052,
+              "end_time": 352332,
+              "text": "bbclearningenglish",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 68,
+          "begin_time": 352332,
+          "end_time": 352812,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "com.",
+          "words": [
+            {
+              "begin_time": 352332,
+              "end_time": 352812,
+              "text": "com",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 69,
+          "begin_time": 353212,
+          "end_time": 355772,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " See you there soon, but for now, it's goodbye.",
+          "words": [
+            {
+              "begin_time": 353212,
+              "end_time": 353532,
+              "text": " See ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 353532,
+              "end_time": 353532,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 353532,
+              "end_time": 353692,
+              "text": "there ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 353692,
+              "end_time": 354092,
+              "text": "soon",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 354572,
+              "end_time": 354732,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 354732,
+              "end_time": 354812,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 354812,
+              "end_time": 355132,
+              "text": "now",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 355212,
+              "end_time": 355372,
+              "text": " it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 355372,
+              "end_time": 355772,
+              "text": "goodbye",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 70,
+          "begin_time": 355932,
+          "end_time": 356492,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Goodbye.",
+          "words": [
+            {
+              "begin_time": 355932,
+              "end_time": 356492,
+              "text": " Goodbye",
+              "punctuation": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6601 @@
+{
+  "file_url": "https://voices1.oss-cn-shenzhen.aliyuncs.com/english-listening-practice/audio/1775034507421-757261422-1775034507393-130694929-3.31_0-362.mp3",
+  "audio_info": {
+    "format": "mp3",
+    "sample_rate": 44100
+  },
+  "transcripts": [
+    {
+      "channel_id": 0,
+      "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Neil. And I'm Beth. In Britain we call them crisps and you might know them as potato chips. But whatever you call them, these fried potato slices are probably the world's favourite snack. Neil, are you a big crisp eater and what's your favourite flavour? I love crisps, Beth. They are my favourite snack. My favourite flavour is prawn cocktail, which is controversial because a lot of people don't like that flavour. I think my favourite is salt and vinegar. Yummy. You're making me hungry. Well, crisps might be popular, but with lots of oil and salt, they're not the healthiest food. So why do we love them so much? That's what BBC World Service programme The Food Chain wanted to find out. Here, presenter Ruth Alexander talks to Mitchell Dingwall, a food executive responsible for developing new crisp flavours.Why do we love crisps so much? Hmm, I think it's just that crunch, right? You can't beat the crunch and the delicious salty feeling in your mouth, and it just becomes a snowball effect. You just want more of it. For Mitchell, the best thing about crisps is the loud crunch. He says, \"You can't beat it,\" an idiom meaning something like, \"That's the best thing and you won't find anything better.\"Mitchell says, \"Once you started eating crisps, it's hard to stop, and you just want to eat more and more.\" Mitchell. He calls this a snowball effect—a situation where doing something causes other similar things to happen. You eat one crisp, and before you know it, the whole packet's gone.In this episode, we'll be visiting two countries in love with crisps, and as usual, we'll be learning some useful new words and phrases, all of which you can find on our website, bbclearningenglish.com. But first, I have a question for you, Beth. The record for the world's largest packet of crisps was recently broken in Saudi Arabia, but how much did the packet weigh? Was it A About 1.5 tons? B About 2.5 tons? Or C About 3.5 tons? OK.OK, wow, they are all huge. I'm going to guess about 3.5 tonnes. OK, we'll find out the answer later. Let's travel first to Singapore, home of Jolene Ng, a market research analyst who specialises in salty snacks. Here's Jolene talking with Ruth Alexander for BBC programme The Food Chain.Is the potato chip the most popular of all salty snacks? It's very, very much dependent on personal preference. But if I were to look at certain countries, you could see, like in the UK, it's very much part and parcel of life. You don't have it only during snack times; you have it with lunch as well, or you put it my husband's from UK and he kind of put it in his sandwich as well. Oh, yeah, a cheese sandwich with a crisp inside. Oh, yeah, that's great. Exactly.Jolene says the popularity of different snacks depends on personal preference someone's subjective liking or disliking for something based on their personal opinion. In some places, crisps are part and parcel of everyday life. Part and parcel means to be an essential element or feature of something. In Britain, crisps are so essential that people even eat crisp sandwiches. But not everywhere is so in love with potato chips. Let's meet Jenny Martinez, a food blogger from Mexico. In Mexico, tortilla corn chips are eaten instead of potato chips, and it's common to see street vendors selling bags of corn tortillas filled with different sauces.Here, Jenny tells Ruth Alexander more for BBC World Service programme The Food Chain. Here. For you, which is your go-to snack, the tortilla chip or the potato chip? Definitely the tortilla chip. Why? Because you could do so many things. Dip it in almost everything. Adding some guacamole, spicy salsa, or just sour cream with a mixture of chipotle sauce.Ruth asks if tortillas are Jenny's go-to snack. Ruth. You can use the phrase 'go to' to describe something which is relied upon to be the best thing for a particular purpose. For example, for a lot of people, Wikipedia is the go-to website for online information.And Jenny thinks corn tortillas are especially good with guacamole, a paste made of mashed avocado, which sounds delicious and maybe a little healthier than a British crisp sandwich. Speaking of which, what was the answer to your question, Neil? I asked you how heavy the world's largest bag of crisps was. And I said very heavy, over three and a half tons. Well, it's not that big, but the real answer is still enormous about one point five tons. The bag, made in Riyadh, was nine metres tall. Yeah.Yeah. OK, let's recap the vocabulary we've learned, starting with the phrase 'you can't beat that' meaning that something is the best and you won't find anything better. A snowball effect is a situation where one action causes other similar actions to happen. Someone's personal preference is their subjective liking or disliking for something based on their own opinion. To be part and parcel of something means to be an essential or integral feature of it. And something which is described as the go-to can be relied upon as the best thing for a particular situation. And finally, guacamole is a paste made of mashed avocado, lime juice and salt. Delicious! Once again, our six minutes are up, but if you're hungry for more, then head over to our website: bbclearningenglish. Com, where you'll find a worksheet and quiz for this episode. See you again soon, but for now, goodbye. Goodbye.",
+      "sentences": [
+        {
+          "sentence_id": 0,
+          "begin_time": 320,
+          "end_time": 560,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Hello.",
+          "words": [
+            {
+              "begin_time": 320,
+              "end_time": 560,
+              "text": "Hello",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 1,
+          "begin_time": 640,
+          "end_time": 3760,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " This is 6 Minute English from BBC Learning English.",
+          "words": [
+            {
+              "begin_time": 640,
+              "end_time": 880,
+              "text": " This ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 880,
+              "end_time": 960,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 960,
+              "end_time": 1360,
+              "text": "6 ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1360,
+              "end_time": 1600,
+              "text": "Minute ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1600,
+              "end_time": 2080,
+              "text": "English ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2080,
+              "end_time": 2560,
+              "text": "from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2560,
+              "end_time": 3040,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 3040,
+              "end_time": 3520,
+              "text": "Learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 3520,
+              "end_time": 3760,
+              "text": "English",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 2,
+          "begin_time": 3840,
+          "end_time": 4400,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I'm Neil.",
+          "words": [
+            {
+              "begin_time": 3840,
+              "end_time": 4080,
+              "text": " I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 4080,
+              "end_time": 4400,
+              "text": "Neil",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 3,
+          "begin_time": 4720,
+          "end_time": 5600,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And I'm Beth.",
+          "words": [
+            {
+              "begin_time": 4720,
+              "end_time": 4960,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 5120,
+              "end_time": 5280,
+              "text": "I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 5280,
+              "end_time": 5600,
+              "text": "Beth",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 4,
+          "begin_time": 6320,
+          "end_time": 10880,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In Britain we call them crisps and you might know them as potato chips.",
+          "words": [
+            {
+              "begin_time": 6320,
+              "end_time": 6480,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6480,
+              "end_time": 6720,
+              "text": "Britain ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7040,
+              "end_time": 7280,
+              "text": "we ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7280,
+              "end_time": 7600,
+              "text": "call ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7600,
+              "end_time": 7840,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7840,
+              "end_time": 8480,
+              "text": "crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 8480,
+              "end_time": 8640,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 8640,
+              "end_time": 8720,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 8720,
+              "end_time": 8960,
+              "text": "might ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 8960,
+              "end_time": 9040,
+              "text": "know ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9120,
+              "end_time": 9360,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9360,
+              "end_time": 9600,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9680,
+              "end_time": 10320,
+              "text": "potato ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 10320,
+              "end_time": 10880,
+              "text": "chips",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 5,
+          "begin_time": 11120,
+          "end_time": 17680,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But whatever you call them, these fried potato slices are probably the world's favourite snack.",
+          "words": [
+            {
+              "begin_time": 11120,
+              "end_time": 11360,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11360,
+              "end_time": 11840,
+              "text": "whatever ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11840,
+              "end_time": 12160,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12160,
+              "end_time": 12480,
+              "text": "call ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12480,
+              "end_time": 12720,
+              "text": "them",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 13040,
+              "end_time": 13280,
+              "text": " these ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 13280,
+              "end_time": 13840,
+              "text": "fried ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 13840,
+              "end_time": 14400,
+              "text": "potato ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14400,
+              "end_time": 15120,
+              "text": "slices ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15200,
+              "end_time": 15280,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15360,
+              "end_time": 15920,
+              "text": "probably ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15920,
+              "end_time": 16000,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16000,
+              "end_time": 16640,
+              "text": "world's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16800,
+              "end_time": 17200,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 17200,
+              "end_time": 17680,
+              "text": "snack",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 6,
+          "begin_time": 17760,
+          "end_time": 20800,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Neil, are you a big crisp eater and what's your favourite flavour?",
+          "words": [
+            {
+              "begin_time": 17760,
+              "end_time": 18080,
+              "text": " Neil",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 18080,
+              "end_time": 18080,
+              "text": " are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18080,
+              "end_time": 18320,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18320,
+              "end_time": 18400,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18400,
+              "end_time": 18640,
+              "text": "big ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18720,
+              "end_time": 19200,
+              "text": "crisp ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19200,
+              "end_time": 19520,
+              "text": "eater ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19760,
+              "end_time": 19840,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19840,
+              "end_time": 20080,
+              "text": "what's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20080,
+              "end_time": 20160,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20160,
+              "end_time": 20480,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20480,
+              "end_time": 20800,
+              "text": "flavour",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 7,
+          "begin_time": 21200,
+          "end_time": 22640,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I love crisps, Beth.",
+          "words": [
+            {
+              "begin_time": 21200,
+              "end_time": 21520,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 21600,
+              "end_time": 22160,
+              "text": "love ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 22160,
+              "end_time": 22640,
+              "text": "crisps",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 22640,
+              "end_time": 22640,
+              "text": " Beth",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 8,
+          "begin_time": 23120,
+          "end_time": 24800,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " They are my favourite snack.",
+          "words": [
+            {
+              "begin_time": 23120,
+              "end_time": 23440,
+              "text": " They ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23520,
+              "end_time": 23680,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23680,
+              "end_time": 23920,
+              "text": "my ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23920,
+              "end_time": 24480,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 24480,
+              "end_time": 24800,
+              "text": "snack",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 9,
+          "begin_time": 25040,
+          "end_time": 31120,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " My favourite flavour is prawn cocktail, which is controversial because a lot of people don't like that flavour.",
+          "words": [
+            {
+              "begin_time": 25040,
+              "end_time": 25440,
+              "text": " My ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 25440,
+              "end_time": 25920,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 25920,
+              "end_time": 26080,
+              "text": "flavour ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 26080,
+              "end_time": 26640,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 26720,
+              "end_time": 27040,
+              "text": "prawn ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27040,
+              "end_time": 27600,
+              "text": "cocktail",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 27600,
+              "end_time": 27840,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27840,
+              "end_time": 28000,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 28240,
+              "end_time": 28960,
+              "text": "controversial ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 28960,
+              "end_time": 29280,
+              "text": "because ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29280,
+              "end_time": 29280,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29360,
+              "end_time": 29520,
+              "text": "lot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29520,
+              "end_time": 29600,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29600,
+              "end_time": 29920,
+              "text": "people ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 30240,
+              "end_time": 30400,
+              "text": "don't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 30400,
+              "end_time": 30560,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 30640,
+              "end_time": 30720,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 30720,
+              "end_time": 31120,
+              "text": "flavour",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 10,
+          "begin_time": 31520,
+          "end_time": 33920,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I think my favourite is salt and vinegar.",
+          "words": [
+            {
+              "begin_time": 31520,
+              "end_time": 31760,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31760,
+              "end_time": 32000,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32000,
+              "end_time": 32320,
+              "text": "my ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32400,
+              "end_time": 32880,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32880,
+              "end_time": 33040,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 33040,
+              "end_time": 33360,
+              "text": "salt ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 33360,
+              "end_time": 33440,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 33440,
+              "end_time": 33920,
+              "text": "vinegar",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 11,
+          "begin_time": 34080,
+          "end_time": 34400,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Yummy.",
+          "words": [
+            {
+              "begin_time": 34080,
+              "end_time": 34400,
+              "text": " Yummy",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 12,
+          "begin_time": 34480,
+          "end_time": 35280,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You're making me hungry.",
+          "words": [
+            {
+              "begin_time": 34480,
+              "end_time": 34560,
+              "text": " You're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34560,
+              "end_time": 34800,
+              "text": "making ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34800,
+              "end_time": 34880,
+              "text": "me ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34880,
+              "end_time": 35280,
+              "text": "hungry",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 13,
+          "begin_time": 35760,
+          "end_time": 41120,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Well, crisps might be popular, but with lots of oil and salt, they're not the healthiest food.",
+          "words": [
+            {
+              "begin_time": 35760,
+              "end_time": 36080,
+              "text": " Well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 36080,
+              "end_time": 36560,
+              "text": " crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 36560,
+              "end_time": 36800,
+              "text": "might ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 36800,
+              "end_time": 36880,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 36880,
+              "end_time": 37360,
+              "text": "popular",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 37360,
+              "end_time": 37520,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 37520,
+              "end_time": 37680,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 37680,
+              "end_time": 38000,
+              "text": "lots ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38000,
+              "end_time": 38160,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38240,
+              "end_time": 38720,
+              "text": "oil ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38720,
+              "end_time": 38960,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38960,
+              "end_time": 39360,
+              "text": "salt",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 39600,
+              "end_time": 39760,
+              "text": " they're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 39760,
+              "end_time": 39920,
+              "text": "not ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40000,
+              "end_time": 40080,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40080,
+              "end_time": 40720,
+              "text": "healthiest ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40720,
+              "end_time": 41120,
+              "text": "food",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 14,
+          "begin_time": 41280,
+          "end_time": 43120,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " So why do we love them so much?",
+          "words": [
+            {
+              "begin_time": 41280,
+              "end_time": 41440,
+              "text": " So ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41440,
+              "end_time": 41760,
+              "text": "why ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41760,
+              "end_time": 41840,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41840,
+              "end_time": 42080,
+              "text": "we ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42080,
+              "end_time": 42240,
+              "text": "love ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42320,
+              "end_time": 42480,
+              "text": "them ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42480,
+              "end_time": 42800,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42800,
+              "end_time": 43120,
+              "text": "much",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 15,
+          "begin_time": 43600,
+          "end_time": 47840,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " That's what BBC World Service programme The Food Chain wanted to find out.",
+          "words": [
+            {
+              "begin_time": 43600,
+              "end_time": 43920,
+              "text": " That's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 43920,
+              "end_time": 44080,
+              "text": "what ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 44080,
+              "end_time": 44640,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 44640,
+              "end_time": 45040,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 45040,
+              "end_time": 45360,
+              "text": "Service ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 45360,
+              "end_time": 45920,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 45920,
+              "end_time": 46000,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46000,
+              "end_time": 46320,
+              "text": "Food ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46320,
+              "end_time": 46640,
+              "text": "Chain ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46640,
+              "end_time": 47120,
+              "text": "wanted ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47120,
+              "end_time": 47120,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47200,
+              "end_time": 47520,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47520,
+              "end_time": 47840,
+              "text": "out",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 16,
+          "begin_time": 48080,
+          "end_time": 55360,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Here, presenter Ruth Alexander talks to Mitchell Dingwall, a food executive responsible for developing new crisp flavours.",
+          "words": [
+            {
+              "begin_time": 48080,
+              "end_time": 48400,
+              "text": " Here",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 48400,
+              "end_time": 48880,
+              "text": " presenter ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 48880,
+              "end_time": 49120,
+              "text": "Ruth ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 49120,
+              "end_time": 49760,
+              "text": "Alexander ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 49920,
+              "end_time": 50320,
+              "text": "talks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 50320,
+              "end_time": 50320,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 50320,
+              "end_time": 50720,
+              "text": "Mitchell ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 50800,
+              "end_time": 51360,
+              "text": "Dingwall",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 51360,
+              "end_time": 51440,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51440,
+              "end_time": 51840,
+              "text": "food ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51840,
+              "end_time": 52640,
+              "text": "executive ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52640,
+              "end_time": 53200,
+              "text": "responsible ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53200,
+              "end_time": 53360,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53360,
+              "end_time": 54080,
+              "text": "developing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54080,
+              "end_time": 54400,
+              "text": "new ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54400,
+              "end_time": 54720,
+              "text": "crisp ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54720,
+              "end_time": 55360,
+              "text": "flavours",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 17,
+          "begin_time": 55756,
+          "end_time": 58476,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Why do we love crisps so much?",
+          "words": [
+            {
+              "begin_time": 55756,
+              "end_time": 56156,
+              "text": "Why ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56156,
+              "end_time": 56236,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56236,
+              "end_time": 56396,
+              "text": "we ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56396,
+              "end_time": 56796,
+              "text": "love ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56876,
+              "end_time": 57516,
+              "text": "crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57596,
+              "end_time": 58076,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 58076,
+              "end_time": 58476,
+              "text": "much",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 18,
+          "begin_time": 58636,
+          "end_time": 61436,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Hmm, I think it's just that crunch, right?",
+          "words": [
+            {
+              "begin_time": 58636,
+              "end_time": 59036,
+              "text": " Hmm",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 59756,
+              "end_time": 59756,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 59916,
+              "end_time": 60076,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60076,
+              "end_time": 60236,
+              "text": "it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60236,
+              "end_time": 60396,
+              "text": "just ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60396,
+              "end_time": 60636,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60636,
+              "end_time": 61116,
+              "text": "crunch",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 61196,
+              "end_time": 61436,
+              "text": " right",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 19,
+          "begin_time": 61516,
+          "end_time": 67356,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You can't beat the crunch and the delicious salty feeling in your mouth, and it just becomes a snowball effect.",
+          "words": [
+            {
+              "begin_time": 61516,
+              "end_time": 61676,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61676,
+              "end_time": 61836,
+              "text": "can't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61836,
+              "end_time": 62076,
+              "text": "beat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62076,
+              "end_time": 62156,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62156,
+              "end_time": 62556,
+              "text": "crunch ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62556,
+              "end_time": 62876,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62876,
+              "end_time": 62876,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63356,
+              "end_time": 63996,
+              "text": "delicious ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63996,
+              "end_time": 64316,
+              "text": "salty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64316,
+              "end_time": 64796,
+              "text": "feeling ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64796,
+              "end_time": 64796,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64796,
+              "end_time": 64876,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64876,
+              "end_time": 65196,
+              "text": "mouth",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 65276,
+              "end_time": 65276,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65356,
+              "end_time": 65436,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65676,
+              "end_time": 65916,
+              "text": "just ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65916,
+              "end_time": 66316,
+              "text": "becomes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66316,
+              "end_time": 66396,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66396,
+              "end_time": 66956,
+              "text": "snowball ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 66956,
+              "end_time": 67356,
+              "text": "effect",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 20,
+          "begin_time": 67356,
+          "end_time": 68076,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You just want more of it.",
+          "words": [
+            {
+              "begin_time": 67356,
+              "end_time": 67436,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67436,
+              "end_time": 67516,
+              "text": "just ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67516,
+              "end_time": 67676,
+              "text": "want ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67676,
+              "end_time": 67916,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67916,
+              "end_time": 67996,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67996,
+              "end_time": 68076,
+              "text": "it",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 21,
+          "begin_time": 68396,
+          "end_time": 72316,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " For Mitchell, the best thing about crisps is the loud crunch.",
+          "words": [
+            {
+              "begin_time": 68396,
+              "end_time": 68556,
+              "text": " For ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 68556,
+              "end_time": 69196,
+              "text": "Mitchell",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 69276,
+              "end_time": 69356,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69356,
+              "end_time": 69756,
+              "text": "best ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69756,
+              "end_time": 69996,
+              "text": "thing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69996,
+              "end_time": 70156,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 70156,
+              "end_time": 70716,
+              "text": "crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 70796,
+              "end_time": 70956,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 70956,
+              "end_time": 71116,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71116,
+              "end_time": 71516,
+              "text": "loud ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71596,
+              "end_time": 72316,
+              "text": "crunch",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 22,
+          "begin_time": 72636,
+          "end_time": 80156,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " He says, \"You can't beat it,\" an idiom meaning something like, \"That's the best thing and you won't find anything better.\"",
+          "words": [
+            {
+              "begin_time": 72636,
+              "end_time": 72796,
+              "text": " He ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 72796,
+              "end_time": 73116,
+              "text": "says",
+              "punctuation": ", \""
+            },
+            {
+              "begin_time": 73356,
+              "end_time": 73516,
+              "text": "You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 73516,
+              "end_time": 74076,
+              "text": "can't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 74076,
+              "end_time": 74396,
+              "text": "beat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 74396,
+              "end_time": 74556,
+              "text": "it",
+              "punctuation": ",\""
+            },
+            {
+              "begin_time": 74956,
+              "end_time": 75116,
+              "text": " an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75116,
+              "end_time": 75516,
+              "text": "idiom ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75596,
+              "end_time": 75996,
+              "text": "meaning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75996,
+              "end_time": 76396,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76396,
+              "end_time": 76796,
+              "text": "like",
+              "punctuation": ", \""
+            },
+            {
+              "begin_time": 76876,
+              "end_time": 77276,
+              "text": "That's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77276,
+              "end_time": 77436,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77436,
+              "end_time": 77836,
+              "text": "best ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77836,
+              "end_time": 78156,
+              "text": "thing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 78316,
+              "end_time": 78396,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 78396,
+              "end_time": 78556,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 78556,
+              "end_time": 78796,
+              "text": "won't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 78796,
+              "end_time": 79116,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 79196,
+              "end_time": 79756,
+              "text": "anything ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 79756,
+              "end_time": 80156,
+              "text": "better",
+              "punctuation": ".\""
+            }
+          ]
+        },
+        {
+          "sentence_id": 23,
+          "begin_time": 80620,
+          "end_time": 86780,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Mitchell says, \"Once you started eating crisps, it's hard to stop, and you just want to eat more and more.\"",
+          "words": [
+            {
+              "begin_time": 80620,
+              "end_time": 81020,
+              "text": "Mitchell ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 81020,
+              "end_time": 81420,
+              "text": "says",
+              "punctuation": ", \""
+            },
+            {
+              "begin_time": 81420,
+              "end_time": 81740,
+              "text": "Once ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 81740,
+              "end_time": 81900,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 81900,
+              "end_time": 82300,
+              "text": "started ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82380,
+              "end_time": 82700,
+              "text": "eating ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82700,
+              "end_time": 83180,
+              "text": "crisps",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 83420,
+              "end_time": 83580,
+              "text": " it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83580,
+              "end_time": 83820,
+              "text": "hard ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83820,
+              "end_time": 83820,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83820,
+              "end_time": 84220,
+              "text": "stop",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 84620,
+              "end_time": 84780,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84780,
+              "end_time": 84860,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84860,
+              "end_time": 85100,
+              "text": "just ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85100,
+              "end_time": 85260,
+              "text": "want ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85260,
+              "end_time": 85340,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85420,
+              "end_time": 85660,
+              "text": "eat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85660,
+              "end_time": 85980,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86060,
+              "end_time": 86380,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86380,
+              "end_time": 86780,
+              "text": "more",
+              "punctuation": ".\""
+            }
+          ]
+        },
+        {
+          "sentence_id": 24,
+          "begin_time": 80636,
+          "end_time": 80636,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Mitchell.",
+          "words": [
+            {
+              "begin_time": 80636,
+              "end_time": 80636,
+              "text": " Mitchell",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 25,
+          "begin_time": 87020,
+          "end_time": 92940,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " He calls this a snowball effect—a situation where doing something causes other similar things to happen.",
+          "words": [
+            {
+              "begin_time": 87020,
+              "end_time": 87180,
+              "text": " He ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87180,
+              "end_time": 87500,
+              "text": "calls ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87500,
+              "end_time": 87740,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87820,
+              "end_time": 87820,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87820,
+              "end_time": 88380,
+              "text": "snowball ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 88380,
+              "end_time": 88860,
+              "text": "effect",
+              "punctuation": "—"
+            },
+            {
+              "begin_time": 88860,
+              "end_time": 88940,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 88940,
+              "end_time": 89660,
+              "text": "situation ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 89740,
+              "end_time": 89820,
+              "text": "where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 89820,
+              "end_time": 90140,
+              "text": "doing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90140,
+              "end_time": 90700,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90780,
+              "end_time": 91260,
+              "text": "causes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 91420,
+              "end_time": 91660,
+              "text": "other ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 91660,
+              "end_time": 92060,
+              "text": "similar ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92060,
+              "end_time": 92460,
+              "text": "things ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92460,
+              "end_time": 92460,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92460,
+              "end_time": 92940,
+              "text": "happen",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 26,
+          "begin_time": 93500,
+          "end_time": 96780,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You eat one crisp, and before you know it, the whole packet's gone.",
+          "words": [
+            {
+              "begin_time": 93500,
+              "end_time": 93580,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93580,
+              "end_time": 93740,
+              "text": "eat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93740,
+              "end_time": 93980,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93980,
+              "end_time": 94380,
+              "text": "crisp",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 94540,
+              "end_time": 94780,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 94780,
+              "end_time": 95020,
+              "text": "before ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95020,
+              "end_time": 95100,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95100,
+              "end_time": 95340,
+              "text": "know ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95340,
+              "end_time": 95420,
+              "text": "it",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 95580,
+              "end_time": 95740,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95740,
+              "end_time": 95980,
+              "text": "whole ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95980,
+              "end_time": 96460,
+              "text": "packet's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96460,
+              "end_time": 96780,
+              "text": "gone",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 27,
+          "begin_time": 97164,
+          "end_time": 110444,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "In this episode, we'll be visiting two countries in love with crisps, and as usual, we'll be learning some useful new words and phrases, all of which you can find on our website, bbclearningenglish.",
+          "words": [
+            {
+              "begin_time": 97164,
+              "end_time": 97324,
+              "text": "In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 97324,
+              "end_time": 97484,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 97484,
+              "end_time": 98204,
+              "text": "episode",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 98284,
+              "end_time": 98444,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 98444,
+              "end_time": 98604,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 98604,
+              "end_time": 99164,
+              "text": "visiting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99244,
+              "end_time": 99484,
+              "text": "two ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99484,
+              "end_time": 100044,
+              "text": "countries ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100124,
+              "end_time": 100364,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100364,
+              "end_time": 100604,
+              "text": "love ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100604,
+              "end_time": 100844,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100924,
+              "end_time": 101484,
+              "text": "crisps",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 101884,
+              "end_time": 102124,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 102204,
+              "end_time": 102444,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 102524,
+              "end_time": 103084,
+              "text": "usual",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 103084,
+              "end_time": 103404,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103404,
+              "end_time": 103564,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103564,
+              "end_time": 103964,
+              "text": "learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103964,
+              "end_time": 104204,
+              "text": "some ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 104204,
+              "end_time": 104684,
+              "text": "useful ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 104764,
+              "end_time": 105084,
+              "text": "new ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105084,
+              "end_time": 105404,
+              "text": "words ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105404,
+              "end_time": 105564,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105564,
+              "end_time": 106124,
+              "text": "phrases",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 106444,
+              "end_time": 106604,
+              "text": " all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106604,
+              "end_time": 106764,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106764,
+              "end_time": 107004,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107004,
+              "end_time": 107084,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107084,
+              "end_time": 107244,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107244,
+              "end_time": 107644,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107644,
+              "end_time": 107804,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107804,
+              "end_time": 107964,
+              "text": "our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107964,
+              "end_time": 108604,
+              "text": "website",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 109004,
+              "end_time": 110444,
+              "text": " bbclearningenglish",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 28,
+          "begin_time": 110444,
+          "end_time": 111004,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "com.",
+          "words": [
+            {
+              "begin_time": 110444,
+              "end_time": 111004,
+              "text": "com",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 29,
+          "begin_time": 111244,
+          "end_time": 113404,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But first, I have a question for you, Beth.",
+          "words": [
+            {
+              "begin_time": 111244,
+              "end_time": 111644,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111644,
+              "end_time": 111964,
+              "text": "first",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 112044,
+              "end_time": 112044,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112044,
+              "end_time": 112204,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112204,
+              "end_time": 112284,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112284,
+              "end_time": 112764,
+              "text": "question ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112764,
+              "end_time": 112924,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112924,
+              "end_time": 113084,
+              "text": "you",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 113084,
+              "end_time": 113404,
+              "text": " Beth",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 30,
+          "begin_time": 114124,
+          "end_time": 121244,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " The record for the world's largest packet of crisps was recently broken in Saudi Arabia, but how much did the packet weigh?",
+          "words": [
+            {
+              "begin_time": 114124,
+              "end_time": 114204,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114204,
+              "end_time": 114764,
+              "text": "record ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114764,
+              "end_time": 114844,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114844,
+              "end_time": 114924,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114924,
+              "end_time": 115324,
+              "text": "world's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115404,
+              "end_time": 115884,
+              "text": "largest ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115964,
+              "end_time": 116204,
+              "text": "packet ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116204,
+              "end_time": 116364,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116364,
+              "end_time": 116924,
+              "text": "crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 116924,
+              "end_time": 117084,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117084,
+              "end_time": 117564,
+              "text": "recently ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117564,
+              "end_time": 118124,
+              "text": "broken ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118124,
+              "end_time": 118284,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118284,
+              "end_time": 118604,
+              "text": "Saudi ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118604,
+              "end_time": 119164,
+              "text": "Arabia",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 119484,
+              "end_time": 119564,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119564,
+              "end_time": 119964,
+              "text": "how ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119964,
+              "end_time": 120204,
+              "text": "much ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120204,
+              "end_time": 120364,
+              "text": "did ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120364,
+              "end_time": 120444,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120444,
+              "end_time": 120844,
+              "text": "packet ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120844,
+              "end_time": 121244,
+              "text": "weigh",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 31,
+          "begin_time": 121564,
+          "end_time": 123244,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Was it A About 1.5 tons?",
+          "words": [
+            {
+              "begin_time": 121564,
+              "end_time": 121804,
+              "text": " Was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121804,
+              "end_time": 121884,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121964,
+              "end_time": 122364,
+              "text": "A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122444,
+              "end_time": 122764,
+              "text": "About ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122764,
+              "end_time": 123244,
+              "text": "1.5 ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 123244,
+              "end_time": 123244,
+              "text": "tons",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 32,
+          "begin_time": 123244,
+          "end_time": 126684,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " B About 2.5 tons?",
+          "words": [
+            {
+              "begin_time": 123244,
+              "end_time": 123324,
+              "text": " B ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 123644,
+              "end_time": 123884,
+              "text": "About ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 125724,
+              "end_time": 125804,
+              "text": "2.5 ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 126284,
+              "end_time": 126684,
+              "text": "tons",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 33,
+          "begin_time": 126924,
+          "end_time": 128524,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Or C About 3.5 tons?",
+          "words": [
+            {
+              "begin_time": 126924,
+              "end_time": 127084,
+              "text": " Or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 127084,
+              "end_time": 127564,
+              "text": "C ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 127804,
+              "end_time": 128124,
+              "text": "About ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128204,
+              "end_time": 128524,
+              "text": "3.5 ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128524,
+              "end_time": 128524,
+              "text": "tons",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 34,
+          "begin_time": 128524,
+          "end_time": 128524,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " OK.",
+          "words": [
+            {
+              "begin_time": 128524,
+              "end_time": 128524,
+              "text": " OK",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 35,
+          "begin_time": 129964,
+          "end_time": 132364,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "OK, wow, they are all huge.",
+          "words": [
+            {
+              "begin_time": 129964,
+              "end_time": 130124,
+              "text": "OK",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 130284,
+              "end_time": 130604,
+              "text": " wow",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 130604,
+              "end_time": 130844,
+              "text": " they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 130844,
+              "end_time": 131324,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 131324,
+              "end_time": 131324,
+              "text": "all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 131724,
+              "end_time": 132364,
+              "text": "huge",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 36,
+          "begin_time": 132844,
+          "end_time": 135564,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I'm going to guess about 3.5 tonnes.",
+          "words": [
+            {
+              "begin_time": 132844,
+              "end_time": 133244,
+              "text": " I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133244,
+              "end_time": 133484,
+              "text": "going ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133484,
+              "end_time": 133564,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133564,
+              "end_time": 133804,
+              "text": "guess ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133804,
+              "end_time": 134284,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134284,
+              "end_time": 134604,
+              "text": "3.5 ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 135084,
+              "end_time": 135564,
+              "text": "tonnes",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 37,
+          "begin_time": 136524,
+          "end_time": 138604,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " OK, we'll find out the answer later.",
+          "words": [
+            {
+              "begin_time": 136524,
+              "end_time": 136924,
+              "text": " OK",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 137004,
+              "end_time": 137164,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137164,
+              "end_time": 137484,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137484,
+              "end_time": 137644,
+              "text": "out ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137724,
+              "end_time": 137804,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137804,
+              "end_time": 138124,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138124,
+              "end_time": 138604,
+              "text": "later",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 38,
+          "begin_time": 138924,
+          "end_time": 146444,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Let's travel first to Singapore, home of Jolene Ng, a market research analyst who specialises in salty snacks.",
+          "words": [
+            {
+              "begin_time": 138924,
+              "end_time": 139164,
+              "text": " Let's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139164,
+              "end_time": 139484,
+              "text": "travel ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139484,
+              "end_time": 139884,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139884,
+              "end_time": 139884,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139884,
+              "end_time": 140684,
+              "text": "Singapore",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 140844,
+              "end_time": 141164,
+              "text": " home ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141164,
+              "end_time": 141324,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141324,
+              "end_time": 141804,
+              "text": "Jolene ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141884,
+              "end_time": 142204,
+              "text": "Ng",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 142604,
+              "end_time": 142604,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 142684,
+              "end_time": 143084,
+              "text": "market ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143084,
+              "end_time": 143564,
+              "text": "research ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 143644,
+              "end_time": 144124,
+              "text": "analyst ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144124,
+              "end_time": 144284,
+              "text": "who ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144284,
+              "end_time": 145164,
+              "text": "specialises ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145164,
+              "end_time": 145324,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145324,
+              "end_time": 145804,
+              "text": "salty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145804,
+              "end_time": 146444,
+              "text": "snacks",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 39,
+          "begin_time": 146844,
+          "end_time": 151084,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Here's Jolene talking with Ruth Alexander for BBC programme The Food Chain.",
+          "words": [
+            {
+              "begin_time": 146844,
+              "end_time": 147084,
+              "text": " Here's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147084,
+              "end_time": 147564,
+              "text": "Jolene ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147564,
+              "end_time": 147884,
+              "text": "talking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147884,
+              "end_time": 148044,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 148124,
+              "end_time": 148364,
+              "text": "Ruth ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 148364,
+              "end_time": 149004,
+              "text": "Alexander ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149004,
+              "end_time": 149164,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149164,
+              "end_time": 149644,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149644,
+              "end_time": 150204,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150364,
+              "end_time": 150444,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150444,
+              "end_time": 150764,
+              "text": "Food ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150764,
+              "end_time": 151084,
+              "text": "Chain",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 40,
+          "begin_time": 151372,
+          "end_time": 155852,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Is the potato chip the most popular of all salty snacks?",
+          "words": [
+            {
+              "begin_time": 151372,
+              "end_time": 151852,
+              "text": "Is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151852,
+              "end_time": 151932,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151932,
+              "end_time": 152332,
+              "text": "potato ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 152332,
+              "end_time": 152732,
+              "text": "chip ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 152892,
+              "end_time": 153052,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153052,
+              "end_time": 153372,
+              "text": "most ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153452,
+              "end_time": 154092,
+              "text": "popular ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154492,
+              "end_time": 154652,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154652,
+              "end_time": 154892,
+              "text": "all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154892,
+              "end_time": 155212,
+              "text": "salty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 155292,
+              "end_time": 155852,
+              "text": "snacks",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 41,
+          "begin_time": 156572,
+          "end_time": 159292,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " It's very, very much dependent on personal preference.",
+          "words": [
+            {
+              "begin_time": 156572,
+              "end_time": 156812,
+              "text": " It's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156812,
+              "end_time": 157132,
+              "text": "very",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 157132,
+              "end_time": 157372,
+              "text": " very ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 157372,
+              "end_time": 157532,
+              "text": "much ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 157532,
+              "end_time": 158012,
+              "text": "dependent ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158012,
+              "end_time": 158172,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158172,
+              "end_time": 158572,
+              "text": "personal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158572,
+              "end_time": 159292,
+              "text": "preference",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 42,
+          "begin_time": 159292,
+          "end_time": 165932,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But if I were to look at certain countries, you could see, like in the UK, it's very much part and parcel of life.",
+          "words": [
+            {
+              "begin_time": 159292,
+              "end_time": 159532,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159532,
+              "end_time": 159612,
+              "text": "if ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159612,
+              "end_time": 159692,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159692,
+              "end_time": 159852,
+              "text": "were ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159852,
+              "end_time": 160012,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160012,
+              "end_time": 160252,
+              "text": "look ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160332,
+              "end_time": 160572,
+              "text": "at ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160812,
+              "end_time": 161292,
+              "text": "certain ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 161292,
+              "end_time": 161932,
+              "text": "countries",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 161932,
+              "end_time": 162012,
+              "text": " you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162012,
+              "end_time": 162092,
+              "text": "could ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162092,
+              "end_time": 162412,
+              "text": "see",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 162412,
+              "end_time": 162572,
+              "text": " like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162572,
+              "end_time": 162732,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162732,
+              "end_time": 162812,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162812,
+              "end_time": 163612,
+              "text": "UK",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 163772,
+              "end_time": 164012,
+              "text": " it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164012,
+              "end_time": 164412,
+              "text": "very ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164412,
+              "end_time": 164732,
+              "text": "much ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164732,
+              "end_time": 164972,
+              "text": "part ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164972,
+              "end_time": 165052,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 165052,
+              "end_time": 165532,
+              "text": "parcel ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 165532,
+              "end_time": 165692,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 165692,
+              "end_time": 165932,
+              "text": "life",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 43,
+          "begin_time": 166012,
+          "end_time": 173772,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You don't have it only during snack times; you have it with lunch as well, or you put it my husband's from UK and he kind of put it in his sandwich as well.",
+          "words": [
+            {
+              "begin_time": 166012,
+              "end_time": 166092,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166092,
+              "end_time": 166252,
+              "text": "don't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166252,
+              "end_time": 166412,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166412,
+              "end_time": 166572,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166572,
+              "end_time": 166812,
+              "text": "only ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166812,
+              "end_time": 167132,
+              "text": "during ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 167132,
+              "end_time": 167452,
+              "text": "snack ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 167452,
+              "end_time": 168012,
+              "text": "times",
+              "punctuation": ";"
+            },
+            {
+              "begin_time": 168012,
+              "end_time": 168172,
+              "text": " you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168172,
+              "end_time": 168412,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168492,
+              "end_time": 168652,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168892,
+              "end_time": 169052,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169052,
+              "end_time": 169452,
+              "text": "lunch ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169452,
+              "end_time": 169612,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169612,
+              "end_time": 170012,
+              "text": "well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 170012,
+              "end_time": 170012,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170092,
+              "end_time": 170252,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170252,
+              "end_time": 170412,
+              "text": "put ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170412,
+              "end_time": 170572,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170732,
+              "end_time": 170892,
+              "text": "my ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170892,
+              "end_time": 171212,
+              "text": "husband's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171212,
+              "end_time": 171292,
+              "text": "from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171292,
+              "end_time": 171692,
+              "text": "UK ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171692,
+              "end_time": 171852,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171852,
+              "end_time": 171932,
+              "text": "he ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171932,
+              "end_time": 172012,
+              "text": "kind ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172092,
+              "end_time": 172172,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172172,
+              "end_time": 172332,
+              "text": "put ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172332,
+              "end_time": 172492,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172492,
+              "end_time": 172652,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172652,
+              "end_time": 172812,
+              "text": "his ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 172812,
+              "end_time": 173292,
+              "text": "sandwich ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 173292,
+              "end_time": 173452,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 173452,
+              "end_time": 173772,
+              "text": "well",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 44,
+          "begin_time": 173772,
+          "end_time": 176732,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Oh, yeah, a cheese sandwich with a crisp inside.",
+          "words": [
+            {
+              "begin_time": 173772,
+              "end_time": 173852,
+              "text": " Oh",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 173852,
+              "end_time": 174092,
+              "text": " yeah",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 174092,
+              "end_time": 174092,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174092,
+              "end_time": 174492,
+              "text": "cheese ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174492,
+              "end_time": 175052,
+              "text": "sandwich ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 175052,
+              "end_time": 175212,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 175212,
+              "end_time": 175292,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 175292,
+              "end_time": 175692,
+              "text": "crisp ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 176012,
+              "end_time": 176732,
+              "text": "inside",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 45,
+          "begin_time": 176732,
+          "end_time": 177612,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Oh, yeah, that's great.",
+          "words": [
+            {
+              "begin_time": 176732,
+              "end_time": 176892,
+              "text": " Oh",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 176892,
+              "end_time": 177132,
+              "text": " yeah",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 177132,
+              "end_time": 177292,
+              "text": " that's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 177292,
+              "end_time": 177612,
+              "text": "great",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 46,
+          "begin_time": 177612,
+          "end_time": 178572,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Exactly.",
+          "words": [
+            {
+              "begin_time": 177612,
+              "end_time": 178572,
+              "text": " Exactly",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 47,
+          "begin_time": 178508,
+          "end_time": 189468,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Jolene says the popularity of different snacks depends on personal preference someone's subjective liking or disliking for something based on their personal opinion.",
+          "words": [
+            {
+              "begin_time": 178508,
+              "end_time": 179548,
+              "text": "Jolene ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 179548,
+              "end_time": 180028,
+              "text": "says ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180028,
+              "end_time": 180108,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180108,
+              "end_time": 180988,
+              "text": "popularity ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180988,
+              "end_time": 181068,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 181068,
+              "end_time": 181468,
+              "text": "different ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 181468,
+              "end_time": 182028,
+              "text": "snacks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182028,
+              "end_time": 182508,
+              "text": "depends ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182508,
+              "end_time": 182828,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182828,
+              "end_time": 183388,
+              "text": "personal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 183388,
+              "end_time": 184108,
+              "text": "preference ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 184588,
+              "end_time": 184988,
+              "text": "someone's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 184988,
+              "end_time": 185708,
+              "text": "subjective ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 185708,
+              "end_time": 186268,
+              "text": "liking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 186268,
+              "end_time": 186428,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 186428,
+              "end_time": 187228,
+              "text": "disliking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187228,
+              "end_time": 187308,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187308,
+              "end_time": 187868,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187868,
+              "end_time": 188188,
+              "text": "based ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188188,
+              "end_time": 188348,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188348,
+              "end_time": 188428,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188508,
+              "end_time": 188988,
+              "text": "personal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188988,
+              "end_time": 189468,
+              "text": "opinion",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 48,
+          "begin_time": 190108,
+          "end_time": 193788,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In some places, crisps are part and parcel of everyday life.",
+          "words": [
+            {
+              "begin_time": 190108,
+              "end_time": 190268,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 190268,
+              "end_time": 190588,
+              "text": "some ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 190588,
+              "end_time": 191068,
+              "text": "places",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 191068,
+              "end_time": 191628,
+              "text": " crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191628,
+              "end_time": 191788,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191788,
+              "end_time": 192108,
+              "text": "part ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192188,
+              "end_time": 192268,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192268,
+              "end_time": 192748,
+              "text": "parcel ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192748,
+              "end_time": 192908,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192908,
+              "end_time": 193388,
+              "text": "everyday ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 193388,
+              "end_time": 193788,
+              "text": "life",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 49,
+          "begin_time": 194348,
+          "end_time": 198188,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Part and parcel means to be an essential element or feature of something.",
+          "words": [
+            {
+              "begin_time": 194348,
+              "end_time": 194668,
+              "text": " Part ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194668,
+              "end_time": 194748,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194748,
+              "end_time": 195228,
+              "text": "parcel ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195228,
+              "end_time": 195628,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195628,
+              "end_time": 195708,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195708,
+              "end_time": 195948,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195948,
+              "end_time": 196028,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196028,
+              "end_time": 196508,
+              "text": "essential ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196508,
+              "end_time": 196988,
+              "text": "element ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196988,
+              "end_time": 197068,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197068,
+              "end_time": 197628,
+              "text": "feature ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197628,
+              "end_time": 197708,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197708,
+              "end_time": 198188,
+              "text": "something",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 50,
+          "begin_time": 198828,
+          "end_time": 203068,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In Britain, crisps are so essential that people even eat crisp sandwiches.",
+          "words": [
+            {
+              "begin_time": 198828,
+              "end_time": 198988,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 198988,
+              "end_time": 199308,
+              "text": "Britain",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 199308,
+              "end_time": 199788,
+              "text": " crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199788,
+              "end_time": 199868,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199868,
+              "end_time": 200108,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 200108,
+              "end_time": 200668,
+              "text": "essential ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 200908,
+              "end_time": 200988,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201068,
+              "end_time": 201388,
+              "text": "people ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201388,
+              "end_time": 201708,
+              "text": "even ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201708,
+              "end_time": 201948,
+              "text": "eat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201948,
+              "end_time": 202268,
+              "text": "crisp ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202348,
+              "end_time": 203068,
+              "text": "sandwiches",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 51,
+          "begin_time": 203388,
+          "end_time": 206988,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But not everywhere is so in love with potato chips.",
+          "words": [
+            {
+              "begin_time": 203388,
+              "end_time": 203628,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203628,
+              "end_time": 203868,
+              "text": "not ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203948,
+              "end_time": 204748,
+              "text": "everywhere ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204748,
+              "end_time": 204908,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204908,
+              "end_time": 205228,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205228,
+              "end_time": 205388,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205388,
+              "end_time": 205708,
+              "text": "love ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205708,
+              "end_time": 205948,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205948,
+              "end_time": 206428,
+              "text": "potato ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 206428,
+              "end_time": 206988,
+              "text": "chips",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 52,
+          "begin_time": 207548,
+          "end_time": 211308,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Let's meet Jenny Martinez, a food blogger from Mexico.",
+          "words": [
+            {
+              "begin_time": 207548,
+              "end_time": 207708,
+              "text": " Let's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 207868,
+              "end_time": 208188,
+              "text": "meet ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208268,
+              "end_time": 208588,
+              "text": "Jenny ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208588,
+              "end_time": 209388,
+              "text": "Martinez",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 209628,
+              "end_time": 209708,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 209708,
+              "end_time": 210028,
+              "text": "food ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210028,
+              "end_time": 210348,
+              "text": "blogger ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210348,
+              "end_time": 210748,
+              "text": "from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210748,
+              "end_time": 211308,
+              "text": "Mexico",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 53,
+          "begin_time": 211948,
+          "end_time": 222588,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In Mexico, tortilla corn chips are eaten instead of potato chips, and it's common to see street vendors selling bags of corn tortillas filled with different sauces.",
+          "words": [
+            {
+              "begin_time": 211948,
+              "end_time": 212188,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 212188,
+              "end_time": 212828,
+              "text": "Mexico",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 212908,
+              "end_time": 213468,
+              "text": " tortilla ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213548,
+              "end_time": 213868,
+              "text": "corn ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213868,
+              "end_time": 214188,
+              "text": "chips ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214188,
+              "end_time": 214268,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214348,
+              "end_time": 214828,
+              "text": "eaten ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214828,
+              "end_time": 215388,
+              "text": "instead ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215388,
+              "end_time": 215468,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215548,
+              "end_time": 216028,
+              "text": "potato ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 216028,
+              "end_time": 216508,
+              "text": "chips",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 216508,
+              "end_time": 217068,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217068,
+              "end_time": 217228,
+              "text": "it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217228,
+              "end_time": 217628,
+              "text": "common ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217628,
+              "end_time": 217708,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217708,
+              "end_time": 217948,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217948,
+              "end_time": 218348,
+              "text": "street ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218348,
+              "end_time": 218828,
+              "text": "vendors ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218908,
+              "end_time": 219468,
+              "text": "selling ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219468,
+              "end_time": 219788,
+              "text": "bags ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219788,
+              "end_time": 219948,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219948,
+              "end_time": 220268,
+              "text": "corn ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 220268,
+              "end_time": 220908,
+              "text": "tortillas ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 220908,
+              "end_time": 221308,
+              "text": "filled ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221308,
+              "end_time": 221548,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221548,
+              "end_time": 221948,
+              "text": "different ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221948,
+              "end_time": 222588,
+              "text": "sauces",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 54,
+          "begin_time": 223212,
+          "end_time": 228652,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Here, Jenny tells Ruth Alexander more for BBC World Service programme The Food Chain.",
+          "words": [
+            {
+              "begin_time": 223212,
+              "end_time": 223532,
+              "text": "Here",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 223852,
+              "end_time": 224252,
+              "text": " Jenny ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 224252,
+              "end_time": 224652,
+              "text": "tells ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 224652,
+              "end_time": 224892,
+              "text": "Ruth ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 224892,
+              "end_time": 225852,
+              "text": "Alexander ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 225852,
+              "end_time": 225852,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 225932,
+              "end_time": 226092,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226092,
+              "end_time": 226572,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226572,
+              "end_time": 226972,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226972,
+              "end_time": 227292,
+              "text": "Service ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227292,
+              "end_time": 227852,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227852,
+              "end_time": 227932,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227932,
+              "end_time": 228252,
+              "text": "Food ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 228252,
+              "end_time": 228652,
+              "text": "Chain",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 55,
+          "begin_time": 223228,
+          "end_time": 223388,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Here.",
+          "words": [
+            {
+              "begin_time": 223228,
+              "end_time": 223388,
+              "text": " Here",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 56,
+          "begin_time": 228972,
+          "end_time": 233372,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " For you, which is your go-to snack, the tortilla chip or the potato chip?",
+          "words": [
+            {
+              "begin_time": 228972,
+              "end_time": 229132,
+              "text": " For ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229132,
+              "end_time": 229772,
+              "text": "you",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 229932,
+              "end_time": 230172,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 230172,
+              "end_time": 230252,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 230252,
+              "end_time": 230412,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 230412,
+              "end_time": 230732,
+              "text": "go",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 230812,
+              "end_time": 230972,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 230972,
+              "end_time": 231372,
+              "text": "snack",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 231452,
+              "end_time": 231532,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 231532,
+              "end_time": 232092,
+              "text": "tortilla ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232092,
+              "end_time": 232492,
+              "text": "chip ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232572,
+              "end_time": 232652,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232652,
+              "end_time": 232732,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232732,
+              "end_time": 233132,
+              "text": "potato ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 233132,
+              "end_time": 233372,
+              "text": "chip",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 57,
+          "begin_time": 233532,
+          "end_time": 234892,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Definitely the tortilla chip.",
+          "words": [
+            {
+              "begin_time": 233532,
+              "end_time": 234092,
+              "text": " Definitely ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234092,
+              "end_time": 234252,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234252,
+              "end_time": 234812,
+              "text": "tortilla ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234812,
+              "end_time": 234892,
+              "text": "chip",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 58,
+          "begin_time": 234972,
+          "end_time": 235292,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Why?",
+          "words": [
+            {
+              "begin_time": 234972,
+              "end_time": 235292,
+              "text": " Why",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 59,
+          "begin_time": 235772,
+          "end_time": 237932,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Because you could do so many things.",
+          "words": [
+            {
+              "begin_time": 235772,
+              "end_time": 236572,
+              "text": " Because ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236572,
+              "end_time": 236652,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236652,
+              "end_time": 236892,
+              "text": "could ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236892,
+              "end_time": 237052,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 237052,
+              "end_time": 237212,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 237212,
+              "end_time": 237452,
+              "text": "many ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 237452,
+              "end_time": 237932,
+              "text": "things",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 60,
+          "begin_time": 238012,
+          "end_time": 240892,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Dip it in almost everything.",
+          "words": [
+            {
+              "begin_time": 238012,
+              "end_time": 238252,
+              "text": " Dip ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 238332,
+              "end_time": 238572,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 238572,
+              "end_time": 238732,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 238732,
+              "end_time": 239372,
+              "text": "almost ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 240012,
+              "end_time": 240892,
+              "text": "everything",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 61,
+          "begin_time": 241132,
+          "end_time": 249612,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Adding some guacamole, spicy salsa, or just sour cream with a mixture of chipotle sauce.",
+          "words": [
+            {
+              "begin_time": 241132,
+              "end_time": 241692,
+              "text": " Adding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241692,
+              "end_time": 241932,
+              "text": "some ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241932,
+              "end_time": 243212,
+              "text": "guacamole",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 243212,
+              "end_time": 243852,
+              "text": " spicy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243852,
+              "end_time": 244732,
+              "text": "salsa",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 244972,
+              "end_time": 245132,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 245132,
+              "end_time": 245532,
+              "text": "just ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 245612,
+              "end_time": 246092,
+              "text": "sour ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 246092,
+              "end_time": 246572,
+              "text": "cream ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 246572,
+              "end_time": 246812,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 246812,
+              "end_time": 246892,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 246892,
+              "end_time": 247772,
+              "text": "mixture ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 247772,
+              "end_time": 247852,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 248172,
+              "end_time": 248812,
+              "text": "chipotle ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 248892,
+              "end_time": 249612,
+              "text": "sauce",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 62,
+          "begin_time": 249932,
+          "end_time": 253692,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Ruth asks if tortillas are Jenny's go-to snack.",
+          "words": [
+            {
+              "begin_time": 249932,
+              "end_time": 250332,
+              "text": "Ruth ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 250332,
+              "end_time": 250812,
+              "text": "asks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 250812,
+              "end_time": 250972,
+              "text": "if ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251052,
+              "end_time": 251692,
+              "text": "tortillas ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251692,
+              "end_time": 251932,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251932,
+              "end_time": 252332,
+              "text": "Jenny's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252572,
+              "end_time": 252812,
+              "text": "go",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 252892,
+              "end_time": 253132,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 253132,
+              "end_time": 253692,
+              "text": "snack",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 63,
+          "begin_time": 249932,
+          "end_time": 250252,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Ruth.",
+          "words": [
+            {
+              "begin_time": 249932,
+              "end_time": 250252,
+              "text": " Ruth",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 64,
+          "begin_time": 254092,
+          "end_time": 261132,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You can use the phrase 'go to' to describe something which is relied upon to be the best thing for a particular purpose.",
+          "words": [
+            {
+              "begin_time": 254092,
+              "end_time": 254252,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254252,
+              "end_time": 254412,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254412,
+              "end_time": 254652,
+              "text": "use ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254652,
+              "end_time": 254652,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254652,
+              "end_time": 255132,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 255132,
+              "end_time": 255532,
+              "text": "'go ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 255532,
+              "end_time": 255932,
+              "text": "to' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 255932,
+              "end_time": 255932,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 256092,
+              "end_time": 256652,
+              "text": "describe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 256652,
+              "end_time": 257132,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257132,
+              "end_time": 257452,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257452,
+              "end_time": 257612,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257612,
+              "end_time": 258092,
+              "text": "relied ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258092,
+              "end_time": 258492,
+              "text": "upon ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258732,
+              "end_time": 258732,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258732,
+              "end_time": 258892,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258892,
+              "end_time": 258972,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258972,
+              "end_time": 259372,
+              "text": "best ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259372,
+              "end_time": 259692,
+              "text": "thing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259772,
+              "end_time": 259932,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259932,
+              "end_time": 259932,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259932,
+              "end_time": 260492,
+              "text": "particular ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260492,
+              "end_time": 261132,
+              "text": "purpose",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 65,
+          "begin_time": 261532,
+          "end_time": 266652,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " For example, for a lot of people, Wikipedia is the go-to website for online information.",
+          "words": [
+            {
+              "begin_time": 261532,
+              "end_time": 261612,
+              "text": " For ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 261612,
+              "end_time": 262092,
+              "text": "example",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 262092,
+              "end_time": 262252,
+              "text": " for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262252,
+              "end_time": 262332,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262332,
+              "end_time": 262492,
+              "text": "lot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262492,
+              "end_time": 262572,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262652,
+              "end_time": 263052,
+              "text": "people",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 263052,
+              "end_time": 263772,
+              "text": " Wikipedia ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264012,
+              "end_time": 264172,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264172,
+              "end_time": 264332,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264332,
+              "end_time": 264652,
+              "text": "go",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 264812,
+              "end_time": 264972,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264972,
+              "end_time": 265372,
+              "text": "website ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265452,
+              "end_time": 265612,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265612,
+              "end_time": 266092,
+              "text": "online ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266092,
+              "end_time": 266652,
+              "text": "information",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 66,
+          "begin_time": 267084,
+          "end_time": 279964,
+          "language": "en",
+          "emotion": "happy",
+          "text": "And Jenny thinks corn tortillas are especially good with guacamole, a paste made of mashed avocado, which sounds delicious and maybe a little healthier than a British crisp sandwich.",
+          "words": [
+            {
+              "begin_time": 267084,
+              "end_time": 267324,
+              "text": "And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 267324,
+              "end_time": 267644,
+              "text": "Jenny ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 267644,
+              "end_time": 268044,
+              "text": "thinks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 268044,
+              "end_time": 268364,
+              "text": "corn ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 268364,
+              "end_time": 268924,
+              "text": "tortillas ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 268924,
+              "end_time": 269164,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269164,
+              "end_time": 269964,
+              "text": "especially ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269964,
+              "end_time": 270284,
+              "text": "good ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 270524,
+              "end_time": 270604,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 270764,
+              "end_time": 271564,
+              "text": "guacamole",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 271804,
+              "end_time": 271884,
+              "text": " a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 271884,
+              "end_time": 272524,
+              "text": "paste ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272604,
+              "end_time": 272924,
+              "text": "made ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272924,
+              "end_time": 273004,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 273004,
+              "end_time": 273404,
+              "text": "mashed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 273484,
+              "end_time": 274364,
+              "text": "avocado",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 275004,
+              "end_time": 275244,
+              "text": " which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 275244,
+              "end_time": 275564,
+              "text": "sounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 275564,
+              "end_time": 276444,
+              "text": "delicious ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 276684,
+              "end_time": 276844,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 276844,
+              "end_time": 277164,
+              "text": "maybe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277164,
+              "end_time": 277164,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277164,
+              "end_time": 277564,
+              "text": "little ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277564,
+              "end_time": 278044,
+              "text": "healthier ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 278204,
+              "end_time": 278364,
+              "text": "than ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 278364,
+              "end_time": 278364,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 278364,
+              "end_time": 278924,
+              "text": "British ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 278924,
+              "end_time": 279324,
+              "text": "crisp ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279324,
+              "end_time": 279964,
+              "text": "sandwich",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 67,
+          "begin_time": 280524,
+          "end_time": 283484,
+          "language": "en",
+          "emotion": "happy",
+          "text": " Speaking of which, what was the answer to your question, Neil?",
+          "words": [
+            {
+              "begin_time": 280524,
+              "end_time": 280924,
+              "text": " Speaking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281004,
+              "end_time": 281084,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281084,
+              "end_time": 281324,
+              "text": "which",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 281324,
+              "end_time": 281484,
+              "text": " what ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281484,
+              "end_time": 281644,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281644,
+              "end_time": 281724,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281804,
+              "end_time": 282204,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282284,
+              "end_time": 282364,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282364,
+              "end_time": 282604,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282604,
+              "end_time": 283164,
+              "text": "question",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 283164,
+              "end_time": 283484,
+              "text": " Neil",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 68,
+          "begin_time": 283724,
+          "end_time": 287404,
+          "language": "en",
+          "emotion": "happy",
+          "text": " I asked you how heavy the world's largest bag of crisps was.",
+          "words": [
+            {
+              "begin_time": 283724,
+              "end_time": 283964,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 283964,
+              "end_time": 284204,
+              "text": "asked ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284204,
+              "end_time": 284444,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284444,
+              "end_time": 284684,
+              "text": "how ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284684,
+              "end_time": 285164,
+              "text": "heavy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285164,
+              "end_time": 285244,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285244,
+              "end_time": 285644,
+              "text": "world's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285644,
+              "end_time": 286204,
+              "text": "largest ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 286204,
+              "end_time": 286444,
+              "text": "bag ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 286444,
+              "end_time": 286604,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 286604,
+              "end_time": 287004,
+              "text": "crisps ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287004,
+              "end_time": 287404,
+              "text": "was",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 69,
+          "begin_time": 287724,
+          "end_time": 291404,
+          "language": "en",
+          "emotion": "happy",
+          "text": " And I said very heavy, over three and a half tons.",
+          "words": [
+            {
+              "begin_time": 287724,
+              "end_time": 287804,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287804,
+              "end_time": 287964,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287964,
+              "end_time": 288284,
+              "text": "said ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 288284,
+              "end_time": 288844,
+              "text": "very ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 288844,
+              "end_time": 289404,
+              "text": "heavy",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 289404,
+              "end_time": 289644,
+              "text": " over ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289644,
+              "end_time": 290124,
+              "text": "three ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290124,
+              "end_time": 290284,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290284,
+              "end_time": 290284,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290284,
+              "end_time": 290524,
+              "text": "half ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290604,
+              "end_time": 291404,
+              "text": "tons",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 70,
+          "begin_time": 291404,
+          "end_time": 296924,
+          "language": "en",
+          "emotion": "happy",
+          "text": " Well, it's not that big, but the real answer is still enormous about one point five tons.",
+          "words": [
+            {
+              "begin_time": 291404,
+              "end_time": 291804,
+              "text": " Well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 291884,
+              "end_time": 292044,
+              "text": " it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292044,
+              "end_time": 292364,
+              "text": "not ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292364,
+              "end_time": 292524,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292524,
+              "end_time": 292684,
+              "text": "big",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 293084,
+              "end_time": 293244,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293244,
+              "end_time": 293324,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293324,
+              "end_time": 293564,
+              "text": "real ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293564,
+              "end_time": 293884,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293884,
+              "end_time": 294124,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 294124,
+              "end_time": 294364,
+              "text": "still ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 294364,
+              "end_time": 294924,
+              "text": "enormous ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 295084,
+              "end_time": 295484,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 295484,
+              "end_time": 295804,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 295804,
+              "end_time": 296124,
+              "text": "point ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 296124,
+              "end_time": 296524,
+              "text": "five ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 296524,
+              "end_time": 296924,
+              "text": "tons",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 71,
+          "begin_time": 297164,
+          "end_time": 300284,
+          "language": "en",
+          "emotion": "happy",
+          "text": " The bag, made in Riyadh, was nine metres tall.",
+          "words": [
+            {
+              "begin_time": 297164,
+              "end_time": 297244,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 297244,
+              "end_time": 297724,
+              "text": "bag",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 297804,
+              "end_time": 298044,
+              "text": " made ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298044,
+              "end_time": 298124,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298124,
+              "end_time": 298524,
+              "text": "Riyadh",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 298764,
+              "end_time": 298924,
+              "text": " was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298924,
+              "end_time": 299564,
+              "text": "nine ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 299564,
+              "end_time": 299964,
+              "text": "metres ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 299964,
+              "end_time": 300284,
+              "text": "tall",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 72,
+          "begin_time": 300604,
+          "end_time": 300764,
+          "language": "en",
+          "emotion": "happy",
+          "text": " Yeah.",
+          "words": [
+            {
+              "begin_time": 300604,
+              "end_time": 300764,
+              "text": " Yeah",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 73,
+          "begin_time": 300620,
+          "end_time": 300780,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Yeah.",
+          "words": [
+            {
+              "begin_time": 300620,
+              "end_time": 300780,
+              "text": "Yeah",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 74,
+          "begin_time": 301340,
+          "end_time": 310380,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " OK, let's recap the vocabulary we've learned, starting with the phrase 'you can't beat that' meaning that something is the best and you won't find anything better.",
+          "words": [
+            {
+              "begin_time": 301340,
+              "end_time": 301820,
+              "text": " OK",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 301820,
+              "end_time": 301980,
+              "text": " let's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301980,
+              "end_time": 302540,
+              "text": "recap ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 302540,
+              "end_time": 302620,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 302620,
+              "end_time": 303420,
+              "text": "vocabulary ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 303420,
+              "end_time": 303580,
+              "text": "we've ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 303580,
+              "end_time": 303980,
+              "text": "learned",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 304220,
+              "end_time": 304700,
+              "text": " starting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 304700,
+              "end_time": 304860,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 304860,
+              "end_time": 304860,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 304860,
+              "end_time": 305420,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 305580,
+              "end_time": 305740,
+              "text": "'you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 305740,
+              "end_time": 306060,
+              "text": "can't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 306060,
+              "end_time": 306300,
+              "text": "beat ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 306380,
+              "end_time": 306620,
+              "text": "that' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307100,
+              "end_time": 307420,
+              "text": "meaning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307500,
+              "end_time": 307500,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307500,
+              "end_time": 308060,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308060,
+              "end_time": 308220,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308220,
+              "end_time": 308300,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308300,
+              "end_time": 308860,
+              "text": "best ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308940,
+              "end_time": 309100,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309100,
+              "end_time": 309260,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309260,
+              "end_time": 309420,
+              "text": "won't ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309420,
+              "end_time": 309740,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309740,
+              "end_time": 310140,
+              "text": "anything ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310140,
+              "end_time": 310380,
+              "text": "better",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 75,
+          "begin_time": 310780,
+          "end_time": 316540,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " A snowball effect is a situation where one action causes other similar actions to happen.",
+          "words": [
+            {
+              "begin_time": 310780,
+              "end_time": 310860,
+              "text": " A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310860,
+              "end_time": 311340,
+              "text": "snowball ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 311340,
+              "end_time": 311820,
+              "text": "effect ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 311900,
+              "end_time": 312060,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312060,
+              "end_time": 312140,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312140,
+              "end_time": 312940,
+              "text": "situation ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312940,
+              "end_time": 313180,
+              "text": "where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313180,
+              "end_time": 313500,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313500,
+              "end_time": 314060,
+              "text": "action ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314140,
+              "end_time": 314540,
+              "text": "causes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314700,
+              "end_time": 315020,
+              "text": "other ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 315020,
+              "end_time": 315420,
+              "text": "similar ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 315420,
+              "end_time": 315980,
+              "text": "actions ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316060,
+              "end_time": 316060,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316140,
+              "end_time": 316540,
+              "text": "happen",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 76,
+          "begin_time": 316940,
+          "end_time": 323740,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Someone's personal preference is their subjective liking or disliking for something based on their own opinion.",
+          "words": [
+            {
+              "begin_time": 316940,
+              "end_time": 317500,
+              "text": " Someone's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317580,
+              "end_time": 318060,
+              "text": "personal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318060,
+              "end_time": 318780,
+              "text": "preference ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318780,
+              "end_time": 318940,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318940,
+              "end_time": 319180,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319180,
+              "end_time": 319900,
+              "text": "subjective ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319900,
+              "end_time": 320540,
+              "text": "liking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 320780,
+              "end_time": 320940,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 320940,
+              "end_time": 321580,
+              "text": "disliking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321580,
+              "end_time": 321740,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321740,
+              "end_time": 322220,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322380,
+              "end_time": 322700,
+              "text": "based ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322700,
+              "end_time": 322860,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322860,
+              "end_time": 323020,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323020,
+              "end_time": 323180,
+              "text": "own ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323180,
+              "end_time": 323740,
+              "text": "opinion",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 77,
+          "begin_time": 324060,
+          "end_time": 329420,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " To be part and parcel of something means to be an essential or integral feature of it.",
+          "words": [
+            {
+              "begin_time": 324060,
+              "end_time": 324140,
+              "text": " To ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324140,
+              "end_time": 324460,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324460,
+              "end_time": 324860,
+              "text": "part ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324860,
+              "end_time": 325020,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325020,
+              "end_time": 325500,
+              "text": "parcel ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325500,
+              "end_time": 325580,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325580,
+              "end_time": 326060,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326460,
+              "end_time": 326620,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326700,
+              "end_time": 326780,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326780,
+              "end_time": 327020,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327020,
+              "end_time": 327180,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327180,
+              "end_time": 327820,
+              "text": "essential ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327900,
+              "end_time": 328060,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328060,
+              "end_time": 328780,
+              "text": "integral ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328780,
+              "end_time": 329180,
+              "text": "feature ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329180,
+              "end_time": 329260,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329260,
+              "end_time": 329420,
+              "text": "it",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 78,
+          "begin_time": 329820,
+          "end_time": 336540,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And something which is described as the go-to can be relied upon as the best thing for a particular situation.",
+          "words": [
+            {
+              "begin_time": 329820,
+              "end_time": 330060,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330060,
+              "end_time": 330540,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330540,
+              "end_time": 330780,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330780,
+              "end_time": 330860,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 330860,
+              "end_time": 331500,
+              "text": "described ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331500,
+              "end_time": 331740,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331740,
+              "end_time": 331820,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331820,
+              "end_time": 332140,
+              "text": "go",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 332300,
+              "end_time": 332540,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332540,
+              "end_time": 332700,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332700,
+              "end_time": 332780,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332780,
+              "end_time": 333260,
+              "text": "relied ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333260,
+              "end_time": 333660,
+              "text": "upon ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333740,
+              "end_time": 333900,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333900,
+              "end_time": 333980,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333980,
+              "end_time": 334460,
+              "text": "best ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334460,
+              "end_time": 334860,
+              "text": "thing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334860,
+              "end_time": 335100,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335100,
+              "end_time": 335100,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335100,
+              "end_time": 335740,
+              "text": "particular ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335740,
+              "end_time": 336540,
+              "text": "situation",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 79,
+          "begin_time": 336700,
+          "end_time": 342460,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And finally, guacamole is a paste made of mashed avocado, lime juice and salt.",
+          "words": [
+            {
+              "begin_time": 336700,
+              "end_time": 336940,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336940,
+              "end_time": 337660,
+              "text": "finally",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 337740,
+              "end_time": 338540,
+              "text": " guacamole ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 338540,
+              "end_time": 338780,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 338780,
+              "end_time": 338780,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 338780,
+              "end_time": 339340,
+              "text": "paste ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 339340,
+              "end_time": 339580,
+              "text": "made ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 339580,
+              "end_time": 339740,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 339740,
+              "end_time": 340140,
+              "text": "mashed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340140,
+              "end_time": 340860,
+              "text": "avocado",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 341100,
+              "end_time": 341340,
+              "text": " lime ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341340,
+              "end_time": 341660,
+              "text": "juice ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341740,
+              "end_time": 341900,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341900,
+              "end_time": 342460,
+              "text": "salt",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 80,
+          "begin_time": 342620,
+          "end_time": 343020,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Delicious!",
+          "words": [
+            {
+              "begin_time": 342620,
+              "end_time": 343020,
+              "text": " Delicious",
+              "punctuation": "!"
+            }
+          ]
+        },
+        {
+          "sentence_id": 81,
+          "begin_time": 343740,
+          "end_time": 350060,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Once again, our six minutes are up, but if you're hungry for more, then head over to our website: bbclearningenglish.",
+          "words": [
+            {
+              "begin_time": 343740,
+              "end_time": 343980,
+              "text": " Once ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 343980,
+              "end_time": 344380,
+              "text": "again",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 344460,
+              "end_time": 344700,
+              "text": " our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 344700,
+              "end_time": 345100,
+              "text": "six ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 345100,
+              "end_time": 345420,
+              "text": "minutes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 345420,
+              "end_time": 345500,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 345580,
+              "end_time": 345740,
+              "text": "up",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 345900,
+              "end_time": 346140,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346140,
+              "end_time": 346380,
+              "text": "if ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346380,
+              "end_time": 346540,
+              "text": "you're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346540,
+              "end_time": 346940,
+              "text": "hungry ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347020,
+              "end_time": 347100,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347100,
+              "end_time": 347500,
+              "text": "more",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 347580,
+              "end_time": 347820,
+              "text": " then ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347820,
+              "end_time": 347980,
+              "text": "head ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347980,
+              "end_time": 348220,
+              "text": "over ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348380,
+              "end_time": 348460,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348460,
+              "end_time": 348620,
+              "text": "our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348620,
+              "end_time": 349260,
+              "text": "website",
+              "punctuation": ":"
+            },
+            {
+              "begin_time": 349260,
+              "end_time": 350060,
+              "text": " bbclearningenglish",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 82,
+          "begin_time": 350060,
+          "end_time": 355100,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Com, where you'll find a worksheet and quiz for this episode.",
+          "words": [
+            {
+              "begin_time": 350060,
+              "end_time": 351660,
+              "text": " Com",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 351660,
+              "end_time": 351660,
+              "text": " where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352140,
+              "end_time": 352300,
+              "text": "you'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352300,
+              "end_time": 352620,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352620,
+              "end_time": 352700,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352700,
+              "end_time": 353340,
+              "text": "worksheet ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 353420,
+              "end_time": 353660,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 353660,
+              "end_time": 354220,
+              "text": "quiz ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 354220,
+              "end_time": 354380,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 354380,
+              "end_time": 354540,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 354540,
+              "end_time": 355100,
+              "text": "episode",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 83,
+          "begin_time": 355580,
+          "end_time": 357820,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " See you again soon, but for now, goodbye.",
+          "words": [
+            {
+              "begin_time": 355580,
+              "end_time": 355820,
+              "text": " See ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 355820,
+              "end_time": 355820,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 355820,
+              "end_time": 356060,
+              "text": "again ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 356060,
+              "end_time": 356540,
+              "text": "soon",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 356620,
+              "end_time": 356780,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 356860,
+              "end_time": 357020,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 357020,
+              "end_time": 357100,
+              "text": "now",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 357500,
+              "end_time": 357820,
+              "text": " goodbye",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 84,
+          "begin_time": 357980,
+          "end_time": 358460,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Goodbye.",
+          "words": [
+            {
+              "begin_time": 357980,
+              "end_time": 358460,
+              "text": " Goodbye",
+              "punctuation": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

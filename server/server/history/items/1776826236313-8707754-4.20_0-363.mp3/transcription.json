@@ -1,0 +1,6431 @@
+{
+  "file_url": "https://voices1.oss-cn-shenzhen.aliyuncs.com/english-listening-practice/audio/1776826236315-993605625-1776826236293-106898705-4.20_0-363.mp3",
+  "audio_info": {
+    "format": "mp3",
+    "sample_rate": 44100
+  },
+  "transcripts": [
+    {
+      "channel_id": 0,
+      "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Pippa. And I'm Phil. What was your favourite game when you were a child, Pippa? I think my favourite game was skipping with a skipping rope. How about you? Well, I could never skip, so I think I just preferred playing football. Ah, well, that's a good game to play in the playground.Eighty years ago, it was quite common for children in Britain's cities to play in bomb sites, the ruins of houses which had been destroyed in World War II. Today, the idea is back in fashion, with kids playing not in bomb sites but in junk playgrounds, also called adventure playgrounds. In contrast to pre-made playgrounds, where swings and slides are fixed in place, adventure playgrounds provide pieces of building materials for kids to build things themselves.Reporter William Kramer went to see one such playground in Wrexham, North Wales, for BBC World Service programme People Fixing the World. At first glance, the land is little more than a junkyard. There are stacks of used wooden pallets and big reels for holding wires. But if you look a little bit closer, you'll see crooked homemade structures, hidey holes and turrets. Children run barefoot, they swing on ropes and throw themselves down a makeshift water slide.At first glance, William sees only junk. The phrase 'at first glance' means looking at something for the first time before having a chance to look more carefully. Adventure playgrounds are indeed full of junk pieces of construction material like old tyres, planks of wood and lengths of rope. But look closely and you'll see children using the junk to play, building dens and hidey holes. A hidey hole is a small place for hiding things, or in this case, for children to hide themselves.In this episode, we'll be hearing how adventure playgrounds are giving kids the freedom and space to play. As usual, we'll be learning some useful new words and phrases, and remember, you can find all this episode's vocabulary along with a transcript on our website, BBC Learning English dot com. But now I have a question for you, Pippa. We know that adventure playgrounds started off after the Second World War, but in which country was it?Was it A France, B Germany, or C Denmark? Hmm, I think maybe France. I think French children maybe were very adventurous. Okay, well we'll find out the answer to that question later in the programme. Adventure playgrounds give kids the freedom to choose how they play. According to child development expert Dr Anna Housley Juster, this freedom is vital, as she explains here to BBC World Service's People Fixing the World.It's true we do tend to minimize play in certain ways, but actually, after the most basic needs are met for children—so food, shelter, water, safe place to be—play is by far the most important factor for healthy child development.Anna thinks play is as important as a child's basic needs like food and safety. Anna. But unfortunately, the importance of play tends to be minimised. If something tends to happen, it happens often and is likely to happen again. Anna says that after a child's basic needs are met, play is by far the most important factor in a healthy childhood. She uses the phrase 'by far' to mean by a greater amount. For example, your teacher might say, 'You're by far the best student in class.' The freedom to take controlled risks in a safe environment is what Anna calls self-directed play. Here she explains more to Myra Anubi, presenter of BBC programme People Fixing the World.So what you're saying is letting kids play free play, actually, or play on their own and kind of come up with the ideas that's really crucial for their development. It's 100% crucial for their development. In what I meant when I said that it's protective is that kids build resiliency, confidence, coping strategies, regulation strategies. So many of the skills that we know lead to healthy human development are developed in play.Myra mentions the importance of free play, and Anna says it's one hundred percent crucial meaning completely. You can also say one hundred percent as an informal response to mean yes, I agree with you completely. Adventure playgrounds have lots of small dangers hard pieces of wood, sharp metal, nails. According to Anna, taking small risks when playing with these makes kids more resilient and builds coping strategies a term for the psychological ways children develop to manage challenging situations. And Phil, I think it's time for the answer to your quiz question. Yes, I asked you in which country adventure playgrounds started. You said France, but I'm afraid the correct answer was Denmark. They were introduced by Danish architect Carl Theodor Sorensen.Okay, let's recap the vocabulary we've learned. Starting with the phrase 'at first glance', where you see something quickly without a chance to consider it more carefully. A hidey-hole is a small place for hiding things in, or hiding yourself in. If people tend to do something, they do it often and will probably continue to do it in the future. The phrase 'by far' means by a great amount. Saying 'one hundred percent' means completely, and can be used to emphasise a statement or show that you totally agree with it.And finally, coping strategies are psychological ways of managing your emotions in challenging situations. Once again, our six minutes are up, but remember you can find many more trending topics, plus a quiz and worksheet for this episode on our website, bbclearningenglish.com. Hope to see you there soon, but for now, it's goodbye. Goodbye.",
+      "sentences": [
+        {
+          "sentence_id": 0,
+          "begin_time": 492,
+          "end_time": 892,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Hello.",
+          "words": [
+            {
+              "begin_time": 492,
+              "end_time": 892,
+              "text": "Hello",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 1,
+          "begin_time": 1052,
+          "end_time": 3852,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " This is 6 Minute English from BBC Learning English.",
+          "words": [
+            {
+              "begin_time": 1052,
+              "end_time": 1292,
+              "text": " This ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1292,
+              "end_time": 1452,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1532,
+              "end_time": 1772,
+              "text": "6 ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 1772,
+              "end_time": 1932,
+              "text": "Minute ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2012,
+              "end_time": 2412,
+              "text": "English ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2412,
+              "end_time": 2652,
+              "text": "from ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 2652,
+              "end_time": 3052,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 3052,
+              "end_time": 3612,
+              "text": "Learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 3612,
+              "end_time": 3852,
+              "text": "English",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 2,
+          "begin_time": 4012,
+          "end_time": 4572,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I'm Pippa.",
+          "words": [
+            {
+              "begin_time": 4012,
+              "end_time": 4172,
+              "text": " I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 4172,
+              "end_time": 4572,
+              "text": "Pippa",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 3,
+          "begin_time": 4812,
+          "end_time": 5452,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And I'm Phil.",
+          "words": [
+            {
+              "begin_time": 4812,
+              "end_time": 5132,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 5132,
+              "end_time": 5132,
+              "text": "I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 5132,
+              "end_time": 5452,
+              "text": "Phil",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 4,
+          "begin_time": 5852,
+          "end_time": 8412,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " What was your favourite game when you were a child, Pippa?",
+          "words": [
+            {
+              "begin_time": 5852,
+              "end_time": 6012,
+              "text": " What ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6012,
+              "end_time": 6172,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6172,
+              "end_time": 6332,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6332,
+              "end_time": 6892,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 6892,
+              "end_time": 7132,
+              "text": "game ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7132,
+              "end_time": 7292,
+              "text": "when ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7292,
+              "end_time": 7372,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7372,
+              "end_time": 7452,
+              "text": "were ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7452,
+              "end_time": 7452,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 7452,
+              "end_time": 8012,
+              "text": "child",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 8092,
+              "end_time": 8412,
+              "text": " Pippa",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 5,
+          "begin_time": 8652,
+          "end_time": 12012,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I think my favourite game was skipping with a skipping rope.",
+          "words": [
+            {
+              "begin_time": 8652,
+              "end_time": 8812,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 8812,
+              "end_time": 9212,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9212,
+              "end_time": 9452,
+              "text": "my ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9452,
+              "end_time": 9852,
+              "text": "favourite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 9852,
+              "end_time": 10332,
+              "text": "game ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 10332,
+              "end_time": 10572,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 10572,
+              "end_time": 11132,
+              "text": "skipping ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11132,
+              "end_time": 11292,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11372,
+              "end_time": 11372,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11372,
+              "end_time": 11772,
+              "text": "skipping ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 11772,
+              "end_time": 12012,
+              "text": "rope",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 6,
+          "begin_time": 12492,
+          "end_time": 13132,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " How about you?",
+          "words": [
+            {
+              "begin_time": 12492,
+              "end_time": 12652,
+              "text": " How ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12652,
+              "end_time": 12812,
+              "text": "about ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 12812,
+              "end_time": 13132,
+              "text": "you",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 7,
+          "begin_time": 14012,
+          "end_time": 17292,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Well, I could never skip, so I think I just preferred playing football.",
+          "words": [
+            {
+              "begin_time": 14012,
+              "end_time": 14172,
+              "text": " Well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 14172,
+              "end_time": 14252,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14252,
+              "end_time": 14412,
+              "text": "could ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14412,
+              "end_time": 14812,
+              "text": "never ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 14812,
+              "end_time": 15212,
+              "text": "skip",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 15292,
+              "end_time": 15612,
+              "text": " so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 15612,
+              "end_time": 15612,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16012,
+              "end_time": 16172,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16172,
+              "end_time": 16172,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16252,
+              "end_time": 16412,
+              "text": "just ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16412,
+              "end_time": 16652,
+              "text": "preferred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16652,
+              "end_time": 16892,
+              "text": "playing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 16892,
+              "end_time": 17292,
+              "text": "football",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 8,
+          "begin_time": 17692,
+          "end_time": 19772,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Ah, well, that's a good game to play in the playground.",
+          "words": [
+            {
+              "begin_time": 17692,
+              "end_time": 18012,
+              "text": " Ah",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 18092,
+              "end_time": 18092,
+              "text": " well",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 18172,
+              "end_time": 18332,
+              "text": " that's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18332,
+              "end_time": 18412,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18412,
+              "end_time": 18572,
+              "text": "good ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18572,
+              "end_time": 18812,
+              "text": "game ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18812,
+              "end_time": 18812,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 18812,
+              "end_time": 19052,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19052,
+              "end_time": 19132,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19132,
+              "end_time": 19212,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 19212,
+              "end_time": 19772,
+              "text": "playground",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 9,
+          "begin_time": 20396,
+          "end_time": 29996,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Eighty years ago, it was quite common for children in Britain's cities to play in bomb sites, the ruins of houses which had been destroyed in World War II.",
+          "words": [
+            {
+              "begin_time": 20396,
+              "end_time": 20716,
+              "text": "Eighty ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 20716,
+              "end_time": 21036,
+              "text": "years ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 21036,
+              "end_time": 21276,
+              "text": "ago",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 21436,
+              "end_time": 21516,
+              "text": " it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 21516,
+              "end_time": 21676,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 21676,
+              "end_time": 22076,
+              "text": "quite ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 22076,
+              "end_time": 22396,
+              "text": "common ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 22396,
+              "end_time": 22556,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 22556,
+              "end_time": 23116,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23116,
+              "end_time": 23276,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23276,
+              "end_time": 23676,
+              "text": "Britain's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 23676,
+              "end_time": 24076,
+              "text": "cities ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 24156,
+              "end_time": 24236,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 24236,
+              "end_time": 24556,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 24556,
+              "end_time": 24876,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 24956,
+              "end_time": 25356,
+              "text": "bomb ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 25356,
+              "end_time": 25916,
+              "text": "sites",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 26316,
+              "end_time": 26396,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 26396,
+              "end_time": 27036,
+              "text": "ruins ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27036,
+              "end_time": 27116,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27116,
+              "end_time": 27676,
+              "text": "houses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27676,
+              "end_time": 27836,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27836,
+              "end_time": 27996,
+              "text": "had ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 27996,
+              "end_time": 28156,
+              "text": "been ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 28156,
+              "end_time": 28876,
+              "text": "destroyed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29036,
+              "end_time": 29196,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29196,
+              "end_time": 29436,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29436,
+              "end_time": 29596,
+              "text": "War ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 29596,
+              "end_time": 29996,
+              "text": "II",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 10,
+          "begin_time": 30636,
+          "end_time": 39436,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Today, the idea is back in fashion, with kids playing not in bomb sites but in junk playgrounds, also called adventure playgrounds.",
+          "words": [
+            {
+              "begin_time": 30636,
+              "end_time": 31116,
+              "text": " Today",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 31116,
+              "end_time": 31356,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31356,
+              "end_time": 31676,
+              "text": "idea ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31676,
+              "end_time": 31916,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 31916,
+              "end_time": 32396,
+              "text": "back ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32396,
+              "end_time": 32556,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 32556,
+              "end_time": 33196,
+              "text": "fashion",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 33196,
+              "end_time": 33356,
+              "text": " with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 33436,
+              "end_time": 33676,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 33676,
+              "end_time": 34156,
+              "text": "playing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34316,
+              "end_time": 34476,
+              "text": "not ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34476,
+              "end_time": 34716,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 34796,
+              "end_time": 35116,
+              "text": "bomb ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 35116,
+              "end_time": 35516,
+              "text": "sites ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 35916,
+              "end_time": 35996,
+              "text": "but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 35996,
+              "end_time": 36316,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 36316,
+              "end_time": 36796,
+              "text": "junk ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 36956,
+              "end_time": 37516,
+              "text": "playgrounds",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 37516,
+              "end_time": 37836,
+              "text": " also ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 37836,
+              "end_time": 38156,
+              "text": "called ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38156,
+              "end_time": 38796,
+              "text": "adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 38796,
+              "end_time": 39436,
+              "text": "playgrounds",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 11,
+          "begin_time": 39676,
+          "end_time": 49756,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In contrast to pre-made playgrounds, where swings and slides are fixed in place, adventure playgrounds provide pieces of building materials for kids to build things themselves.",
+          "words": [
+            {
+              "begin_time": 39676,
+              "end_time": 39836,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 39836,
+              "end_time": 40396,
+              "text": "contrast ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40396,
+              "end_time": 40476,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 40476,
+              "end_time": 40876,
+              "text": "pre",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 40876,
+              "end_time": 41196,
+              "text": "made ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41196,
+              "end_time": 41836,
+              "text": "playgrounds",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 41836,
+              "end_time": 41916,
+              "text": " where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 41916,
+              "end_time": 42396,
+              "text": "swings ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42396,
+              "end_time": 42476,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42476,
+              "end_time": 42876,
+              "text": "slides ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42876,
+              "end_time": 42956,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 42956,
+              "end_time": 43356,
+              "text": "fixed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 43356,
+              "end_time": 43516,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 43516,
+              "end_time": 43996,
+              "text": "place",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 44396,
+              "end_time": 44876,
+              "text": " adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 44876,
+              "end_time": 45516,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 45516,
+              "end_time": 45996,
+              "text": "provide ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 45996,
+              "end_time": 46396,
+              "text": "pieces ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46396,
+              "end_time": 46556,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46636,
+              "end_time": 46956,
+              "text": "building ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 46956,
+              "end_time": 47516,
+              "text": "materials ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47516,
+              "end_time": 47676,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 47756,
+              "end_time": 48076,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 48156,
+              "end_time": 48236,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 48396,
+              "end_time": 48716,
+              "text": "build ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 48876,
+              "end_time": 49196,
+              "text": "things ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 49196,
+              "end_time": 49756,
+              "text": "themselves",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 12,
+          "begin_time": 50124,
+          "end_time": 58364,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Reporter William Kramer went to see one such playground in Wrexham, North Wales, for BBC World Service programme People Fixing the World.",
+          "words": [
+            {
+              "begin_time": 50124,
+              "end_time": 50844,
+              "text": "Reporter ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 50844,
+              "end_time": 51244,
+              "text": "William ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51244,
+              "end_time": 51884,
+              "text": "Kramer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 51884,
+              "end_time": 52204,
+              "text": "went ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52204,
+              "end_time": 52284,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52284,
+              "end_time": 52524,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52524,
+              "end_time": 52844,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 52844,
+              "end_time": 53084,
+              "text": "such ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53164,
+              "end_time": 53644,
+              "text": "playground ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53644,
+              "end_time": 53804,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 53804,
+              "end_time": 54364,
+              "text": "Wrexham",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 54444,
+              "end_time": 54764,
+              "text": " North ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 54764,
+              "end_time": 55244,
+              "text": "Wales",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 55324,
+              "end_time": 55404,
+              "text": " for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 55404,
+              "end_time": 55964,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 55964,
+              "end_time": 56204,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56204,
+              "end_time": 56524,
+              "text": "Service ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 56524,
+              "end_time": 57004,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57164,
+              "end_time": 57484,
+              "text": "People ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57484,
+              "end_time": 57884,
+              "text": "Fixing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57884,
+              "end_time": 57964,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 57964,
+              "end_time": 58364,
+              "text": "World",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 13,
+          "begin_time": 58924,
+          "end_time": 61964,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " At first glance, the land is little more than a junkyard.",
+          "words": [
+            {
+              "begin_time": 58924,
+              "end_time": 59084,
+              "text": " At ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 59084,
+              "end_time": 59404,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 59484,
+              "end_time": 59884,
+              "text": "glance",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 59884,
+              "end_time": 60124,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60124,
+              "end_time": 60524,
+              "text": "land ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60524,
+              "end_time": 60684,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 60684,
+              "end_time": 60844,
+              "text": "little ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61004,
+              "end_time": 61164,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61164,
+              "end_time": 61164,
+              "text": "than ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61244,
+              "end_time": 61244,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 61404,
+              "end_time": 61964,
+              "text": "junkyard",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 14,
+          "begin_time": 62364,
+          "end_time": 66204,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " There are stacks of used wooden pallets and big reels for holding wires.",
+          "words": [
+            {
+              "begin_time": 62364,
+              "end_time": 62444,
+              "text": " There ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62444,
+              "end_time": 62524,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 62524,
+              "end_time": 63004,
+              "text": "stacks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63004,
+              "end_time": 63084,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63084,
+              "end_time": 63404,
+              "text": "used ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63404,
+              "end_time": 63724,
+              "text": "wooden ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 63724,
+              "end_time": 64204,
+              "text": "pallets ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64444,
+              "end_time": 64604,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64684,
+              "end_time": 64844,
+              "text": "big ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 64924,
+              "end_time": 65324,
+              "text": "reels ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65324,
+              "end_time": 65404,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65404,
+              "end_time": 65804,
+              "text": "holding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 65804,
+              "end_time": 66204,
+              "text": "wires",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 15,
+          "begin_time": 66924,
+          "end_time": 72524,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But if you look a little bit closer, you'll see crooked homemade structures, hidey holes and turrets.",
+          "words": [
+            {
+              "begin_time": 66924,
+              "end_time": 67164,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67164,
+              "end_time": 67244,
+              "text": "if ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67324,
+              "end_time": 67404,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67404,
+              "end_time": 67404,
+              "text": "look ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67564,
+              "end_time": 67644,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67644,
+              "end_time": 67724,
+              "text": "little ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 67804,
+              "end_time": 67964,
+              "text": "bit ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 68044,
+              "end_time": 68604,
+              "text": "closer",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 68924,
+              "end_time": 69004,
+              "text": " you'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69004,
+              "end_time": 69244,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69324,
+              "end_time": 69724,
+              "text": "crooked ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 69724,
+              "end_time": 70204,
+              "text": "homemade ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 70204,
+              "end_time": 70844,
+              "text": "structures",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 71164,
+              "end_time": 71564,
+              "text": " hidey ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71564,
+              "end_time": 71804,
+              "text": "holes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71884,
+              "end_time": 71964,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 71964,
+              "end_time": 72524,
+              "text": "turrets",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 16,
+          "begin_time": 73164,
+          "end_time": 78364,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Children run barefoot, they swing on ropes and throw themselves down a makeshift water slide.",
+          "words": [
+            {
+              "begin_time": 73164,
+              "end_time": 73644,
+              "text": " Children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 73724,
+              "end_time": 73964,
+              "text": "run ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 73964,
+              "end_time": 74524,
+              "text": "barefoot",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 74844,
+              "end_time": 75004,
+              "text": " they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75004,
+              "end_time": 75244,
+              "text": "swing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75244,
+              "end_time": 75404,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75404,
+              "end_time": 75884,
+              "text": "ropes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 75964,
+              "end_time": 76044,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76044,
+              "end_time": 76364,
+              "text": "throw ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76364,
+              "end_time": 76844,
+              "text": "themselves ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 76844,
+              "end_time": 77004,
+              "text": "down ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77004,
+              "end_time": 77084,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77084,
+              "end_time": 77644,
+              "text": "makeshift ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77644,
+              "end_time": 77964,
+              "text": "water ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 77964,
+              "end_time": 78364,
+              "text": "slide",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 17,
+          "begin_time": 78924,
+          "end_time": 81564,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "At first glance, William sees only junk.",
+          "words": [
+            {
+              "begin_time": 78924,
+              "end_time": 79084,
+              "text": "At ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 79084,
+              "end_time": 79484,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 79484,
+              "end_time": 79884,
+              "text": "glance",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 80044,
+              "end_time": 80444,
+              "text": " William ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 80444,
+              "end_time": 80764,
+              "text": "sees ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 80844,
+              "end_time": 81164,
+              "text": "only ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 81164,
+              "end_time": 81564,
+              "text": "junk",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 18,
+          "begin_time": 82044,
+          "end_time": 88044,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " The phrase 'at first glance' means looking at something for the first time before having a chance to look more carefully.",
+          "words": [
+            {
+              "begin_time": 82044,
+              "end_time": 82124,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82124,
+              "end_time": 82604,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82684,
+              "end_time": 82844,
+              "text": "'at ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 82844,
+              "end_time": 83164,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83164,
+              "end_time": 83644,
+              "text": "glance' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 83884,
+              "end_time": 84124,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84124,
+              "end_time": 84444,
+              "text": "looking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84444,
+              "end_time": 84524,
+              "text": "at ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84524,
+              "end_time": 84924,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 84924,
+              "end_time": 85004,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85004,
+              "end_time": 85084,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85084,
+              "end_time": 85484,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85484,
+              "end_time": 85804,
+              "text": "time ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 85804,
+              "end_time": 86204,
+              "text": "before ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86204,
+              "end_time": 86444,
+              "text": "having ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86444,
+              "end_time": 86524,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86524,
+              "end_time": 86924,
+              "text": "chance ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 86924,
+              "end_time": 87004,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87004,
+              "end_time": 87164,
+              "text": "look ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87164,
+              "end_time": 87404,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 87404,
+              "end_time": 88044,
+              "text": "carefully",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 19,
+          "begin_time": 88444,
+          "end_time": 97084,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Adventure playgrounds are indeed full of junk pieces of construction material like old tyres, planks of wood and lengths of rope.",
+          "words": [
+            {
+              "begin_time": 88444,
+              "end_time": 88924,
+              "text": " Adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 88924,
+              "end_time": 89404,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 89644,
+              "end_time": 89804,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 89804,
+              "end_time": 90524,
+              "text": "indeed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90524,
+              "end_time": 90764,
+              "text": "full ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90764,
+              "end_time": 90924,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 90924,
+              "end_time": 91324,
+              "text": "junk ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 91724,
+              "end_time": 92124,
+              "text": "pieces ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92124,
+              "end_time": 92364,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 92364,
+              "end_time": 93004,
+              "text": "construction ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93004,
+              "end_time": 93484,
+              "text": "material ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93484,
+              "end_time": 93724,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 93964,
+              "end_time": 94284,
+              "text": "old ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 94364,
+              "end_time": 95004,
+              "text": "tyres",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 95084,
+              "end_time": 95484,
+              "text": " planks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95564,
+              "end_time": 95724,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95724,
+              "end_time": 95964,
+              "text": "wood ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 95964,
+              "end_time": 96124,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96124,
+              "end_time": 96604,
+              "text": "lengths ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96604,
+              "end_time": 96764,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 96764,
+              "end_time": 97084,
+              "text": "rope",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 20,
+          "begin_time": 97804,
+          "end_time": 104204,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But look closely and you'll see children using the junk to play, building dens and hidey holes.",
+          "words": [
+            {
+              "begin_time": 97804,
+              "end_time": 97964,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 97964,
+              "end_time": 98124,
+              "text": "look ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 98204,
+              "end_time": 98924,
+              "text": "closely ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99004,
+              "end_time": 99164,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99164,
+              "end_time": 99244,
+              "text": "you'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99244,
+              "end_time": 99564,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 99564,
+              "end_time": 100124,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100124,
+              "end_time": 100764,
+              "text": "using ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100764,
+              "end_time": 100844,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 100844,
+              "end_time": 101244,
+              "text": "junk ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 101324,
+              "end_time": 101324,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 101404,
+              "end_time": 101884,
+              "text": "play",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 102204,
+              "end_time": 102684,
+              "text": " building ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 102764,
+              "end_time": 103164,
+              "text": "dens ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103164,
+              "end_time": 103324,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103324,
+              "end_time": 103804,
+              "text": "hidey ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 103804,
+              "end_time": 104204,
+              "text": "holes",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 21,
+          "begin_time": 104524,
+          "end_time": 110364,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " A hidey hole is a small place for hiding things, or in this case, for children to hide themselves.",
+          "words": [
+            {
+              "begin_time": 104524,
+              "end_time": 104524,
+              "text": " A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 104604,
+              "end_time": 105084,
+              "text": "hidey ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105084,
+              "end_time": 105324,
+              "text": "hole ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105324,
+              "end_time": 105484,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105484,
+              "end_time": 105484,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105564,
+              "end_time": 105964,
+              "text": "small ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 105964,
+              "end_time": 106284,
+              "text": "place ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106284,
+              "end_time": 106364,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106364,
+              "end_time": 106844,
+              "text": "hiding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 106844,
+              "end_time": 107164,
+              "text": "things",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 107564,
+              "end_time": 107644,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107644,
+              "end_time": 107804,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 107804,
+              "end_time": 108044,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 108044,
+              "end_time": 108444,
+              "text": "case",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 108524,
+              "end_time": 108684,
+              "text": " for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 108684,
+              "end_time": 109244,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 109244,
+              "end_time": 109324,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 109324,
+              "end_time": 109724,
+              "text": "hide ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 109724,
+              "end_time": 110364,
+              "text": "themselves",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 22,
+          "begin_time": 110876,
+          "end_time": 116476,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "In this episode, we'll be hearing how adventure playgrounds are giving kids the freedom and space to play.",
+          "words": [
+            {
+              "begin_time": 110876,
+              "end_time": 111036,
+              "text": "In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111036,
+              "end_time": 111196,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 111196,
+              "end_time": 111836,
+              "text": "episode",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 111836,
+              "end_time": 112076,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112076,
+              "end_time": 112156,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112156,
+              "end_time": 112636,
+              "text": "hearing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112636,
+              "end_time": 112876,
+              "text": "how ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 112876,
+              "end_time": 113356,
+              "text": "adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 113356,
+              "end_time": 113996,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 113996,
+              "end_time": 114076,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114076,
+              "end_time": 114476,
+              "text": "giving ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114476,
+              "end_time": 114796,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114796,
+              "end_time": 114876,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 114876,
+              "end_time": 115436,
+              "text": "freedom ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115436,
+              "end_time": 115516,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115516,
+              "end_time": 115916,
+              "text": "space ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115916,
+              "end_time": 115996,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 115996,
+              "end_time": 116476,
+              "text": "play",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 23,
+          "begin_time": 117036,
+          "end_time": 127676,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " As usual, we'll be learning some useful new words and phrases, and remember, you can find all this episode's vocabulary along with a transcript on our website, BBC Learning English dot com.",
+          "words": [
+            {
+              "begin_time": 117036,
+              "end_time": 117276,
+              "text": " As ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117276,
+              "end_time": 117756,
+              "text": "usual",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 117756,
+              "end_time": 117916,
+              "text": " we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117916,
+              "end_time": 117996,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 117996,
+              "end_time": 118396,
+              "text": "learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118396,
+              "end_time": 118556,
+              "text": "some ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118556,
+              "end_time": 118956,
+              "text": "useful ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 118956,
+              "end_time": 119196,
+              "text": "new ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119196,
+              "end_time": 119516,
+              "text": "words ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119516,
+              "end_time": 119756,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 119756,
+              "end_time": 120236,
+              "text": "phrases",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 120476,
+              "end_time": 120636,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 120636,
+              "end_time": 121116,
+              "text": "remember",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 121356,
+              "end_time": 121516,
+              "text": " you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121516,
+              "end_time": 121676,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121676,
+              "end_time": 121996,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 121996,
+              "end_time": 122156,
+              "text": "all ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122156,
+              "end_time": 122396,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122396,
+              "end_time": 122956,
+              "text": "episode's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 122956,
+              "end_time": 123676,
+              "text": "vocabulary ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 123756,
+              "end_time": 124076,
+              "text": "along ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 124076,
+              "end_time": 124236,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 124236,
+              "end_time": 124236,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 124236,
+              "end_time": 124876,
+              "text": "transcript ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 124876,
+              "end_time": 125036,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 125036,
+              "end_time": 125196,
+              "text": "our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 125196,
+              "end_time": 125676,
+              "text": "website",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 125916,
+              "end_time": 126476,
+              "text": " BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 126476,
+              "end_time": 126796,
+              "text": "Learning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 126796,
+              "end_time": 127116,
+              "text": "English ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 127196,
+              "end_time": 127356,
+              "text": "dot ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 127356,
+              "end_time": 127676,
+              "text": "com",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 24,
+          "begin_time": 128236,
+          "end_time": 130396,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But now I have a question for you, Pippa.",
+          "words": [
+            {
+              "begin_time": 128236,
+              "end_time": 128316,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128316,
+              "end_time": 128636,
+              "text": "now ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128636,
+              "end_time": 128716,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128716,
+              "end_time": 128956,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 128956,
+              "end_time": 129036,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 129036,
+              "end_time": 129676,
+              "text": "question ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 129676,
+              "end_time": 129836,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 129836,
+              "end_time": 130076,
+              "text": "you",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 130076,
+              "end_time": 130396,
+              "text": " Pippa",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 25,
+          "begin_time": 130956,
+          "end_time": 137516,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " We know that adventure playgrounds started off after the Second World War, but in which country was it?",
+          "words": [
+            {
+              "begin_time": 130956,
+              "end_time": 131116,
+              "text": " We ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 131116,
+              "end_time": 131596,
+              "text": "know ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 131596,
+              "end_time": 131756,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 131756,
+              "end_time": 132236,
+              "text": "adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 132236,
+              "end_time": 132796,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 132796,
+              "end_time": 133276,
+              "text": "started ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133356,
+              "end_time": 133516,
+              "text": "off ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 133596,
+              "end_time": 134076,
+              "text": "after ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134076,
+              "end_time": 134156,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134156,
+              "end_time": 134636,
+              "text": "Second ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134636,
+              "end_time": 134956,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 134956,
+              "end_time": 135276,
+              "text": "War",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 135676,
+              "end_time": 135756,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 135756,
+              "end_time": 136076,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 136076,
+              "end_time": 136316,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 136316,
+              "end_time": 136796,
+              "text": "country ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137196,
+              "end_time": 137356,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137356,
+              "end_time": 137516,
+              "text": "it",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 26,
+          "begin_time": 137196,
+          "end_time": 141676,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Was it A France, B Germany, or C Denmark?",
+          "words": [
+            {
+              "begin_time": 137196,
+              "end_time": 137356,
+              "text": "Was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137356,
+              "end_time": 137516,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 137756,
+              "end_time": 138156,
+              "text": "A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 138316,
+              "end_time": 138876,
+              "text": "France",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 139196,
+              "end_time": 139516,
+              "text": " B ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 139756,
+              "end_time": 140236,
+              "text": "Germany",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 140556,
+              "end_time": 140716,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 140716,
+              "end_time": 141436,
+              "text": "C ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 141676,
+              "end_time": 141676,
+              "text": "Denmark",
+              "punctuation": "?"
+            }
+          ]
+        },
+        {
+          "sentence_id": 27,
+          "begin_time": 142156,
+          "end_time": 145356,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Hmm, I think maybe France.",
+          "words": [
+            {
+              "begin_time": 142156,
+              "end_time": 142156,
+              "text": " Hmm",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 142956,
+              "end_time": 144076,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144076,
+              "end_time": 144316,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144316,
+              "end_time": 144716,
+              "text": "maybe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 144716,
+              "end_time": 145356,
+              "text": "France",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 28,
+          "begin_time": 145356,
+          "end_time": 148236,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " I think French children maybe were very adventurous.",
+          "words": [
+            {
+              "begin_time": 145356,
+              "end_time": 145516,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145516,
+              "end_time": 145836,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 145996,
+              "end_time": 146316,
+              "text": "French ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 146476,
+              "end_time": 146796,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 146796,
+              "end_time": 147116,
+              "text": "maybe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147116,
+              "end_time": 147276,
+              "text": "were ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147276,
+              "end_time": 147516,
+              "text": "very ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 147516,
+              "end_time": 148236,
+              "text": "adventurous",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 29,
+          "begin_time": 148716,
+          "end_time": 152316,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Okay, well we'll find out the answer to that question later in the programme.",
+          "words": [
+            {
+              "begin_time": 148716,
+              "end_time": 149036,
+              "text": " Okay",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 149036,
+              "end_time": 149196,
+              "text": " well ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149196,
+              "end_time": 149356,
+              "text": "we'll ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149356,
+              "end_time": 149676,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149676,
+              "end_time": 149916,
+              "text": "out ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149916,
+              "end_time": 149996,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 149996,
+              "end_time": 150316,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150316,
+              "end_time": 150316,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150316,
+              "end_time": 150476,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 150476,
+              "end_time": 150796,
+              "text": "question ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151276,
+              "end_time": 151516,
+              "text": "later ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151516,
+              "end_time": 151676,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151676,
+              "end_time": 151756,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 151756,
+              "end_time": 152316,
+              "text": "programme",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 30,
+          "begin_time": 153036,
+          "end_time": 156956,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Adventure playgrounds give kids the freedom to choose how they play.",
+          "words": [
+            {
+              "begin_time": 153036,
+              "end_time": 153516,
+              "text": " Adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 153516,
+              "end_time": 154156,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154316,
+              "end_time": 154636,
+              "text": "give ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 154716,
+              "end_time": 155036,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 155036,
+              "end_time": 155116,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 155116,
+              "end_time": 155596,
+              "text": "freedom ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 155676,
+              "end_time": 155756,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 155836,
+              "end_time": 156236,
+              "text": "choose ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156236,
+              "end_time": 156396,
+              "text": "how ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156396,
+              "end_time": 156556,
+              "text": "they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 156556,
+              "end_time": 156956,
+              "text": "play",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 31,
+          "begin_time": 157516,
+          "end_time": 167596,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " According to child development expert Dr Anna Housley Juster, this freedom is vital, as she explains here to BBC World Service's People Fixing the World.",
+          "words": [
+            {
+              "begin_time": 157516,
+              "end_time": 157996,
+              "text": " According ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158076,
+              "end_time": 158156,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158156,
+              "end_time": 158636,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 158636,
+              "end_time": 159196,
+              "text": "development ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159196,
+              "end_time": 159676,
+              "text": "expert ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 159756,
+              "end_time": 160076,
+              "text": "Dr ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160156,
+              "end_time": 160396,
+              "text": "Anna ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160396,
+              "end_time": 160876,
+              "text": "Housley ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 160876,
+              "end_time": 161356,
+              "text": "Juster",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 161836,
+              "end_time": 161996,
+              "text": " this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 161996,
+              "end_time": 162396,
+              "text": "freedom ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162396,
+              "end_time": 162556,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 162556,
+              "end_time": 163116,
+              "text": "vital",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 163436,
+              "end_time": 163596,
+              "text": " as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 163596,
+              "end_time": 163756,
+              "text": "she ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 163756,
+              "end_time": 164236,
+              "text": "explains ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164236,
+              "end_time": 164396,
+              "text": "here ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164476,
+              "end_time": 164556,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 164636,
+              "end_time": 165116,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 165116,
+              "end_time": 165436,
+              "text": "World ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 165436,
+              "end_time": 165996,
+              "text": "Service's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166316,
+              "end_time": 166636,
+              "text": "People ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 166716,
+              "end_time": 167116,
+              "text": "Fixing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 167116,
+              "end_time": 167196,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 167276,
+              "end_time": 167596,
+              "text": "World",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 32,
+          "begin_time": 168204,
+          "end_time": 183884,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "It's true we do tend to minimize play in certain ways, but actually, after the most basic needs are met for children—so food, shelter, water, safe place to be—play is by far the most important factor for healthy child development.",
+          "words": [
+            {
+              "begin_time": 168204,
+              "end_time": 168444,
+              "text": "It's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168444,
+              "end_time": 168924,
+              "text": "true ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 168924,
+              "end_time": 169084,
+              "text": "we ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169084,
+              "end_time": 169324,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169324,
+              "end_time": 169644,
+              "text": "tend ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169644,
+              "end_time": 169724,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 169724,
+              "end_time": 170284,
+              "text": "minimize ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170284,
+              "end_time": 170604,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170604,
+              "end_time": 170604,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 170604,
+              "end_time": 171004,
+              "text": "certain ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171004,
+              "end_time": 171404,
+              "text": "ways",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 171404,
+              "end_time": 171564,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 171644,
+              "end_time": 172364,
+              "text": "actually",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 172924,
+              "end_time": 173564,
+              "text": " after ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 173564,
+              "end_time": 173724,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 173724,
+              "end_time": 174044,
+              "text": "most ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174044,
+              "end_time": 174364,
+              "text": "basic ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174444,
+              "end_time": 174604,
+              "text": "needs ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174604,
+              "end_time": 174684,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174684,
+              "end_time": 174924,
+              "text": "met ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 174924,
+              "end_time": 175084,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 175084,
+              "end_time": 175564,
+              "text": "children",
+              "punctuation": "—"
+            },
+            {
+              "begin_time": 175564,
+              "end_time": 175724,
+              "text": "so ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 175724,
+              "end_time": 176284,
+              "text": "food",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 176284,
+              "end_time": 176924,
+              "text": " shelter",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 177084,
+              "end_time": 177564,
+              "text": " water",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 177884,
+              "end_time": 178204,
+              "text": " safe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 178204,
+              "end_time": 178524,
+              "text": "place ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 178604,
+              "end_time": 178764,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 178764,
+              "end_time": 179164,
+              "text": "be",
+              "punctuation": "—"
+            },
+            {
+              "begin_time": 179644,
+              "end_time": 179884,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 179884,
+              "end_time": 180044,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180044,
+              "end_time": 180204,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180204,
+              "end_time": 180684,
+              "text": "far ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180764,
+              "end_time": 180844,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 180844,
+              "end_time": 181084,
+              "text": "most ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 181084,
+              "end_time": 181564,
+              "text": "important ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 181564,
+              "end_time": 182044,
+              "text": "factor ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182044,
+              "end_time": 182284,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 182284,
+              "end_time": 182924,
+              "text": "healthy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 183004,
+              "end_time": 183324,
+              "text": "child ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 183324,
+              "end_time": 183884,
+              "text": "development",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 33,
+          "begin_time": 184268,
+          "end_time": 189388,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Anna thinks play is as important as a child's basic needs like food and safety.",
+          "words": [
+            {
+              "begin_time": 184268,
+              "end_time": 184508,
+              "text": "Anna ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 184588,
+              "end_time": 184908,
+              "text": "thinks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 184908,
+              "end_time": 185308,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 185308,
+              "end_time": 185468,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 185468,
+              "end_time": 185628,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 185628,
+              "end_time": 186348,
+              "text": "important ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 186428,
+              "end_time": 186588,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 186588,
+              "end_time": 186668,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 186668,
+              "end_time": 187068,
+              "text": "child's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187148,
+              "end_time": 187628,
+              "text": "basic ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187628,
+              "end_time": 187948,
+              "text": "needs ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 187948,
+              "end_time": 188188,
+              "text": "like ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188188,
+              "end_time": 188588,
+              "text": "food ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188588,
+              "end_time": 188748,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 188748,
+              "end_time": 189388,
+              "text": "safety",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 34,
+          "begin_time": 184284,
+          "end_time": 184524,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Anna.",
+          "words": [
+            {
+              "begin_time": 184284,
+              "end_time": 184524,
+              "text": " Anna",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 35,
+          "begin_time": 189708,
+          "end_time": 193628,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " But unfortunately, the importance of play tends to be minimised.",
+          "words": [
+            {
+              "begin_time": 189708,
+              "end_time": 189788,
+              "text": " But ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 189788,
+              "end_time": 190748,
+              "text": "unfortunately",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 190828,
+              "end_time": 190908,
+              "text": " the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 190908,
+              "end_time": 191548,
+              "text": "importance ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191548,
+              "end_time": 191628,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 191708,
+              "end_time": 192108,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192268,
+              "end_time": 192668,
+              "text": "tends ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192668,
+              "end_time": 192748,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192748,
+              "end_time": 192908,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 192908,
+              "end_time": 193628,
+              "text": "minimised",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 36,
+          "begin_time": 193948,
+          "end_time": 198188,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " If something tends to happen, it happens often and is likely to happen again.",
+          "words": [
+            {
+              "begin_time": 193948,
+              "end_time": 194108,
+              "text": " If ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194108,
+              "end_time": 194428,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194428,
+              "end_time": 194828,
+              "text": "tends ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194908,
+              "end_time": 194908,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 194908,
+              "end_time": 195388,
+              "text": "happen",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 195548,
+              "end_time": 195708,
+              "text": " it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 195708,
+              "end_time": 196028,
+              "text": "happens ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196108,
+              "end_time": 196508,
+              "text": "often ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196588,
+              "end_time": 196668,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196668,
+              "end_time": 196828,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 196828,
+              "end_time": 197228,
+              "text": "likely ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197308,
+              "end_time": 197308,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197388,
+              "end_time": 197708,
+              "text": "happen ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 197708,
+              "end_time": 198188,
+              "text": "again",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 37,
+          "begin_time": 198668,
+          "end_time": 206108,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Anna says that after a child's basic needs are met, play is by far the most important factor in a healthy childhood.",
+          "words": [
+            {
+              "begin_time": 198668,
+              "end_time": 198828,
+              "text": " Anna ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 198828,
+              "end_time": 199228,
+              "text": "says ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199228,
+              "end_time": 199388,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199388,
+              "end_time": 199468,
+              "text": "after ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199468,
+              "end_time": 199628,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 199948,
+              "end_time": 200508,
+              "text": "child's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 200588,
+              "end_time": 201148,
+              "text": "basic ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201228,
+              "end_time": 201548,
+              "text": "needs ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201548,
+              "end_time": 201548,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 201628,
+              "end_time": 202108,
+              "text": "met",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 202588,
+              "end_time": 202908,
+              "text": " play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202908,
+              "end_time": 202988,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 202988,
+              "end_time": 203228,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203228,
+              "end_time": 203708,
+              "text": "far ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203708,
+              "end_time": 203788,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 203788,
+              "end_time": 204108,
+              "text": "most ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204108,
+              "end_time": 204908,
+              "text": "important ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 204908,
+              "end_time": 205068,
+              "text": "factor ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205068,
+              "end_time": 205068,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205068,
+              "end_time": 205148,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205148,
+              "end_time": 205468,
+              "text": "healthy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 205468,
+              "end_time": 206108,
+              "text": "childhood",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 38,
+          "begin_time": 206668,
+          "end_time": 211388,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " She uses the phrase 'by far' to mean by a greater amount.",
+          "words": [
+            {
+              "begin_time": 206668,
+              "end_time": 206908,
+              "text": " She ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 206908,
+              "end_time": 207308,
+              "text": "uses ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 207308,
+              "end_time": 207388,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 207388,
+              "end_time": 207868,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208188,
+              "end_time": 208428,
+              "text": "'by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 208428,
+              "end_time": 209068,
+              "text": "far' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 209468,
+              "end_time": 209548,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 209548,
+              "end_time": 209868,
+              "text": "mean ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210028,
+              "end_time": 210188,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210188,
+              "end_time": 210188,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210348,
+              "end_time": 210828,
+              "text": "greater ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 210828,
+              "end_time": 211388,
+              "text": "amount",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 39,
+          "begin_time": 211628,
+          "end_time": 216028,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " For example, your teacher might say, 'You're by far the best student in class.",
+          "words": [
+            {
+              "begin_time": 211628,
+              "end_time": 211788,
+              "text": " For ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 211788,
+              "end_time": 212108,
+              "text": "example",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 212188,
+              "end_time": 212348,
+              "text": " your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 212348,
+              "end_time": 212748,
+              "text": "teacher ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 212748,
+              "end_time": 212988,
+              "text": "might ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 212988,
+              "end_time": 213308,
+              "text": "say",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 213548,
+              "end_time": 213788,
+              "text": " 'You're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 213788,
+              "end_time": 214028,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214028,
+              "end_time": 214668,
+              "text": "far ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214668,
+              "end_time": 214748,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 214748,
+              "end_time": 215148,
+              "text": "best ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215148,
+              "end_time": 215388,
+              "text": "student ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215388,
+              "end_time": 215548,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 215548,
+              "end_time": 216028,
+              "text": "class",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 40,
+          "begin_time": 216028,
+          "end_time": 222108,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "' The freedom to take controlled risks in a safe environment is what Anna calls self-directed play.",
+          "words": [
+            {
+              "begin_time": 216028,
+              "end_time": 216028,
+              "text": "' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 216588,
+              "end_time": 216668,
+              "text": "The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 216668,
+              "end_time": 217068,
+              "text": "freedom ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217068,
+              "end_time": 217068,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217228,
+              "end_time": 217548,
+              "text": "take ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 217548,
+              "end_time": 218028,
+              "text": "controlled ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218028,
+              "end_time": 218508,
+              "text": "risks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218508,
+              "end_time": 218588,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218668,
+              "end_time": 218668,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 218668,
+              "end_time": 218988,
+              "text": "safe ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219068,
+              "end_time": 219708,
+              "text": "environment ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219708,
+              "end_time": 219868,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 219868,
+              "end_time": 220028,
+              "text": "what ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 220028,
+              "end_time": 220268,
+              "text": "Anna ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 220268,
+              "end_time": 220668,
+              "text": "calls ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 220748,
+              "end_time": 221148,
+              "text": "self",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 221148,
+              "end_time": 221708,
+              "text": "directed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 221708,
+              "end_time": 222108,
+              "text": "play",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 41,
+          "begin_time": 222588,
+          "end_time": 227948,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Here she explains more to Myra Anubi, presenter of BBC programme People Fixing the World.",
+          "words": [
+            {
+              "begin_time": 222588,
+              "end_time": 222828,
+              "text": " Here ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 222828,
+              "end_time": 223068,
+              "text": "she ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 223068,
+              "end_time": 223468,
+              "text": "explains ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 223468,
+              "end_time": 223708,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 223868,
+              "end_time": 223868,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 223868,
+              "end_time": 224268,
+              "text": "Myra ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 224268,
+              "end_time": 224908,
+              "text": "Anubi",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 224988,
+              "end_time": 225388,
+              "text": " presenter ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 225388,
+              "end_time": 225628,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 225628,
+              "end_time": 226028,
+              "text": "BBC ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226108,
+              "end_time": 226588,
+              "text": "programme ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 226748,
+              "end_time": 227068,
+              "text": "People ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227068,
+              "end_time": 227468,
+              "text": "Fixing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227468,
+              "end_time": 227548,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 227548,
+              "end_time": 227948,
+              "text": "World",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 42,
+          "begin_time": 228588,
+          "end_time": 237308,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "So what you're saying is letting kids play free play, actually, or play on their own and kind of come up with the ideas that's really crucial for their development.",
+          "words": [
+            {
+              "begin_time": 228588,
+              "end_time": 229068,
+              "text": "So ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229068,
+              "end_time": 229148,
+              "text": "what ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229148,
+              "end_time": 229308,
+              "text": "you're ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229308,
+              "end_time": 229708,
+              "text": "saying ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229708,
+              "end_time": 229948,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 229948,
+              "end_time": 230348,
+              "text": "letting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 230348,
+              "end_time": 230748,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 230748,
+              "end_time": 231308,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 231468,
+              "end_time": 231708,
+              "text": "free ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 231708,
+              "end_time": 232028,
+              "text": "play",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 232028,
+              "end_time": 232428,
+              "text": " actually",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 232428,
+              "end_time": 232508,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 232508,
+              "end_time": 232908,
+              "text": "play ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 233228,
+              "end_time": 233308,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 233388,
+              "end_time": 233548,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 233548,
+              "end_time": 233868,
+              "text": "own ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 233868,
+              "end_time": 234028,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234028,
+              "end_time": 234268,
+              "text": "kind ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234268,
+              "end_time": 234348,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234348,
+              "end_time": 234588,
+              "text": "come ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234588,
+              "end_time": 234748,
+              "text": "up ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234748,
+              "end_time": 234828,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234828,
+              "end_time": 234908,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 234908,
+              "end_time": 235388,
+              "text": "ideas ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 235388,
+              "end_time": 235628,
+              "text": "that's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 235628,
+              "end_time": 235948,
+              "text": "really ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 235948,
+              "end_time": 236348,
+              "text": "crucial ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236428,
+              "end_time": 236508,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236508,
+              "end_time": 236668,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 236668,
+              "end_time": 237308,
+              "text": "development",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 43,
+          "begin_time": 237628,
+          "end_time": 240268,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " It's 100% crucial for their development.",
+          "words": [
+            {
+              "begin_time": 237628,
+              "end_time": 237868,
+              "text": " It's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 237868,
+              "end_time": 238268,
+              "text": "100% ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 238828,
+              "end_time": 239228,
+              "text": "crucial ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 239228,
+              "end_time": 239308,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 239308,
+              "end_time": 239468,
+              "text": "their ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 239468,
+              "end_time": 240268,
+              "text": "development",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 44,
+          "begin_time": 240348,
+          "end_time": 249308,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " In what I meant when I said that it's protective is that kids build resiliency, confidence, coping strategies, regulation strategies.",
+          "words": [
+            {
+              "begin_time": 240348,
+              "end_time": 240748,
+              "text": " In ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 240748,
+              "end_time": 240908,
+              "text": "what ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 240908,
+              "end_time": 240988,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 240988,
+              "end_time": 241308,
+              "text": "meant ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241308,
+              "end_time": 241388,
+              "text": "when ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241388,
+              "end_time": 241468,
+              "text": "I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241468,
+              "end_time": 241708,
+              "text": "said ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241708,
+              "end_time": 241868,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241868,
+              "end_time": 241948,
+              "text": "it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 241948,
+              "end_time": 242748,
+              "text": "protective ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 242828,
+              "end_time": 242988,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 242988,
+              "end_time": 243148,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243308,
+              "end_time": 243548,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243548,
+              "end_time": 243788,
+              "text": "build ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 243788,
+              "end_time": 244908,
+              "text": "resiliency",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 244908,
+              "end_time": 245948,
+              "text": " confidence",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 246428,
+              "end_time": 246748,
+              "text": " coping ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 246748,
+              "end_time": 247788,
+              "text": "strategies",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 247948,
+              "end_time": 248588,
+              "text": " regulation ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 248588,
+              "end_time": 249308,
+              "text": "strategies",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 45,
+          "begin_time": 249308,
+          "end_time": 255308,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " So many of the skills that we know lead to healthy human development are developed in play.",
+          "words": [
+            {
+              "begin_time": 249308,
+              "end_time": 249388,
+              "text": " So ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 249388,
+              "end_time": 249548,
+              "text": "many ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 249548,
+              "end_time": 249628,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 249628,
+              "end_time": 249708,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 249708,
+              "end_time": 250188,
+              "text": "skills ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 250188,
+              "end_time": 250268,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 250268,
+              "end_time": 250428,
+              "text": "we ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 250428,
+              "end_time": 250988,
+              "text": "know ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 251628,
+              "end_time": 251948,
+              "text": "lead ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252028,
+              "end_time": 252188,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252188,
+              "end_time": 252668,
+              "text": "healthy ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252668,
+              "end_time": 252908,
+              "text": "human ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 252908,
+              "end_time": 253628,
+              "text": "development ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 253708,
+              "end_time": 253788,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 253868,
+              "end_time": 254348,
+              "text": "developed ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254348,
+              "end_time": 254748,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 254908,
+              "end_time": 255308,
+              "text": "play",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 46,
+          "begin_time": 255852,
+          "end_time": 263372,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Myra mentions the importance of free play, and Anna says it's one hundred percent crucial meaning completely.",
+          "words": [
+            {
+              "begin_time": 255852,
+              "end_time": 256252,
+              "text": "Myra ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 256252,
+              "end_time": 256732,
+              "text": "mentions ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 256732,
+              "end_time": 256812,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 256812,
+              "end_time": 257292,
+              "text": "importance ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257292,
+              "end_time": 257372,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257372,
+              "end_time": 257692,
+              "text": "free ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 257692,
+              "end_time": 258092,
+              "text": "play",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 258332,
+              "end_time": 258492,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258492,
+              "end_time": 258652,
+              "text": "Anna ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258732,
+              "end_time": 258972,
+              "text": "says ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 258972,
+              "end_time": 259212,
+              "text": "it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259212,
+              "end_time": 259772,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 259772,
+              "end_time": 260412,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260492,
+              "end_time": 260972,
+              "text": "percent ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 260972,
+              "end_time": 261532,
+              "text": "crucial ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 261932,
+              "end_time": 262332,
+              "text": "meaning ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 262332,
+              "end_time": 263372,
+              "text": "completely",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 47,
+          "begin_time": 264332,
+          "end_time": 270572,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You can also say one hundred percent as an informal response to mean yes, I agree with you completely.",
+          "words": [
+            {
+              "begin_time": 264332,
+              "end_time": 264492,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264492,
+              "end_time": 264652,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264652,
+              "end_time": 264972,
+              "text": "also ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 264972,
+              "end_time": 265292,
+              "text": "say ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265612,
+              "end_time": 265772,
+              "text": "one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 265772,
+              "end_time": 266092,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266092,
+              "end_time": 266492,
+              "text": "percent ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266572,
+              "end_time": 266732,
+              "text": "as ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266732,
+              "end_time": 266812,
+              "text": "an ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 266812,
+              "end_time": 267452,
+              "text": "informal ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 267452,
+              "end_time": 267932,
+              "text": "response ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 268012,
+              "end_time": 268092,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 268092,
+              "end_time": 268332,
+              "text": "mean ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 268572,
+              "end_time": 268972,
+              "text": "yes",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 268972,
+              "end_time": 269212,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269212,
+              "end_time": 269532,
+              "text": "agree ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269532,
+              "end_time": 269692,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269692,
+              "end_time": 269852,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 269852,
+              "end_time": 270572,
+              "text": "completely",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 48,
+          "begin_time": 270892,
+          "end_time": 276812,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Adventure playgrounds have lots of small dangers hard pieces of wood, sharp metal, nails.",
+          "words": [
+            {
+              "begin_time": 270892,
+              "end_time": 270892,
+              "text": " Adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 271372,
+              "end_time": 272012,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272012,
+              "end_time": 272172,
+              "text": "have ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272172,
+              "end_time": 272572,
+              "text": "lots ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272572,
+              "end_time": 272652,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272652,
+              "end_time": 272972,
+              "text": "small ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 272972,
+              "end_time": 273612,
+              "text": "dangers ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 273772,
+              "end_time": 274012,
+              "text": "hard ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 274012,
+              "end_time": 274412,
+              "text": "pieces ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 274412,
+              "end_time": 274492,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 274492,
+              "end_time": 274892,
+              "text": "wood",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 274972,
+              "end_time": 275372,
+              "text": " sharp ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 275372,
+              "end_time": 276012,
+              "text": "metal",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 276172,
+              "end_time": 276812,
+              "text": " nails",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 49,
+          "begin_time": 277132,
+          "end_time": 288492,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " According to Anna, taking small risks when playing with these makes kids more resilient and builds coping strategies a term for the psychological ways children develop to manage challenging situations.",
+          "words": [
+            {
+              "begin_time": 277132,
+              "end_time": 277132,
+              "text": " According ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277532,
+              "end_time": 277532,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 277612,
+              "end_time": 278012,
+              "text": "Anna",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 278252,
+              "end_time": 278572,
+              "text": " taking ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 278572,
+              "end_time": 278892,
+              "text": "small ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 278892,
+              "end_time": 279292,
+              "text": "risks ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279292,
+              "end_time": 279452,
+              "text": "when ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279452,
+              "end_time": 279772,
+              "text": "playing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279772,
+              "end_time": 279932,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 279932,
+              "end_time": 280172,
+              "text": "these ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 280252,
+              "end_time": 280572,
+              "text": "makes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 280572,
+              "end_time": 280812,
+              "text": "kids ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 280812,
+              "end_time": 281052,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281052,
+              "end_time": 281612,
+              "text": "resilient ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281692,
+              "end_time": 281772,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 281852,
+              "end_time": 282092,
+              "text": "builds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282172,
+              "end_time": 282652,
+              "text": "coping ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 282652,
+              "end_time": 283372,
+              "text": "strategies ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 283932,
+              "end_time": 284012,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284012,
+              "end_time": 284332,
+              "text": "term ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284332,
+              "end_time": 284412,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284412,
+              "end_time": 284492,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 284492,
+              "end_time": 285292,
+              "text": "psychological ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285292,
+              "end_time": 285612,
+              "text": "ways ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 285612,
+              "end_time": 286012,
+              "text": "children ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 286012,
+              "end_time": 286492,
+              "text": "develop ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 286652,
+              "end_time": 286652,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 286652,
+              "end_time": 287052,
+              "text": "manage ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287052,
+              "end_time": 287612,
+              "text": "challenging ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 287612,
+              "end_time": 288492,
+              "text": "situations",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 50,
+          "begin_time": 288892,
+          "end_time": 291772,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " And Phil, I think it's time for the answer to your quiz question.",
+          "words": [
+            {
+              "begin_time": 288892,
+              "end_time": 289052,
+              "text": " And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289052,
+              "end_time": 289292,
+              "text": "Phil",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 289292,
+              "end_time": 289452,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289452,
+              "end_time": 289612,
+              "text": "think ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289612,
+              "end_time": 289772,
+              "text": "it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 289772,
+              "end_time": 290012,
+              "text": "time ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290012,
+              "end_time": 290172,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290172,
+              "end_time": 290252,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290252,
+              "end_time": 290572,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290732,
+              "end_time": 290732,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290732,
+              "end_time": 290972,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 290972,
+              "end_time": 291212,
+              "text": "quiz ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 291212,
+              "end_time": 291772,
+              "text": "question",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 51,
+          "begin_time": 292092,
+          "end_time": 296092,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Yes, I asked you in which country adventure playgrounds started.",
+          "words": [
+            {
+              "begin_time": 292092,
+              "end_time": 292412,
+              "text": " Yes",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 292412,
+              "end_time": 292652,
+              "text": " I ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292652,
+              "end_time": 292812,
+              "text": "asked ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292812,
+              "end_time": 292972,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 292972,
+              "end_time": 293212,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293292,
+              "end_time": 293612,
+              "text": "which ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 293612,
+              "end_time": 294172,
+              "text": "country ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 294412,
+              "end_time": 294812,
+              "text": "adventure ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 294812,
+              "end_time": 295372,
+              "text": "playgrounds ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 295372,
+              "end_time": 296092,
+              "text": "started",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 52,
+          "begin_time": 296252,
+          "end_time": 300812,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " You said France, but I'm afraid the correct answer was Denmark.",
+          "words": [
+            {
+              "begin_time": 296252,
+              "end_time": 296492,
+              "text": " You ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 297292,
+              "end_time": 297452,
+              "text": "said ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 297532,
+              "end_time": 298252,
+              "text": "France",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 298412,
+              "end_time": 298572,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298572,
+              "end_time": 298652,
+              "text": "I'm ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298652,
+              "end_time": 298972,
+              "text": "afraid ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 298972,
+              "end_time": 299052,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 299052,
+              "end_time": 299452,
+              "text": "correct ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 299452,
+              "end_time": 299772,
+              "text": "answer ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 299772,
+              "end_time": 299932,
+              "text": "was ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 300172,
+              "end_time": 300812,
+              "text": "Denmark",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 53,
+          "begin_time": 300972,
+          "end_time": 304412,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " They were introduced by Danish architect Carl Theodor Sorensen.",
+          "words": [
+            {
+              "begin_time": 300972,
+              "end_time": 301052,
+              "text": " They ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301052,
+              "end_time": 301132,
+              "text": "were ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301132,
+              "end_time": 301612,
+              "text": "introduced ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301612,
+              "end_time": 301772,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 301772,
+              "end_time": 302252,
+              "text": "Danish ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 302252,
+              "end_time": 302892,
+              "text": "architect ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 302972,
+              "end_time": 303372,
+              "text": "Carl ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 303532,
+              "end_time": 303852,
+              "text": "Theodor ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 303852,
+              "end_time": 304412,
+              "text": "Sorensen",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 54,
+          "begin_time": 305596,
+          "end_time": 308396,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "Okay, let's recap the vocabulary we've learned.",
+          "words": [
+            {
+              "begin_time": 305596,
+              "end_time": 305836,
+              "text": "Okay",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 306316,
+              "end_time": 306636,
+              "text": " let's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 306636,
+              "end_time": 307116,
+              "text": "recap ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307116,
+              "end_time": 307196,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307196,
+              "end_time": 307756,
+              "text": "vocabulary ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 307756,
+              "end_time": 308076,
+              "text": "we've ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 308076,
+              "end_time": 308396,
+              "text": "learned",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 55,
+          "begin_time": 308636,
+          "end_time": 315916,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Starting with the phrase 'at first glance', where you see something quickly without a chance to consider it more carefully.",
+          "words": [
+            {
+              "begin_time": 308636,
+              "end_time": 309036,
+              "text": " Starting ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309036,
+              "end_time": 309196,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309196,
+              "end_time": 309276,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309276,
+              "end_time": 309756,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 309916,
+              "end_time": 310076,
+              "text": "'at ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310156,
+              "end_time": 310636,
+              "text": "first ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 310716,
+              "end_time": 311356,
+              "text": "glance'",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 311836,
+              "end_time": 311996,
+              "text": " where ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 311996,
+              "end_time": 312076,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312076,
+              "end_time": 312236,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312236,
+              "end_time": 312716,
+              "text": "something ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 312716,
+              "end_time": 313276,
+              "text": "quickly ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313436,
+              "end_time": 313836,
+              "text": "without ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313836,
+              "end_time": 313836,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 313916,
+              "end_time": 314316,
+              "text": "chance ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314316,
+              "end_time": 314396,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314396,
+              "end_time": 314956,
+              "text": "consider ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314956,
+              "end_time": 314956,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 314956,
+              "end_time": 315196,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 315196,
+              "end_time": 315916,
+              "text": "carefully",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 56,
+          "begin_time": 316396,
+          "end_time": 320716,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " A hidey-hole is a small place for hiding things in, or hiding yourself in.",
+          "words": [
+            {
+              "begin_time": 316396,
+              "end_time": 316476,
+              "text": " A ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 316476,
+              "end_time": 316956,
+              "text": "hidey",
+              "punctuation": "-"
+            },
+            {
+              "begin_time": 316956,
+              "end_time": 317276,
+              "text": "hole ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317276,
+              "end_time": 317436,
+              "text": "is ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317436,
+              "end_time": 317516,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317516,
+              "end_time": 317836,
+              "text": "small ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 317836,
+              "end_time": 318156,
+              "text": "place ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318156,
+              "end_time": 318236,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318316,
+              "end_time": 318636,
+              "text": "hiding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318636,
+              "end_time": 318876,
+              "text": "things ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 318956,
+              "end_time": 319116,
+              "text": "in",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 319436,
+              "end_time": 319756,
+              "text": " or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 319756,
+              "end_time": 320076,
+              "text": "hiding ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 320076,
+              "end_time": 320476,
+              "text": "yourself ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 320476,
+              "end_time": 320716,
+              "text": "in",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 57,
+          "begin_time": 321196,
+          "end_time": 326876,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " If people tend to do something, they do it often and will probably continue to do it in the future.",
+          "words": [
+            {
+              "begin_time": 321196,
+              "end_time": 321356,
+              "text": " If ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321356,
+              "end_time": 321756,
+              "text": "people ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 321836,
+              "end_time": 322316,
+              "text": "tend ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322316,
+              "end_time": 322396,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322396,
+              "end_time": 322556,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 322556,
+              "end_time": 323036,
+              "text": "something",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 323436,
+              "end_time": 323516,
+              "text": " they ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323516,
+              "end_time": 323756,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323756,
+              "end_time": 323916,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 323916,
+              "end_time": 324396,
+              "text": "often ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324396,
+              "end_time": 324396,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324476,
+              "end_time": 324636,
+              "text": "will ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 324716,
+              "end_time": 325276,
+              "text": "probably ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325276,
+              "end_time": 325756,
+              "text": "continue ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325836,
+              "end_time": 325836,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 325836,
+              "end_time": 326076,
+              "text": "do ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326076,
+              "end_time": 326156,
+              "text": "it ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326156,
+              "end_time": 326316,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326316,
+              "end_time": 326316,
+              "text": "the ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 326316,
+              "end_time": 326876,
+              "text": "future",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 58,
+          "begin_time": 327356,
+          "end_time": 330236,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " The phrase 'by far' means by a great amount.",
+          "words": [
+            {
+              "begin_time": 327356,
+              "end_time": 327436,
+              "text": " The ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327436,
+              "end_time": 327836,
+              "text": "phrase ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 327916,
+              "end_time": 328076,
+              "text": "'by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328076,
+              "end_time": 328636,
+              "text": "far' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 328716,
+              "end_time": 329036,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329036,
+              "end_time": 329356,
+              "text": "by ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329356,
+              "end_time": 329356,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329436,
+              "end_time": 329756,
+              "text": "great ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 329756,
+              "end_time": 330236,
+              "text": "amount",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 59,
+          "begin_time": 331036,
+          "end_time": 338316,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Saying 'one hundred percent' means completely, and can be used to emphasise a statement or show that you totally agree with it.",
+          "words": [
+            {
+              "begin_time": 331036,
+              "end_time": 331436,
+              "text": " Saying ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331596,
+              "end_time": 331916,
+              "text": "'one ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 331916,
+              "end_time": 332236,
+              "text": "hundred ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332236,
+              "end_time": 332796,
+              "text": "percent' ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 332796,
+              "end_time": 333116,
+              "text": "means ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 333196,
+              "end_time": 333916,
+              "text": "completely",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 334316,
+              "end_time": 334476,
+              "text": " and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334476,
+              "end_time": 334716,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334716,
+              "end_time": 334956,
+              "text": "be ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 334956,
+              "end_time": 335116,
+              "text": "used ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335116,
+              "end_time": 335196,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335196,
+              "end_time": 335196,
+              "text": "emphasise ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335756,
+              "end_time": 335756,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 335836,
+              "end_time": 336316,
+              "text": "statement ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336396,
+              "end_time": 336556,
+              "text": "or ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336556,
+              "end_time": 336876,
+              "text": "show ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336876,
+              "end_time": 336956,
+              "text": "that ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 336956,
+              "end_time": 337196,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337196,
+              "end_time": 337676,
+              "text": "totally ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337676,
+              "end_time": 337996,
+              "text": "agree ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 337996,
+              "end_time": 338156,
+              "text": "with ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 338236,
+              "end_time": 338316,
+              "text": "it",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 60,
+          "begin_time": 338860,
+          "end_time": 345020,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "And finally, coping strategies are psychological ways of managing your emotions in challenging situations.",
+          "words": [
+            {
+              "begin_time": 338860,
+              "end_time": 339020,
+              "text": "And ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 339020,
+              "end_time": 339740,
+              "text": "finally",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 339740,
+              "end_time": 340220,
+              "text": " coping ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340220,
+              "end_time": 340780,
+              "text": "strategies ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 340860,
+              "end_time": 341020,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341020,
+              "end_time": 341820,
+              "text": "psychological ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 341820,
+              "end_time": 342140,
+              "text": "ways ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 342140,
+              "end_time": 342300,
+              "text": "of ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 342300,
+              "end_time": 342780,
+              "text": "managing ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 342780,
+              "end_time": 342940,
+              "text": "your ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 342940,
+              "end_time": 343500,
+              "text": "emotions ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 343500,
+              "end_time": 343660,
+              "text": "in ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 343660,
+              "end_time": 344140,
+              "text": "challenging ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 344140,
+              "end_time": 345020,
+              "text": "situations",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 61,
+          "begin_time": 345340,
+          "end_time": 354860,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Once again, our six minutes are up, but remember you can find many more trending topics, plus a quiz and worksheet for this episode on our website, bbclearningenglish.",
+          "words": [
+            {
+              "begin_time": 345340,
+              "end_time": 345580,
+              "text": " Once ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 345580,
+              "end_time": 345980,
+              "text": "again",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 346060,
+              "end_time": 346220,
+              "text": " our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346220,
+              "end_time": 346460,
+              "text": "six ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346460,
+              "end_time": 346780,
+              "text": "minutes ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346780,
+              "end_time": 346860,
+              "text": "are ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 346860,
+              "end_time": 347020,
+              "text": "up",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 347180,
+              "end_time": 347340,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347420,
+              "end_time": 347900,
+              "text": "remember ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 347980,
+              "end_time": 348140,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348140,
+              "end_time": 348300,
+              "text": "can ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348300,
+              "end_time": 348620,
+              "text": "find ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348620,
+              "end_time": 348940,
+              "text": "many ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 348940,
+              "end_time": 349180,
+              "text": "more ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 349180,
+              "end_time": 349580,
+              "text": "trending ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 349580,
+              "end_time": 350060,
+              "text": "topics",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 350140,
+              "end_time": 350380,
+              "text": " plus ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 350380,
+              "end_time": 350460,
+              "text": "a ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 350460,
+              "end_time": 350860,
+              "text": "quiz ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 350860,
+              "end_time": 351100,
+              "text": "and ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 351100,
+              "end_time": 351580,
+              "text": "worksheet ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 351580,
+              "end_time": 351660,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 351660,
+              "end_time": 351820,
+              "text": "this ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 351900,
+              "end_time": 352460,
+              "text": "episode ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352540,
+              "end_time": 352620,
+              "text": "on ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352620,
+              "end_time": 352780,
+              "text": "our ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 352780,
+              "end_time": 353340,
+              "text": "website",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 353580,
+              "end_time": 354860,
+              "text": " bbclearningenglish",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 62,
+          "begin_time": 354860,
+          "end_time": 355340,
+          "language": "en",
+          "emotion": "neutral",
+          "text": "com.",
+          "words": [
+            {
+              "begin_time": 354860,
+              "end_time": 355340,
+              "text": "com",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 63,
+          "begin_time": 355340,
+          "end_time": 358220,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Hope to see you there soon, but for now, it's goodbye.",
+          "words": [
+            {
+              "begin_time": 355340,
+              "end_time": 355420,
+              "text": " Hope ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 355420,
+              "end_time": 355420,
+              "text": "to ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 356060,
+              "end_time": 356460,
+              "text": "see ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 356460,
+              "end_time": 356460,
+              "text": "you ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 356460,
+              "end_time": 356620,
+              "text": "there ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 356620,
+              "end_time": 357020,
+              "text": "soon",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 357020,
+              "end_time": 357180,
+              "text": " but ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 357180,
+              "end_time": 357260,
+              "text": "for ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 357260,
+              "end_time": 357580,
+              "text": "now",
+              "punctuation": ","
+            },
+            {
+              "begin_time": 357580,
+              "end_time": 357740,
+              "text": " it's ",
+              "punctuation": ""
+            },
+            {
+              "begin_time": 357740,
+              "end_time": 358220,
+              "text": "goodbye",
+              "punctuation": "."
+            }
+          ]
+        },
+        {
+          "sentence_id": 64,
+          "begin_time": 358620,
+          "end_time": 359260,
+          "language": "en",
+          "emotion": "neutral",
+          "text": " Goodbye.",
+          "words": [
+            {
+              "begin_time": 358620,
+              "end_time": 359260,
+              "text": " Goodbye",
+              "punctuation": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

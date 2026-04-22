@@ -1,6 +1,5 @@
 import audioValidator from '../utils/audioValidator.js';
 import { transcribe } from '../services/speechRecognitionService.js';
-import { splitSentences } from '../services/sentenceSplitterService.js';
 import fs from 'fs';
 import path from 'path';
 import {
@@ -9,6 +8,26 @@ import {
     getItemPaths,
     upsertIndexItem,
 } from '../services/historyService.js';
+
+function toPracticeSentences(transcription) {
+    const segments = Array.isArray(transcription?.segments) ? transcription.segments : [];
+
+    return segments
+        .map((segment) => {
+            const text = (segment?.text ?? '').trim();
+            const words = Array.isArray(segment?.words) && segment.words.length > 0
+                ? segment.words
+                    .map((word) => (word?.word ?? '').trim())
+                    .filter(Boolean)
+                : text.split(/\s+/).filter(Boolean);
+
+            const start = Number.isFinite(segment?.start) ? segment.start : 0;
+            const end = Number.isFinite(segment?.end) ? segment.end : start;
+
+            return { text, start, end, words };
+        })
+        .filter((sentence) => sentence.text || sentence.words.length > 0);
+}
 
 export async function transcribeAudio(req, res) {
     try {
@@ -33,8 +52,8 @@ export async function transcribeAudio(req, res) {
         // 调用语音识别（这是异步的，可能需要几十秒）
         const { parsed: transcription, rawJson } = await transcribe(filePath);
 
-        // 自动断句
-        const sentences = splitSentences(transcription);
+        // 直接使用远程语音识别返回的句子，不做本地二次切分
+        const sentences = toPracticeSentences(transcription);
 
         // 写入历史缓存（音频+转写原文+派生练习数据+索引）
         try {

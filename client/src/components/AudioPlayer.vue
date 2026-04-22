@@ -69,12 +69,36 @@ function playCurrentSentence() {
   el.play()
 }
 
+function playOrResumeCurrentSentence() {
+  if (!canPlaySentence.value) return
+  const el = ensureAudio()
+  const start = Math.max(0, sentenceStart.value)
+  const end = sentenceEnd.value
+
+  sentenceMode.value = true
+  if (el.currentTime < start || el.currentTime >= end) {
+    el.currentTime = start
+  }
+  applyRate()
+  el.play()
+}
+
 function pauseSentence() {
   const el = audioEl.value
   if (!el) return
   if (!el.paused) {
     el.pause()
   }
+}
+
+function toggleCurrentSentencePlayback() {
+  if (!canPlaySentence.value) return
+  const el = audioEl.value
+  if (el && !el.paused && sentenceMode.value) {
+    pauseSentence()
+    return
+  }
+  playOrResumeCurrentSentence()
 }
 
 function onTimeUpdate() {
@@ -116,6 +140,7 @@ onBeforeUnmount(() => {
 defineExpose({
   togglePlay,
   playCurrentSentence,
+  toggleCurrentSentencePlayback,
   pauseSentence,
   isPlaying,
   playbackRate,

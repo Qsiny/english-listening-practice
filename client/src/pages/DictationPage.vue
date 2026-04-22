@@ -133,15 +133,15 @@
 
           <!-- ✅ 小喇叭和小眼睛放在正确提示下方 -->
           <div class="toolbar">
-            <button class="tool" @click="playSentence" title="播放本句">
+            <button class="tool" @click="playSentence" title="播放本句（mac: Control + R）">
               🔊
             </button>
 
             <button
               class="tool"
               :class="isPlaying ? 'playing' : 'ghost'"
-              @click="isPlaying ? pauseSentence() : playSentence()"
-              :title="isPlaying ? '暂停' : '继续播放'"
+              @click="toggleSentencePlayback"
+              :title="isPlaying ? '暂停本句（Enter）' : '播放本句（Enter）'"
             >
               {{ isPlaying ? '⏸' : '▶' }}
             </button>
@@ -158,7 +158,7 @@
           </div>
         </div>
 
-        <div class="tip">输入后按 <b>Space</b> 校验并跳到下一词</div>
+        <div class="tip">输入后按 <b>Space</b> 校验并跳到下一词；mac 按 <b>Control + R</b> 重播本句；按 <b>Enter</b> 播放/暂停本句</div>
       </div>
     </main>
 
@@ -187,7 +187,7 @@ const props = defineProps({
   },
 })
 
-const emit = defineEmits(['play-sentence', 'pause-sentence', 'set-playback-rate', 'restart'])
+const emit = defineEmits(['play-sentence', 'toggle-sentence-playback', 'pause-sentence', 'set-playback-rate', 'restart'])
 const practice = usePracticeStore()
 
 // 侧边栏状态
@@ -372,6 +372,10 @@ function playSentence() {
 
 function pauseSentence() {
   emit('pause-sentence')
+}
+
+function toggleSentencePlayback() {
+  emit('toggle-sentence-playback')
 }
 
 // ── 输入 & Space 校验 ──
