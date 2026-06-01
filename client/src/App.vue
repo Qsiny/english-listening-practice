@@ -21,6 +21,7 @@
         :playback-rate="playerRef?.playbackRate ?? 1"
         @play-sentence="playerRef?.playCurrentSentence()"
         @toggle-sentence-playback="playerRef?.toggleCurrentSentencePlayback()"
+        @seek-sentence="(delta) => playerRef?.seekCurrentSentenceBy(delta)"
         @pause-sentence="playerRef?.pauseSentence()"
         @set-playback-rate="(r) => playerRef?.setPlaybackRate(r)"
         @restart="handleRestart"
@@ -44,6 +45,10 @@ const mode = computed(() => (practice.hasData ? 'dictation' : 'upload'))
 
 function playSentence() {
   playerRef.value?.playCurrentSentence?.()
+}
+
+function seekSentence(delta) {
+  playerRef.value?.seekCurrentSentenceBy?.(delta)
 }
 
 function restartToUpload() {
@@ -90,6 +95,14 @@ function isToggleSentenceShortcut(e) {
   return !e.metaKey && !e.ctrlKey && !e.altKey && e.key === 'Enter'
 }
 
+function isSeekBackwardShortcut(e) {
+  return e.ctrlKey && !e.metaKey && !e.altKey && (e.code === 'BracketLeft' || e.key === '[')
+}
+
+function isSeekForwardShortcut(e) {
+  return e.ctrlKey && !e.metaKey && !e.altKey && (e.code === 'BracketRight' || e.key === ']')
+}
+
 function onKeydown(e) {
   if (!practice.hasData) return
 
@@ -104,6 +117,20 @@ function onKeydown(e) {
   if (isToggleSentenceShortcut(e)) {
     e.preventDefault()
     playerRef.value?.toggleCurrentSentencePlayback?.()
+    return
+  }
+
+  // Control + [：本句内后退 3 秒（输入中也可用）
+  if (isSeekBackwardShortcut(e)) {
+    e.preventDefault()
+    seekSentence(-3)
+    return
+  }
+
+  // Control + ]：本句内前进 3 秒（输入中也可用）
+  if (isSeekForwardShortcut(e)) {
+    e.preventDefault()
+    seekSentence(3)
     return
   }
 

@@ -133,6 +133,14 @@
 
           <!-- ✅ 小喇叭和小眼睛放在正确提示下方 -->
           <div class="toolbar">
+            <button
+              class="tool ghost"
+              @click="seekSentenceBackward"
+              title="本句后退 3 秒（Control + [）"
+            >
+              ⏪
+            </button>
+
             <button class="tool" @click="playSentence" title="播放本句（mac: Control + R）">
               🔊
             </button>
@@ -155,10 +163,18 @@
             >
               👁
             </button>
+
+            <button
+              class="tool ghost"
+              @click="seekSentenceForward"
+              title="本句前进 3 秒（Control + ]）"
+            >
+              ⏩
+            </button>
           </div>
         </div>
 
-        <div class="tip">输入后按 <b>Space</b> 校验并跳到下一词；mac 按 <b>Control + R</b> 重播本句；按 <b>Enter</b> 播放/暂停本句</div>
+        <div class="tip">输入后按 <b>Space</b> 校验并跳到下一词；mac 按 <b>Control + R</b> 重播本句；按 <b>Enter</b> 播放/暂停本句；按 <b>Control + [</b>/<b>Control + ]</b> 句内前后 3 秒</div>
       </div>
     </main>
 
@@ -187,7 +203,7 @@ const props = defineProps({
   },
 })
 
-const emit = defineEmits(['play-sentence', 'toggle-sentence-playback', 'pause-sentence', 'set-playback-rate', 'restart'])
+const emit = defineEmits(['play-sentence', 'toggle-sentence-playback', 'seek-sentence', 'pause-sentence', 'set-playback-rate', 'restart'])
 const practice = usePracticeStore()
 
 // 侧边栏状态
@@ -376,6 +392,14 @@ function pauseSentence() {
 
 function toggleSentencePlayback() {
   emit('toggle-sentence-playback')
+}
+
+function seekSentenceBackward() {
+  emit('seek-sentence', -3)
+}
+
+function seekSentenceForward() {
+  emit('seek-sentence', 3)
 }
 
 // ── 输入 & Space 校验 ──

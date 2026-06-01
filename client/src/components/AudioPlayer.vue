@@ -33,6 +33,10 @@ const canPlaySentence = computed(() => {
   return !!s && typeof s.start === 'number' && typeof s.end === 'number' && s.end > s.start
 })
 
+function clamp(value, min, max) {
+  return Math.min(Math.max(value, min), max)
+}
+
 function ensureAudio() {
   const el = audioEl.value
   if (!el) throw new Error('audio element not ready')
@@ -101,6 +105,19 @@ function toggleCurrentSentencePlayback() {
   playOrResumeCurrentSentence()
 }
 
+function seekCurrentSentenceBy(deltaSeconds) {
+  if (!canPlaySentence.value) return
+  const el = audioEl.value
+  if (!el) return
+
+  const start = Math.max(0, sentenceStart.value)
+  const end = sentenceEnd.value
+  const target = clamp(el.currentTime + deltaSeconds, start, end)
+
+  sentenceMode.value = true
+  el.currentTime = target
+}
+
 function onTimeUpdate() {
   if (!sentenceMode.value) return
   const el = audioEl.value
@@ -141,6 +158,7 @@ defineExpose({
   togglePlay,
   playCurrentSentence,
   toggleCurrentSentencePlayback,
+  seekCurrentSentenceBy,
   pauseSentence,
   isPlaying,
   playbackRate,
