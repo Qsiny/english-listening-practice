@@ -6,7 +6,7 @@
 ## 功能特性
 
 - 音频上传（服务端接收）
-- 上传至阿里云 OSS，生成公网可访问 URL（Bucket 公共读）
+- 上传至 AList/NAS，生成公网可访问下载 URL
 - 调用 DashScope 异步 ASR（`qwen3-asr-flash-filetrans`）获取转写
 - 句子/单词切分（保留 `'`、`,` 等标点作为拼写的一部分）
 - 拼写练习界面
@@ -25,7 +25,7 @@
 - `client/`：前端（Vue）
 - `server/`：后端（Express）
   - `routes/transcribe.js`：音频上传与转写接口
-  - `services/ossService.js`：OSS 上传工具
+  - `services/alistService.js`：AList/NAS 上传工具
   - `services/speechRecognitionService.js`：DashScope ASR 调用与结果解析
   - `services/sentenceSplitterService.js`：句子切分与 words 生成
 
@@ -33,7 +33,7 @@
 
 - Node.js（建议 18+）
 - npm
-- 阿里云 OSS Bucket（建议：公共读或支持签名 URL）
+- AList 服务，且音频下载地址需要能被 DashScope 公网访问
 - DashScope API Key（百炼）
 
 ## 安装与运行
@@ -78,7 +78,8 @@ npm run dev
 后端读取 `server/.env`（仅本地使用，禁止提交）：
 
 - `DASHSCOPE_API_KEY`：DashScope API Key
-- `OSS_REGION`：OSS Region（例：`oss-cn-shenzhen`）
-- `OSS_BUCKET`：Bucket 名称
-- `OSS_ACCESS_KEY_ID` / `OSS_ACCESS_KEY_SECRET`：OSS 访问凭证（建议用 RAM 子账号 + 最小权限）
-- 可选：`OSS_DELETE_AFTER_TRANSCRIBE=true`（转写完成后删除 OSS 对象）
+- `ALIST_BASE_URL`：AList 服务地址（例：`http://nat269.yyboxdns.com:48100`）
+- `ALIST_USERNAME` / `ALIST_PASSWORD`：AList 上传账号
+- `ALIST_UPLOAD_DIR`：AList 目标目录（例：`/audios/`）
+- 可选：`ALIST_PUBLIC_BASE_URL`：DashScope 拉取音频时使用的公网地址；未配置时使用 `ALIST_BASE_URL`
+- 可选：`ALIST_AUTH_PREFIX`：AList API 鉴权前缀，默认不加前缀；仅当你的 AList 实例要求时再配置

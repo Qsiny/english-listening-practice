@@ -1,16 +1,11 @@
 import fs from 'fs';
-import { uploadAudioToOSS, deleteOSSObject } from './ossService.js';
+import { uploadAudioToAList } from './alistService.js';
 
 const DASHSCOPE_API_KEY = process.env.DASHSCOPE_API_KEY;
 const BASE_URL = 'https://dashscope.aliyuncs.com/api/v1';
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
-}
-
-function forceHttps(url) {
-  if (!url) return url;
-  return url.replace(/^http:\/\//i, 'https://');
 }
 
 /**
@@ -187,46 +182,31 @@ function parseDirectResult(data) {
 
 /**
  * 主函数：转写音频文件
- * 核心变化：先上传 OSS（public-read）-> 直接使用 publicUrl 调百炼 ASR
+ * 核心变化：先上传 AList/NAS -> 直接使用公网下载 URL 调百炼 ASR
  */
 export async function transcribe(filePath) {
   if (!DASHSCOPE_API_KEY) throw new Error('请在 server/.env 中配置 DASHSCOPE_API_KEY');
   if (!fs.existsSync(filePath)) throw new Error(`音频文件不存在: ${filePath}`);
 
-  // 1) 上传到 OSS（public-read）
-  const { objectKey, publicUrl } = await uploadAudioToOSS(filePath, {
-    prefix: 'english-listening-practice/audio/',
-    privateAcl: false, // 你说已改为公共可读
-  });
+  // 1) 上传到 AList/NAS
+  const { publicUrl } = await uploadAudioToAList(filePath);
 
   if (!publicUrl) {
-    throw new Error('OSS 上传后未返回 publicUrl');
+    throw new Error('AList 上传后未返回 publicUrl');
   }
 
-  const fileUrl = forceHttps(publicUrl);
+  const fileUrl = publicUrl;
 
-  try {
-    // 2) 提交任务
-    const taskId = await submitTranscriptionTask(fileUrl);
+  // 2) 提交任务
+  const taskId = await submitTranscriptionTask(fileUrl);
 
-    // 3) 轮询结果
-    const taskResult = await pollTaskResult(taskId);
+  // 3) 轮询结果
+  const taskResult = await pollTaskResult(taskId);
 
-    // 4) 解析
-    const parsed = parseTranscriptionResult(taskResult);
-    if (parsed.needFetch && parsed.transcriptionUrl) {
-      return await fetchTranscriptionDetail(parsed.transcriptionUrl);
-    }
-    return { rawJson: null, parsed };
-  } finally {
-    // 可选：转写完成后删除 OSS 对象
-    const SHOULD_DELETE = process.env.OSS_DELETE_AFTER_TRANSCRIBE === 'true';
-    if (SHOULD_DELETE) {
-      try {
-        await deleteOSSObject(objectKey);
-      } catch {
-        // ignore
-      }
-    }
+  // 4) 解析
+  const parsed = parseTranscriptionResult(taskResult);
+  if (parsed.needFetch && parsed.transcriptionUrl) {
+    return await fetchTranscriptionDetail(parsed.transcriptionUrl);
   }
+  return { rawJson: null, parsed };
 }
